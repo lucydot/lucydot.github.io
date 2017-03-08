@@ -22,6 +22,6 @@ TODO
 ---
 
 - [ ] Insert image at bottom of menu 
-- [ ] Change favicon
+- [x] Change favicon
 - [ ] ...write some posts
 - [x] Change background colour of code block in markdown
