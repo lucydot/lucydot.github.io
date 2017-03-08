@@ -6,17 +6,16 @@
     <description>Recent content in Blogs on Lucydot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2017 12:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 14:30:38 +0000</lastBuildDate>
     <atom:link href="https://lucydot.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello world</title>
       <link>https://lucydot.github.io/blog/hello-world/</link>
-      <pubDate>Wed, 08 Mar 2017 12:57:38 +0000</pubDate>
+      <pubDate>Wed, 08 Mar 2017 14:30:38 +0000</pubDate>
       
       <guid>https://lucydot.github.io/blog/hello-world/</guid>
-      <description>&lt;p&gt;Hey world.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
