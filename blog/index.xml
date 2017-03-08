@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucydot</title>
-    <link>https://lucydot.github.io/index.xml</link>
-    <description>Recent content on Lucydot</description>
+    <title>Blogs on Lucydot</title>
+    <link>https://lucydot.github.io/blog/index.xml</link>
+    <description>Recent content in Blogs on Lucydot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Mar 2017 12:57:38 +0000</lastBuildDate>
-    <atom:link href="https://lucydot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucydot.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello world</title>
