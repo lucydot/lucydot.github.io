@@ -17,10 +17,11 @@ Tweaks
 ``` sass --watch theme.scss:theme.css```
  * minified using 
 ``` curl -X POST -s --data-urlencode 'input@theme.css' http://cssminifier.com/raw > theme.min.css```
-
+* changed code highlighting by linking to highlight.js library of choice ([highlightjs.html](layouts/partials/highlightjs.html) 
 TODO
 ---
 
 - [ ] Insert image at bottom of menu 
 - [ ] Change favicon
 - [ ] ...write some posts
+- [x] Change background colour of code block in markdown

@@ -1065,7 +1065,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857;
-  color: #e5e5e5;
+  color: #191919;
   background-color: #fff; }
 
 input,
@@ -1077,10 +1077,10 @@ textarea {
   line-height: inherit; }
 
 a {
-  color: #2aa198;
+  color: #00b2b2;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #1a645f;
+    color: #006666;
     text-decoration: underline; }
   a:focus {
     outline: 5px auto -webkit-focus-ring-color;
@@ -2259,7 +2259,7 @@ ul.pagination {
     ul.pagination li.active {
       text-decoration: underline; }
     ul.pagination li.disabled a {
-      color: #e5e5e5; }
+      color: #191919; }
 
 html {
   height: 100%; }
@@ -2269,7 +2269,7 @@ body {
   height: 100%;
   font-family: 'Source Code Pro';
   background-color: #ffffff;
-  color: #e5e5e5;
+  color: #191919;
   overflow-x: hidden; }
 
 .page-container {
@@ -2277,9 +2277,9 @@ body {
   min-height: 100%; }
 
 a {
-  color: #2aa198; }
+  color: #00b2b2; }
   a:hover {
-    color: #2aa198;
+    color: #00b2b2;
     text-decoration: underline; }
 
 .content {
@@ -2323,9 +2323,9 @@ a {
       .menu nav ul li:before {
         margin-right: 8px; }
       .menu nav ul li:hover {
-        background-color: #003b4a; }
+        background-color: #00ffff; }
       .menu nav ul li a, .menu nav ul li a:hover {
-        color: #e5e5e5;
+        color: #191919;
         text-decoration: none; }
   @media (max-width: 991px) {
     .menu nav h3 {
