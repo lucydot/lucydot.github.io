@@ -65,7 +65,10 @@
     
     <article>
         <h3><a href="https://lucydot.github.io/blog/test-notebook/">test notebook</a> - 08-03-2017 18:22:44</h3>
-        Notes  Test (184) to see if SoC makes a difference. Make a decision: SoC or not. Check that I have selected right options for Born effective charge / dielectric constant if needed. Get free IR spectra to see if working. If so, NWRITE=3 for CdTe. Can use CHGCAR as starting point in phonons? tetrahedron method is supposed to converge faster than the others  Commands  ATOM_TYPE is important and must correspond to the numbers on sixth line of the POSCAR PRIMITIVE_AXIS needs to be used to map supercells built from conventional cells onto primitive cell band structures Create the displaced structures for a defective cell: phonopy -d --dim='1 1 1' --tolerance=1e-4 If using the tolerance tag this must continue to be used for the FORCE_SETS generation and any subsequent band/dos calculations Create FORCE_SETS: phonopy -f disp/{001.
+         Perfect CdTe (444 supercell)  Tested for convergence of thermal props and DOS on 48 48 48 and 60 60 60 k-mesh  Animation Thanks to Adam, it&rsquo;s super easy to generate lovely .gif files of the phonon modes
+1) Generate .ascii file in phonopy (choosing the phonon q):
+phonopy anime.conf  2) Call ascii-phonons to do it&rsquo;s magic:
+~/Applications/ascii-phonons/scripts/ascii-phonons anime.ascii -m 0 --gif -d 4 4 4 -o pretty0  
     </article>
     
     <article>
