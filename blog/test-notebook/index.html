@@ -1,0 +1,191 @@
+<!doctype html>
+<html>
+<head>
+    <base href="/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="author" content="Lucy Whalley">
+
+<meta name="description" content="">
+
+<title>test notebook</title>
+<meta name="generator" content="Hugo 0.19" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/styles/pojoaque.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" rel="stylesheet" type="text/css">
+<link  href="https://lucydot.github.io/css/theme.min.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="page-container container-fluid">
+<div class="col-md-3 menu">
+    <nav class="col-md-3">
+<h3 class="home-link"><a href="/">Lucydot Root</a></h3>
+    <div id="last-posts" class="open">
+        <h3 data-open="last-posts">Most recent posts</h3>
+        <ul>
+            
+            <li><a href="https://lucydot.github.io/blog/test-notebook/">test notebook</a></li>
+            
+            <li><a href="https://lucydot.github.io/blog/hello-world/">hello world</a></li>
+            
+        </ul>
+    </div>
+
+    
+    <div id="tags" class="open">
+        <h3 data-open="tags">Tags</h3>
+        <ul class="tags">
+            
+            <li><a href="/tags/test">test</a></li>
+            
+        </ul>
+    </div>
+    
+
+    
+    <div id="categories" class="open">
+        <h3 data-open="categories">Categories</h3>
+        <ul class="categories">
+            
+            <li><a href="/categories/test">test</a></li>
+            
+        </ul>
+    </div>
+    
+</nav>
+
+</div>
+<div class="col-md-9 content">
+
+<h1>test notebook</h1>
+<h4>Published 08-03-2017 18:22:44</h4>
+<article>
+    
+
+<h1 id="notes">Notes</h1>
+
+<ul>
+<li>Test (184) to see if SoC makes a difference. Make a decision: SoC or not.</li>
+<li>Check that I have selected right options for Born effective charge / dielectric constant if needed.</li>
+<li>Get free IR spectra to see if working. If so, NWRITE=3 for CdTe.</li>
+<li>Can use CHGCAR as starting point in phonons?</li>
+<li>tetrahedron method is supposed to converge faster than the others</li>
+</ul>
+
+<h3 id="commands">Commands</h3>
+
+<ul>
+<li>ATOM_TYPE is important and must correspond to the numbers on sixth line of the POSCAR</li>
+<li>PRIMITIVE_AXIS needs to be used to map supercells built from conventional cells onto primitive cell band structures</li>
+<li>Create the displaced structures for a defective cell: <code>phonopy -d --dim='1 1 1' --tolerance=1e-4</code></li>
+<li>If using the tolerance tag this must continue to be used for the FORCE_SETS generation and any subsequent band/dos calculations</li>
+<li>Create FORCE_SETS: <code>phonopy -f disp/{001...008}/vasprun.xml --tolerance=1e-3</code></li>
+<li>the disp.yaml will need to be in current folder</li>
+<li>plot band: <code>phonopy -s -p band.conf --tolerance=1e-3</code></li>
+<li>the POSCAR will have to be in the current folder</li>
+<li>plot dos/thermal: <code>phonopy -s -p (-t) dos.conf</code></li>
+</ul>
+
+<h3 id="for-perfect-cdte-444-supercell">For Perfect CdTe (444 supercell)</h3>
+
+<ul>
+<li>Tested for convergence of thermal props and DOS on 48 48 48 and 60 60 60 k-mesh</li>
+</ul>
+
+<p><img src="../data/phonons/CdTe/perfect/band.png" alt="CdTe bandstructure" /></p>
+
+<p><img src="../data/phonons/CdTe/perfect/pdos60.png" alt="CdTe pdos" /></p>
+
+<p><img src="../data/phonons/CdTe/perfect/thermalprops60.png" alt="CdTe thermal props" /></p>
+
+<h4 id="animation">Animation</h4>
+
+<p>Thanks to Adam, it&rsquo;s super easy to generate lovely .gif files of the phonon modes</p>
+
+<p>1) Generate .ascii file in phonopy (choosing the phonon q):</p>
+
+<pre><code>phonopy anime.conf
+</code></pre>
+
+<p>2) Call ascii-phonons to do it&rsquo;s magic:</p>
+
+<pre><code>~/Applications/ascii-phonons/scripts/ascii-phonons anime.ascii -m 0 --gif -d 4 4 4  -o pretty0
+</code></pre>
+
+<p>The first and second lowest phonon mode at the X point.</p>
+
+<p><img src="../data/phonons/CdTe/perfect/prettyX0.gif" alt="animation" /></p>
+
+<p><img src="../data/phonons/CdTe/perfect/prettyX1.gif" alt="animation" /></p>
+
+<p>The gamma modes in increasing frequency (first 3 are acoustic, after that they are optic).</p>
+
+<p><img src="../data/phonons/CdTe/perfect/prettyG0.gif" alt="animation" /></p>
+
+<p><img src="../data/phonons/CdTe/perfect/prettyG1.gif" alt="animation" /></p>
+
+<p><img src="../data/phonons/CdTe/perfect/prettyG2.gif" alt="animation" /></p>
+
+<p><img src="../data/phonons/CdTe/perfect/prettyG3.gif" alt="animation" /></p>
+
+<h3 id="for-perfect-gaas-444-supercell">For perfect GaAs (444 supercell)</h3>
+
+<p><img src="../data/phonons/GaAs/perfect/band.png" alt="bandstructure" /></p>
+
+<p><img src="../data/phonons/GaAs/perfect/pdos.png" alt="pdos" /></p>
+
+<p><img src="../data/phonons/GaAs/perfect/thermal.png" alt="pdos" /></p>
+
+<h3 id="results-when-forces-were-calculated-with-soc">Results when forces were calculated with SoC</h3>
+
+<p><img src="../data/phonons/GaAs/perfect_soc/band.png" alt="bandstructure" /></p>
+
+<p><img src="../data/phonons/GaAs/perfect_soc/dos.png" alt="bandstructure" /></p>
+
+<p><img src="../data/phonons/GaAs/perfect_soc/thermal.png" alt="bandstructure" /></p>
+
+<h3 id="cdte-neutral-te-defect">CdTe neutral Te defect</h3>
+
+<ul>
+<li>Not happy with the soft modes: is this becaase neutral defect not energetically stable?</li>
+<li>Need to band unfold</li>
+</ul>
+
+<p><img src="../data/phonons/CdTe/neutral_Te_defect/band.png" alt="bandstructure" /></p>
+
+<h3 id="mapi-perfect">MAPI perfect</h3>
+
+<ul>
+<li>Not happy with soft modes at gamma</li>
+<li>code it be because of neglection of spin in the initial relaxation?</li>
+<li>Checked forces on supercell, but will not relax explicitly to see if it makes any difference: I am also going to use ISPIN=2 all the way through</li>
+</ul>
+
+<p><img src="../data/phonons/MAPI/perfect/R-G-M.png" alt="bandstructure" /></p>
+
+<h3 id="cssni3-perfect">CsSnI3 perfect</h3>
+
+<ul>
+<li>happy with this: agrees perfectly with Lora&rsquo;s results</li>
+</ul>
+
+<p><img src="../data/phonons/CsSnI3/perfect/band.png" alt="bandstructure" /></p>
+
+<pre><code class="language-python">
+</code></pre>
+
+</article>
+
+
+
+</div>
+</div>
+<script src="js/theme.min.js" type="text/javascript"></script>
+
+
+</body>
+</html>
+

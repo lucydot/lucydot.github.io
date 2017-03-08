@@ -6,8 +6,130 @@
     <description>Recent content in Blogs on Lucydot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2017 14:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 18:22:44 +0000</lastBuildDate>
     <atom:link href="https://lucydot.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test notebook</title>
+      <link>https://lucydot.github.io/blog/test-notebook/</link>
+      <pubDate>Wed, 08 Mar 2017 18:22:44 +0000</pubDate>
+      
+      <guid>https://lucydot.github.io/blog/test-notebook/</guid>
+      <description>
+
+&lt;h1 id=&#34;notes&#34;&gt;Notes&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Test (184) to see if SoC makes a difference. Make a decision: SoC or not.&lt;/li&gt;
+&lt;li&gt;Check that I have selected right options for Born effective charge / dielectric constant if needed.&lt;/li&gt;
+&lt;li&gt;Get free IR spectra to see if working. If so, NWRITE=3 for CdTe.&lt;/li&gt;
+&lt;li&gt;Can use CHGCAR as starting point in phonons?&lt;/li&gt;
+&lt;li&gt;tetrahedron method is supposed to converge faster than the others&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;commands&#34;&gt;Commands&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ATOM_TYPE is important and must correspond to the numbers on sixth line of the POSCAR&lt;/li&gt;
+&lt;li&gt;PRIMITIVE_AXIS needs to be used to map supercells built from conventional cells onto primitive cell band structures&lt;/li&gt;
+&lt;li&gt;Create the displaced structures for a defective cell: &lt;code&gt;phonopy -d --dim=&#39;1 1 1&#39; --tolerance=1e-4&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;If using the tolerance tag this must continue to be used for the FORCE_SETS generation and any subsequent band/dos calculations&lt;/li&gt;
+&lt;li&gt;Create FORCE_SETS: &lt;code&gt;phonopy -f disp/{001...008}/vasprun.xml --tolerance=1e-3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;the disp.yaml will need to be in current folder&lt;/li&gt;
+&lt;li&gt;plot band: &lt;code&gt;phonopy -s -p band.conf --tolerance=1e-3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;the POSCAR will have to be in the current folder&lt;/li&gt;
+&lt;li&gt;plot dos/thermal: &lt;code&gt;phonopy -s -p (-t) dos.conf&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;for-perfect-cdte-444-supercell&#34;&gt;For Perfect CdTe (444 supercell)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tested for convergence of thermal props and DOS on 48 48 48 and 60 60 60 k-mesh&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/band.png&#34; alt=&#34;CdTe bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/pdos60.png&#34; alt=&#34;CdTe pdos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/thermalprops60.png&#34; alt=&#34;CdTe thermal props&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;animation&#34;&gt;Animation&lt;/h4&gt;
+
+&lt;p&gt;Thanks to Adam, it&amp;rsquo;s super easy to generate lovely .gif files of the phonon modes&lt;/p&gt;
+
+&lt;p&gt;1) Generate .ascii file in phonopy (choosing the phonon q):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;phonopy anime.conf
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;2) Call ascii-phonons to do it&amp;rsquo;s magic:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;~/Applications/ascii-phonons/scripts/ascii-phonons anime.ascii -m 0 --gif -d 4 4 4  -o pretty0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The first and second lowest phonon mode at the X point.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/prettyX0.gif&#34; alt=&#34;animation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/prettyX1.gif&#34; alt=&#34;animation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The gamma modes in increasing frequency (first 3 are acoustic, after that they are optic).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/prettyG0.gif&#34; alt=&#34;animation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/prettyG1.gif&#34; alt=&#34;animation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/prettyG2.gif&#34; alt=&#34;animation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/perfect/prettyG3.gif&#34; alt=&#34;animation&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;for-perfect-gaas-444-supercell&#34;&gt;For perfect GaAs (444 supercell)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/GaAs/perfect/band.png&#34; alt=&#34;bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/GaAs/perfect/pdos.png&#34; alt=&#34;pdos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/GaAs/perfect/thermal.png&#34; alt=&#34;pdos&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;results-when-forces-were-calculated-with-soc&#34;&gt;Results when forces were calculated with SoC&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/GaAs/perfect_soc/band.png&#34; alt=&#34;bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/GaAs/perfect_soc/dos.png&#34; alt=&#34;bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/GaAs/perfect_soc/thermal.png&#34; alt=&#34;bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cdte-neutral-te-defect&#34;&gt;CdTe neutral Te defect&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not happy with the soft modes: is this becaase neutral defect not energetically stable?&lt;/li&gt;
+&lt;li&gt;Need to band unfold&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CdTe/neutral_Te_defect/band.png&#34; alt=&#34;bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mapi-perfect&#34;&gt;MAPI perfect&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not happy with soft modes at gamma&lt;/li&gt;
+&lt;li&gt;code it be because of neglection of spin in the initial relaxation?&lt;/li&gt;
+&lt;li&gt;Checked forces on supercell, but will not relax explicitly to see if it makes any difference: I am also going to use ISPIN=2 all the way through&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/MAPI/perfect/R-G-M.png&#34; alt=&#34;bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cssni3-perfect&#34;&gt;CsSnI3 perfect&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;happy with this: agrees perfectly with Lora&amp;rsquo;s results&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../data/phonons/CsSnI3/perfect/band.png&#34; alt=&#34;bandstructure&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>hello world</title>
