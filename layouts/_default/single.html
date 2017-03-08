@@ -1,0 +1,10 @@
+{{ partial "top.html" . }}
+<h1>{{ .Title }}</h1>
+<h4>{{ ( index $.Site.Data.translations $.Site.Params.locale ).datepublished }} {{ dateFormat "02-01-2006 15:04:05" .Date }}</h4>
+<article>
+    {{ .Content }}
+</article>
+
+{{ template "_internal/disqus.html" . }}
+
+{{ partial "bottom.html" . }}

@@ -1,0 +1,9 @@
+languageCode = "en-us"
+title = "Lucydot"
+baseURL = "https://lucydot.github.io/"
+theme = "code-editor"
+
+[params]
+    author = "Lucy Whalley"
+    locale = "en-US"
+    DateForm = "2.1.2006"
