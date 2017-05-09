@@ -6,18 +6,8 @@
     <description>Recent content on Lucydot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 14:02:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 13:47:56 +0100</lastBuildDate>
     <atom:link href="https://lucydot.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>about</title>
-      <link>https://lucydot.github.io/about/about/</link>
-      <pubDate>Tue, 09 May 2017 14:02:07 +0100</pubDate>
-      
-      <guid>https://lucydot.github.io/about/about/</guid>
-      <description>&lt;p&gt;About me.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>about</title>
@@ -25,7 +15,16 @@
       <pubDate>Tue, 09 May 2017 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/blog/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;Hello, and welcome to my home on the internet. It&amp;rsquo;s an empty home at the moment, but furnishings in the form of blog posts are planned for the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For now, the basics:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a PhD student in the &lt;a href=&#34;http://wmd-group.github.io/&#34;&gt;Walsh Materials Design&lt;/a&gt; group at Imperial College London. I am interested in developing materials for solar cells using computational modelling.&lt;/p&gt;
+
+&lt;p&gt;My funding is through the &lt;a href=&#34;http://www.cdt-pv.org/&#34;&gt;Centre for Doctoral Training in New and Sustainable Photovoltaics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My education, employment and publication history can be found via &lt;a href=&#34;orcid.org/0000-0002-2992-9871&#34;&gt;Orcid&lt;/a&gt;. My code can be found at &lt;a href=&#34;https://github.com/lucydot&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
