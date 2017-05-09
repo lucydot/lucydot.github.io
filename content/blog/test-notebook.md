@@ -1,6 +1,7 @@
 +++
 title = "test notebook"
-type = "post"
+type = "blog"
+draft = true
 categories = []
 tags = []
 date = "2017-03-08T18:22:44Z"

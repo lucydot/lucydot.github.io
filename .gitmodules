@@ -1,4 +1,8 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/lucydot/lucydot.github.io
+	url = https://github.com/lucydot/lucydot.github.io.git
+	branch = master
+[submodule "themes/code-editor"]
+	path = themes/code-editor
+	url = https://github.com/aubm/hugo-code-editor-theme.git
 	branch = master
