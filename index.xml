@@ -18,37 +18,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>test notebook</title>
-      <link>https://lucydot.github.io/blog/test-notebook/</link>
-      <pubDate>Wed, 08 Mar 2017 18:22:44 +0000</pubDate>
-      
-      <guid>https://lucydot.github.io/blog/test-notebook/</guid>
-      <description>
-
-&lt;h3 id=&#34;perfect-cdte-444-supercell&#34;&gt;Perfect CdTe (444 supercell)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tested for convergence of thermal props and DOS on 48 48 48 and 60 60 60 k-mesh&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/test-notebook/band.png&#34; alt=&#34;CdTe bandstructure&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;animation&#34;&gt;Animation&lt;/h4&gt;
-
-&lt;p&gt;Thanks to Adam, it&amp;rsquo;s super easy to generate lovely .gif files of the phonon modes&lt;/p&gt;
-
-&lt;p&gt;1) Generate .ascii file in phonopy (choosing the phonon q):&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;phonopy anime.conf
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;2) Call &lt;code&gt;ascii-phonons&lt;/code&gt; to do it&amp;rsquo;s magic:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;~/Applications/ascii-phonons/scripts/ascii-phonons anime.ascii -m 0 --gif -d 4 4 4  -o pretty0
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
