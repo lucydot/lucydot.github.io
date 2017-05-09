@@ -6,8 +6,17 @@
     <description>Recent content in Blogs on Lucydot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2017 18:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 13:47:56 +0100</lastBuildDate>
     <atom:link href="https://lucydot.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://lucydot.github.io/blog/about/</link>
+      <pubDate>Tue, 09 May 2017 13:47:56 +0100</pubDate>
+      
+      <guid>https://lucydot.github.io/blog/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>test notebook</title>
