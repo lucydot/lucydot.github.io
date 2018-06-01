@@ -63,13 +63,21 @@ Deploy
 bash deploy.sh
 ```
 
+Webpage Ideas
+---
+
+- Software Carpentry
+- JOSS-ready code
+- Dotspace project
+- PhD project and papers
+- Teaching
+- About, what I like.
 
 TODO
 ---
 
-
 - [x] Change favicon
-- [ ] write webpages
 - [x] Change background colour of code block in markdown
-- [ ] remove date of posts
-- [ ] change index heading to filesystem
+- [x] remove date of posts
+- [x] change index heading to filesystem
+- [ ] add to landing page
