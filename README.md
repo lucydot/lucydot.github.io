@@ -24,7 +24,9 @@ Tweaks
 TODO
 ---
 
-- [ ] Insert image at bottom of menu 
+
 - [x] Change favicon
-- [ ] ...write some posts
+- [ ] write webpages
 - [x] Change background colour of code block in markdown
+- [ ] remove date of posts
+- [ ] change index heading to filesystem
