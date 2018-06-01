@@ -26,11 +26,13 @@ How to clone the repo to a new 'puter
 This is for future Lucy. She will thank me for it. 
 
 Clone the repo with content (not the repo with the generated content).
-```  git clone https://github.com/lucydot/lucydot-hugo/edit/master/README.md
+```  
+git clone https://github.com/lucydot/lucydot-hugo/edit/master/README.md
 ```
 
 Add the public submodule. This has the static repo set as upstream.
-``` git submodule add -b master git@github.com:lucydot/lucydot.github.io.git public
+``` 
+git submodule add -b master git@github.com:lucydot/lucydot.github.io.git public
 ```
 
 Add the themes submodule.
@@ -42,19 +44,23 @@ How to add a new post
 ---
 
 Create a new entry
-``` hugo new blog/<blogname>.md
+``` 
+hugo new blog/<blogname>.md
 ```
 
 Edit the post
-``` vim ./blog/<blogname>.md
+``` 
+vim ./blog/<blogname>.md
 ```
 
 Inspect changes locally (optional)
-``` hugo server
+``` 
+hugo server
 ```
 
 Deploy 
-```bash deploy.sh
+```
+bash deploy.sh
 ```
 
 
