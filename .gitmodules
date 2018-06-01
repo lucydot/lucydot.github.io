@@ -4,7 +4,7 @@
 	branch = master
 [submodule "themes/code-editor"]
 	path = themes/code-editor
-	url = https://github.com/aubm/hugo-code-editor-theme.git
+	url = https://github.com/aubm/hugo-code-editor-theme
 	branch = master
 [submodule "themes/themes/code-editor"]
 	path = themes/themes/code-editor
