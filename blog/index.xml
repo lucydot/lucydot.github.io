@@ -35,11 +35,11 @@
     </item>
     
     <item>
-      <title>programming</title>
-      <link>https://lucydot.github.io/blog/programming/</link>
+      <title>software</title>
+      <link>https://lucydot.github.io/blog/software/</link>
       <pubDate>Sun, 07 May 2017 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/programming/</guid>
+      <guid>https://lucydot.github.io/blog/software/</guid>
       <description></description>
     </item>
     
@@ -62,9 +62,18 @@
     </item>
     
     <item>
-      <title>miscellaneous</title>
+      <title>dotspace</title>
+      <link>https://lucydot.github.io/blog/dotspace/</link>
+      <pubDate>Sat, 05 Mar 2016 17:12:04 +0100</pubDate>
+      
+      <guid>https://lucydot.github.io/blog/dotspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc.</title>
       <link>https://lucydot.github.io/blog/miscellaneous/</link>
-      <pubDate>Thu, 04 May 2017 13:47:56 +0100</pubDate>
+      <pubDate>Fri, 04 May 2012 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/blog/miscellaneous/</guid>
       <description></description>
