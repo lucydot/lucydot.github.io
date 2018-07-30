@@ -33,6 +33,9 @@ Ort Cafe, Birmingham (UK), April 2014
 [talk] <i>H-centre and V-centre defects in hybrid halide perovskites </i></br>
 Gordon Research Seminar: Utilizing and Mitigating Defects in Emerging Functional Materials, New Hampshire (USA), August 2018
 
+[talk] <i>Doping and Defects in hybrid halide perovskites </i></br>
+Centre for Plastic Electronics meeting, London (UK), August 2018
+
 [talk] <i>Breaking periodicity: vibrations of defects in photovoltaic materials </i></br>
 CECAM Anharmonicity and thermal properties of solids, Paris (France), January 2018
 
