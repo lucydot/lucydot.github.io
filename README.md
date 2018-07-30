@@ -20,13 +20,64 @@ Tweaks
 * changed code highlighting by linking to highlight.js library of choice ([highlightjs.html](layouts/partials/highlightjs.html))
 * created an (almost empty) index.html for a blank landing page as I don't like the lack of markdown formatting in the list.html used previously.
 
+How to clone the repo to a new 'puter
+---
+
+This is for future Lucy. She will thank me for it. 
+
+Clone the repo with content (not the repo with the generated content).
+```  
+git clone https://github.com/lucydot/lucydot-hugo/edit/master/README.md
+```
+
+Add the public submodule. This has the static repo set as upstream.
+``` 
+git submodule add -b master git@github.com:lucydot/lucydot.github.io.git public
+```
+
+Add the themes submodule.
+```
+git submodule add https://github.com/aubm/hugo-code-editor-theme themes/code-editor
+```
+
+How to add a new post
+---
+
+Create a new entry
+``` 
+hugo new blog/<blogname>.md
+```
+
+Edit the post
+``` 
+vim ./blog/<blogname>.md
+```
+
+Inspect changes locally (optional)
+``` 
+hugo server
+```
+
+Deploy 
+```
+bash deploy.sh
+```
+
+Webpage Ideas
+---
+
+- Software Carpentry
+- JOSS-ready code
+- Dotspace project
+- PhD project and papers
+- Teaching
+- About, what I like.
 
 TODO
 ---
 
-
 - [x] Change favicon
-- [ ] write webpages
 - [x] Change background colour of code block in markdown
-- [ ] remove date of posts
-- [ ] change index heading to filesystem
+- [x] remove date of posts
+- [x] change index heading to filesystem
+- [ ] add to landing page
