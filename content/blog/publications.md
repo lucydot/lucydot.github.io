@@ -9,8 +9,9 @@ categories = []
 
 My publication list can also be accessed via [Google Scholar](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0002-2992-9871).
 
-<b> `effmass`: An effective mass package</b> [in review]</br>
+<b> `effmass`: An effective mass package</b></br>
 Lucy D. Whalley</br>
+DOI: 10.21105/joss.00797</br>
 [Download here](../papers/effmass.pdf) </br>
 [Source code here](https://github.com/lucydot/effmass)
 
