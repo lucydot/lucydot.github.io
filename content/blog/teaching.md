@@ -8,7 +8,7 @@ type = "post"
 +++
 
 I am a qualified teacher and hold a Post-Graduate Certificate in Education (PGCE) with a specialism in mathematics. 
-Although most of my time and focus is now upon research, I've kept up my teaching practice via the Software Carpentry organisation. With the support of other volunteer instructors around the world, I teach basic programming skills (version control using git, bash shell scripting and python) to researchers at Imperial College London and beyond. If you are looking for someone to deliver a Software Carpentry lesson at your institution and think I may be able to help, please [get in contact](https://lucydot.github.io/blog/about/).
+Although most of my time and focus is now upon research, I've kept up my teaching practice via the Software Carpentry organisation. With support from other volunteer instructors around the world, I teach basic programming skills (version control using git, bash shell scripting and python) to researchers at Imperial College London and beyond. If you are looking for someone to deliver a Software Carpentry lesson at your institution and think I may be able to help, please [get in contact](https://lucydot.github.io/blog/about/).
 
 The Carpentries: [https://carpentries.org/](https://carpentries.org/) </br>
 <font size="-2">

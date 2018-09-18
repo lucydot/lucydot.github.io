@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = "Lucydot"
 baseURL = "https://lucydot.github.io/"
 theme = "code-editor"
+googleAnalytics = "UA-125953365-1"
 
 [params]
     author = "Lucy Whalley"
