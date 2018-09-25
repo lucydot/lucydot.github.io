@@ -101,27 +101,32 @@ Although most of my time and focus is now upon research, I&amp;rsquo;ve kept up 
       <description>&lt;p&gt;My publication list can also be accessed via &lt;a href=&#34;https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt; or &lt;a href=&#34;https://orcid.org/0000-0002-2992-9871&#34;&gt;Orcid&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt; &lt;code&gt;effmass&lt;/code&gt;: An effective mass package&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;The Journal of Open Source Software&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley&lt;/br&gt;
 DOI: 10.21105/joss.00797&lt;/br&gt;
 &lt;a href=&#34;../papers/effmass.pdf&#34;&gt;Download here&lt;/a&gt; &lt;/br&gt;
-&lt;a href=&#34;https://github.com/lucydot/effmass&#34;&gt;Source code here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/lucydot/effmass&#34;&gt;Code here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;H-center and V-center defects in hybrid halide perovskites&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;ACS Energy Letters&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley, Rachel Crespo-Otero, Aron Walsh&lt;/br&gt;
 DOI: 10.1021/acsenergylett.7b00995&lt;/br&gt;
 &lt;a href=&#34;../papers/VH_Defects_V5.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Slow cooling of hot polarons in halide perovskite solar cells&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;ACS Energy Letters&lt;/em&gt;&lt;/br&gt;
 Jarvist M. Frost, Lucy D. Whalley, Aron Walsh&lt;/br&gt;
 DOI: 10.1021/acsenergylett.7b00862 &lt;/br&gt;
 &lt;a href=&#34;../papers/1708_04158.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Perspective: Theory and simulation of hybrid halide perovskites&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;The Journal of Chemical Physics&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley, Jarvist M. Frost, Young-Kwang Jung, Aron Walsh&lt;/br&gt;
 DOI: 10.&lt;sup&gt;1063&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt;.4984964 &lt;/br&gt;
 &lt;a href=&#34;../papers/1703_09504.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Phonon anharmonicity, lifetimes and thermal transport in CH3NH3PbI3 from many-body perturbation theory&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley, Jonathan M. Skelton, Jarvist M. Frost, Aron Walsh&lt;/br&gt;
 DOI: 10.1103/PhysRevB.94.220301 &lt;/br&gt;
 &lt;a href=&#34;../papers/1609_00825.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
@@ -154,7 +159,13 @@ Ort Cafe, Birmingham (UK), July 2014&lt;/p&gt;
 &lt;p&gt;&lt;i&gt; Mathematical problems, puzzles and proofs &lt;/i&gt;&lt;/br&gt;
 Ort Cafe, Birmingham (UK), April 2014&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Academic presentations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Academic workshops and presentations&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;[poster] &lt;i&gt;Sustainable software development with Python&lt;/i&gt;&lt;/br&gt;
+Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Liverpool (UK), November 2018&lt;/p&gt;
+
+&lt;p&gt;[workshop] &lt;i&gt;Feed your Python with Pandas&lt;/i&gt;&lt;/br&gt;
+Imperial College Research Computing week, London (UK), September 2018&lt;/p&gt;
 
 &lt;p&gt;[talk] &lt;i&gt;H-centre and V-centre defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
 Gordon Research Seminar: Utilizing and Mitigating Defects in Emerging Functional Materials, New Hampshire (USA), August 2018&lt;/p&gt;
@@ -174,7 +185,7 @@ Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Live
 &lt;p&gt;[talk] &lt;i&gt;Anharmonic lattice vibrations in halide perovskites: heat transport, vacancy formation, and non-radiative recombination&lt;/i&gt;&lt;/br&gt;
 International Conference on Perovskite Solar Cells and Optoelectronics, Oxford (UK), September 2017&lt;/p&gt;
 
-&lt;p&gt;[talk] &lt;i&gt;Feed your Python with Pandas&lt;/i&gt;&lt;/br&gt;
+&lt;p&gt;[workshop] &lt;i&gt;Feed your Python with Pandas&lt;/i&gt;&lt;/br&gt;
 Walsh Materials Design group research day, Bath (UK), July 2017&lt;/p&gt;
 
 &lt;p&gt;[poster] &lt;i&gt;Hot hybrid perovskites: computational modelling of lattice vibrations in CH3NH3PbI3&lt;/i&gt;&lt;/br&gt;
