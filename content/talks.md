@@ -28,7 +28,17 @@ Ort Cafe, Birmingham (UK), July 2014
 Ort Cafe, Birmingham (UK), April 2014
 
 
-<b>Academic presentations</b>
+<b>Academic workshops and presentations</b>
+
+[talk] <i>Publishing your Software Project with the Journal of Open Source Software</i></br>
+Imperial College Research Software in Materials event, London (UK), January 2019</br>
+[Presentation here](https://lucydot.github.io/slides/JOSS_0119)
+
+[poster] <i>Sustainable software development with Python</i></br>
+Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Liverpool (UK), November 2018
+
+[workshop] <i>Feed your Python with Pandas</i></br>
+Imperial College Research Computing week, London (UK), September 2018
 
 [talk] <i>H-centre and V-centre defects in hybrid halide perovskites </i></br>
 Gordon Research Seminar: Utilizing and Mitigating Defects in Emerging Functional Materials, New Hampshire (USA), August 2018
@@ -48,7 +58,7 @@ Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Live
 [talk] <i>Anharmonic lattice vibrations in halide perovskites: heat transport, vacancy formation, and non-radiative recombination</i></br>
 International Conference on Perovskite Solar Cells and Optoelectronics, Oxford (UK), September 2017
 
-[talk] <i>Feed your Python with Pandas</i></br>
+[workshop] <i>Feed your Python with Pandas</i></br>
 Walsh Materials Design group research day, Bath (UK), July 2017
 
 [poster] <i>Hot hybrid perovskites: computational modelling of lattice vibrations in CH3NH3PbI3</i></br>

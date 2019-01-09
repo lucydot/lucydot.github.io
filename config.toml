@@ -4,6 +4,9 @@ baseURL = "https://lucydot.github.io/"
 theme = "code-editor"
 googleAnalytics = "UA-125953365-1"
 
+[blackfriday]
+    fractions = false
+
 [params]
     author = "Lucy Whalley"
     locale = "en-US"
