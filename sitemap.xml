@@ -2,49 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lucydot.github.io/blog/about/</loc>
+    <loc>https://lucydot.github.io/about/</loc>
     <lastmod>2017-05-09T13:47:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lucydot.github.io/blog/research/</loc>
+    <loc>https://lucydot.github.io/research/</loc>
     <lastmod>2017-05-08T13:47:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lucydot.github.io/blog/software/</loc>
+    <loc>https://lucydot.github.io/software/</loc>
     <lastmod>2017-05-07T13:47:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lucydot.github.io/blog/teaching/</loc>
+    <loc>https://lucydot.github.io/teaching/</loc>
     <lastmod>2017-05-06T13:47:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lucydot.github.io/blog/publications/</loc>
+    <loc>https://lucydot.github.io/publications/</loc>
     <lastmod>2017-05-06T12:47:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lucydot.github.io/blog/talks/</loc>
+    <loc>https://lucydot.github.io/talks/</loc>
     <lastmod>2017-05-05T13:47:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lucydot.github.io/blog/dotspace/</loc>
+    <loc>https://lucydot.github.io/dotspace/</loc>
     <lastmod>2016-03-05T17:12:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lucydot.github.io/blog/miscellaneous/</loc>
+    <loc>https://lucydot.github.io/miscellaneous/</loc>
     <lastmod>2012-05-04T13:47:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucydot.github.io/blog/</loc>
-    <lastmod>2017-05-09T13:47:56+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

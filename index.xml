@@ -11,13 +11,13 @@
     
     <item>
       <title>about</title>
-      <link>https://lucydot.github.io/blog/about/</link>
+      <link>https://lucydot.github.io/about/</link>
       <pubDate>Tue, 09 May 2017 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/about/</guid>
+      <guid>https://lucydot.github.io/about/</guid>
       <description>&lt;p&gt;My name is Lucy Whalley and I am a PhD student researching the electronic structure of solar cell materials in the &lt;a href=&#34;http://wmd-group.github.io/&#34;&gt;Walsh Materials Design&lt;/a&gt; group at Imperial College London. &lt;a href=&#34;http://lucydot.github.io/blog/research/&#34;&gt;My research&lt;/a&gt; uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy.  Before my PhD I trained as a mathematics teacher, and I have worked as a teacher in a variety of settings - prisons, primary schools and cafes. I am &lt;a href=&#34;http://lucydot.github.io/blog/teaching/&#34;&gt;currently teaching&lt;/a&gt; basic programming skills to researchers at Imperial College London.&lt;/p&gt;
 
-&lt;p&gt;If you&amp;rsquo;d like the nuts and bolts, please &lt;a href=&#34;../LW_resume.pdf&#34;&gt;download my CV&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like the nuts and bolts, please &lt;a href=&#34;../LW_resume.pdf&#34;&gt;download my CV&lt;/a&gt;. I can be contacted at &lt;img src=&#34;../images/email.png&#34; alt=&#34;lucy at gmail dot com&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This website was built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with a tweaked version of the &lt;a href=&#34;https://github.com/aubm/hugo-code-editor-theme/&#34;&gt;code editor&lt;/a&gt; theme.&lt;/p&gt;
 
@@ -27,10 +27,10 @@
     
     <item>
       <title>research</title>
-      <link>https://lucydot.github.io/blog/research/</link>
+      <link>https://lucydot.github.io/research/</link>
       <pubDate>Mon, 08 May 2017 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/research/</guid>
+      <guid>https://lucydot.github.io/research/</guid>
       <description>&lt;p&gt;My research is centred around a family of materials called the hybrid halide perovskites. These materials have become incredibly popular over the last decade as they can convert sunlight into electricity efficiently, and have the potential to form more flexible, lightweight and cheaper solar panels than those currently on the market. My research aims to understand the quantum physics underlying this material so that we can improve the efficiency of future devices.&lt;/p&gt;
 
 &lt;p&gt;I use a branch of physics called Density Functional Theory (DFT) to model how electrons in perovskites behave. This theory has no input from experiment - it is derived from quantum mechanics - and I still find it amazing that it is able to predict properties that are later measured in experiment [1].&lt;/p&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>software</title>
-      <link>https://lucydot.github.io/blog/software/</link>
+      <link>https://lucydot.github.io/software/</link>
       <pubDate>Sun, 07 May 2017 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/software/</guid>
+      <guid>https://lucydot.github.io/software/</guid>
       <description>&lt;p&gt;I am a computational scientist and a significant part of my time is spent writing code. Some of this code helps me to submit and manage my calculations which run on various supercomputers (primarily &lt;a href=&#34;http://www.archer.ac.uk/&#34;&gt;Archer, the UK national supercomputer&lt;/a&gt;). The rest of the code I write is used to analyse and extract meaning from the output from these calculations (numbers &amp;ndash;&amp;gt; physics).&lt;/p&gt;
 
 &lt;p&gt;Python and Bash are my go-to languages. Like many scientists, I am a self-taught programmer and have had very little in the way of training. The two things which have had the highest impact on the quality of code I write are: 1) teaching basic programming skills (&lt;a href=&#34;https://carpentries.org/&#34;&gt;Software Carpentry&lt;/a&gt;) to other researchers; 2) submitting a package to the &lt;a href=&#34;https://joss.theoj.org/&#34;&gt;Journal of Open Source Software&lt;/a&gt;, a peer-reviewed journal for research code.&lt;/p&gt;
@@ -74,17 +74,19 @@
     
     <item>
       <title>teaching</title>
-      <link>https://lucydot.github.io/blog/teaching/</link>
+      <link>https://lucydot.github.io/teaching/</link>
       <pubDate>Sat, 06 May 2017 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/teaching/</guid>
+      <guid>https://lucydot.github.io/teaching/</guid>
       <description>&lt;p&gt;I am a qualified teacher and hold a Post-Graduate Certificate in Education (PGCE) with a specialism in mathematics.
-Although most of my time and focus is now upon research, I&amp;rsquo;ve kept up my teaching practice via the Software Carpentry organisation. With the support of other volunteer instructors around the world, I teach basic programming skills (version control using git, bash shell scripting and python) to researchers at Imperial College London and beyond. If you are looking for someone to deliver a Software Carpentry lesson at your institution and think I may be able to help, please &lt;a href=&#34;https://lucydot.github.io/blog/about/&#34;&gt;get in contact&lt;/a&gt;.&lt;/p&gt;
+Although most of my time and focus is now upon research, I&amp;rsquo;ve kept up my teaching practice via the Software Carpentry organisation. With support from other volunteer instructors around the world, I teach basic programming skills (version control using git, bash shell scripting and python) to researchers at Imperial College London and beyond. If you are looking for someone to deliver a Software Carpentry lesson at your institution and think I may be able to help, please &lt;a href=&#34;https://lucydot.github.io/blog/about/&#34;&gt;get in contact&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The Carpentries: &lt;a href=&#34;https://carpentries.org/&#34;&gt;https://carpentries.org/&lt;/a&gt; &lt;/br&gt;
 &lt;font size=&#34;-2&#34;&gt;
 (Not to be confused with &lt;a href=&#34;https://www.youtube.com/watch?v=evETS8_WFGE&#34;&gt;The Carpenters&lt;/a&gt;)
 &lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve developed some resources for teaching an Introduction to the Python Pandas (data analysis) library which can be found &lt;a href=&#34;https://github.com/lucydot/feed-your-python&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Before starting my PhD, I worked as a trainee teacher at Winson Green Prison in Birmingham (UK) where I taught secondary school mathematics to male prisoners. I have also worked with women caught up in the criminal justice system: as a volunteer teacher at Riker&amp;rsquo;s Island Prison, New York and paid work at Anawim Women&amp;rsquo;s Centre, Birmingham. However the majority of my teaching experience was as a mathematics teacher at an inner city primary school in Birmingham. I was employed to teach national curriculum mathematics to children aged 9-11, although the job was nice and varied and also included training student teachers and teaching assistants. I also got to cover the back wall of my classroom with a big Sierpinski triangle and tell the kids about &lt;a href=&#34;https://magoosh.com/gre/2011/what-a-naughty-boy-can-teach-us-about-adding/&#34;&gt;what a naughty boy Gauss was&lt;/a&gt;.&lt;/p&gt;
 
@@ -94,34 +96,45 @@ Although most of my time and focus is now upon research, I&amp;rsquo;ve kept up 
     
     <item>
       <title>publications</title>
-      <link>https://lucydot.github.io/blog/publications/</link>
+      <link>https://lucydot.github.io/publications/</link>
       <pubDate>Sat, 06 May 2017 12:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/publications/</guid>
+      <guid>https://lucydot.github.io/publications/</guid>
       <description>&lt;p&gt;My publication list can also be accessed via &lt;a href=&#34;https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt; or &lt;a href=&#34;https://orcid.org/0000-0002-2992-9871&#34;&gt;Orcid&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;&lt;b&gt;Impact of non-parabolic electronic band structure on the optical and transport properties of photovoltaic materials&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;In Review&lt;/em&gt;&lt;/br&gt;
+Lucy D. Whalley, Jarvist M. Frost, Benjamin J. Morgan, Aron Walsh&lt;/br&gt;
+arXiv:1811.02281 &lt;/br&gt;
+&lt;a href=&#34;../papers/effmass_arXiv.pdf&#34;&gt;Download here&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;b&gt; &lt;code&gt;effmass&lt;/code&gt;: An effective mass package&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;The Journal of Open Source Software&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley&lt;/br&gt;
 DOI: 10.21105/joss.00797&lt;/br&gt;
 &lt;a href=&#34;../papers/effmass.pdf&#34;&gt;Download here&lt;/a&gt; &lt;/br&gt;
-&lt;a href=&#34;https://github.com/lucydot/effmass&#34;&gt;Source code here&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/lucydot/effmass&#34;&gt;Code here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;H-center and V-center defects in hybrid halide perovskites&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;ACS Energy Letters&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley, Rachel Crespo-Otero, Aron Walsh&lt;/br&gt;
 DOI: 10.1021/acsenergylett.7b00995&lt;/br&gt;
 &lt;a href=&#34;../papers/VH_Defects_V5.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Slow cooling of hot polarons in halide perovskite solar cells&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;ACS Energy Letters&lt;/em&gt;&lt;/br&gt;
 Jarvist M. Frost, Lucy D. Whalley, Aron Walsh&lt;/br&gt;
 DOI: 10.1021/acsenergylett.7b00862 &lt;/br&gt;
 &lt;a href=&#34;../papers/1708_04158.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Perspective: Theory and simulation of hybrid halide perovskites&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;The Journal of Chemical Physics&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley, Jarvist M. Frost, Young-Kwang Jung, Aron Walsh&lt;/br&gt;
-DOI: 10.&lt;sup&gt;1063&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt;.4984964 &lt;/br&gt;
+DOI: 10.1063/1.4984964 &lt;/br&gt;
 &lt;a href=&#34;../papers/1703_09504.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Phonon anharmonicity, lifetimes and thermal transport in CH3NH3PbI3 from many-body perturbation theory&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley, Jonathan M. Skelton, Jarvist M. Frost, Aron Walsh&lt;/br&gt;
 DOI: 10.1103/PhysRevB.94.220301 &lt;/br&gt;
 &lt;a href=&#34;../papers/1609_00825.pdf&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
@@ -130,10 +143,10 @@ DOI: 10.1103/PhysRevB.94.220301 &lt;/br&gt;
     
     <item>
       <title>talks</title>
-      <link>https://lucydot.github.io/blog/talks/</link>
+      <link>https://lucydot.github.io/talks/</link>
       <pubDate>Fri, 05 May 2017 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/talks/</guid>
+      <guid>https://lucydot.github.io/talks/</guid>
       <description>&lt;p&gt;I like to talk about my work to a variety of audiences. If you&amp;rsquo;d like me to speak at your event, please email me at &lt;img src=&#34;../images/email.png&#34; alt=&#34;lucy at gmail dot com&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Public talks and outreach&lt;/b&gt;&lt;/p&gt;
@@ -154,7 +167,17 @@ Ort Cafe, Birmingham (UK), July 2014&lt;/p&gt;
 &lt;p&gt;&lt;i&gt; Mathematical problems, puzzles and proofs &lt;/i&gt;&lt;/br&gt;
 Ort Cafe, Birmingham (UK), April 2014&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Academic presentations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Academic workshops and presentations&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;[talk] &lt;i&gt;Publishing your Software Project with the Journal of Open Source Software&lt;/i&gt;&lt;/br&gt;
+Imperial College Research Software in Materials event, London (UK), January 2019&lt;/br&gt;
+&lt;a href=&#34;https://lucydot.github.io/slides/JOSS_0119&#34;&gt;Presentation here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[poster] &lt;i&gt;Sustainable software development with Python&lt;/i&gt;&lt;/br&gt;
+Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Liverpool (UK), November 2018&lt;/p&gt;
+
+&lt;p&gt;[workshop] &lt;i&gt;Feed your Python with Pandas&lt;/i&gt;&lt;/br&gt;
+Imperial College Research Computing week, London (UK), September 2018&lt;/p&gt;
 
 &lt;p&gt;[talk] &lt;i&gt;H-centre and V-centre defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
 Gordon Research Seminar: Utilizing and Mitigating Defects in Emerging Functional Materials, New Hampshire (USA), August 2018&lt;/p&gt;
@@ -174,7 +197,7 @@ Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Live
 &lt;p&gt;[talk] &lt;i&gt;Anharmonic lattice vibrations in halide perovskites: heat transport, vacancy formation, and non-radiative recombination&lt;/i&gt;&lt;/br&gt;
 International Conference on Perovskite Solar Cells and Optoelectronics, Oxford (UK), September 2017&lt;/p&gt;
 
-&lt;p&gt;[talk] &lt;i&gt;Feed your Python with Pandas&lt;/i&gt;&lt;/br&gt;
+&lt;p&gt;[workshop] &lt;i&gt;Feed your Python with Pandas&lt;/i&gt;&lt;/br&gt;
 Walsh Materials Design group research day, Bath (UK), July 2017&lt;/p&gt;
 
 &lt;p&gt;[poster] &lt;i&gt;Hot hybrid perovskites: computational modelling of lattice vibrations in CH3NH3PbI3&lt;/i&gt;&lt;/br&gt;
@@ -197,10 +220,10 @@ CAMD summer school, Copenhagan (Denmark), August 2016&lt;/p&gt;
     
     <item>
       <title>dotspace</title>
-      <link>https://lucydot.github.io/blog/dotspace/</link>
+      <link>https://lucydot.github.io/dotspace/</link>
       <pubDate>Sat, 05 Mar 2016 17:12:04 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/dotspace/</guid>
+      <guid>https://lucydot.github.io/dotspace/</guid>
       <description>&lt;p&gt;&lt;code&gt;dotspace&lt;/code&gt; is a collaboration with the musician and visual artist Richard Scott, who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.&lt;/p&gt;
 
 &lt;p&gt;Richard&amp;rsquo;s &amp;ldquo;dotspace&amp;rdquo; pictures are inteference patterns, created by overlaying binary number sequences. These drawings are painstaking work which involve &lt;i&gt;a lot&lt;/i&gt; of counting. When we first met, he was screening for new, interesting patterns by hand. Richard would start a picture, work on it for a few days, then decide it was not what he was looking for. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly. The patterns he is happy with are then drawn by hand or screen printed.&lt;/p&gt;
@@ -221,10 +244,10 @@ CAMD summer school, Copenhagan (Denmark), August 2016&lt;/p&gt;
     
     <item>
       <title>misc.</title>
-      <link>https://lucydot.github.io/blog/miscellaneous/</link>
+      <link>https://lucydot.github.io/miscellaneous/</link>
       <pubDate>Fri, 04 May 2012 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/blog/miscellaneous/</guid>
+      <guid>https://lucydot.github.io/miscellaneous/</guid>
       <description>&lt;p&gt;&lt;b&gt;
 SDF
 &lt;/b&gt;&lt;/p&gt;
