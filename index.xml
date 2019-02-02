@@ -73,6 +73,18 @@
     </item>
     
     <item>
+      <title>Working openly</title>
+      <link>https://lucydot.github.io/open/</link>
+      <pubDate>Sat, 06 May 2017 15:47:56 +0100</pubDate>
+      
+      <guid>https://lucydot.github.io/open/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Open&amp;rdquo; is a bit of a buzz-word at the moment: open source, open access, open data, open science&amp;hellip;but I agree with the fundamental idea of openness. I think it encourages efficient use of money and researcher time (less duplication), and a more equal scientific community (as some scientists do not have the resources to go to conferences or pay for journal subscriptions). I also think it could benefit me personally as a researcher (see &lt;a href=&#34;https://dx.doi.org/10.7554%2FeLife.16800&#34;&gt;&amp;ldquo;How open science helps researchers succeed&amp;rdquo;&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;So one of my targets is to work more openly: to make my &lt;a href=&#34;https://lucydot.github.io/publications&#34;&gt;papers&lt;/a&gt;, &lt;a href=&#34;https://github.com/lucydot/&#34;&gt;software code&lt;/a&gt;, &lt;a href=&#34;https://lucydot.github.io/talks&#34;&gt;talks&lt;/a&gt; and &lt;a href=&#34;https://lucydot.github.io/applications&#34;&gt;funding applications&lt;/a&gt; available. I&amp;rsquo;m still learning about what &amp;ldquo;working openly&amp;rdquo; means, this is a work in progress!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>teaching</title>
       <link>https://lucydot.github.io/teaching/</link>
       <pubDate>Sat, 06 May 2017 13:47:56 +0100</pubDate>
@@ -101,6 +113,12 @@ Although most of my time and focus is now upon research, I&amp;rsquo;ve kept up 
       
       <guid>https://lucydot.github.io/publications/</guid>
       <description>&lt;p&gt;My publication list can also be accessed via &lt;a href=&#34;https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt; or &lt;a href=&#34;https://orcid.org/0000-0002-2992-9871&#34;&gt;Orcid&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Impact of non-parabolic electronic band structure on the optical and transport properties of photovoltaic materials&lt;/b&gt;&lt;/br&gt;
+&lt;em&gt;Just Accepted - Physical Review B&lt;/em&gt;&lt;/br&gt;
+Lucy D. Whalley, Jarvist M. Frost, Benjamin J. Morgan, Aron Walsh&lt;/br&gt;
+arXiv:1811.02281 &lt;/br&gt;
+&lt;a href=&#34;../papers/effmass_arXiv.pdf&#34;&gt;Download here&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt; &lt;code&gt;effmass&lt;/code&gt;: An effective mass package&lt;/b&gt;&lt;/br&gt;
 &lt;em&gt;The Journal of Open Source Software&lt;/em&gt;&lt;/br&gt;
