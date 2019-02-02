@@ -73,7 +73,7 @@
     </item>
     
     <item>
-      <title>Working openly</title>
+      <title>working openly</title>
       <link>https://lucydot.github.io/open/</link>
       <pubDate>Sat, 06 May 2017 15:47:56 +0100</pubDate>
       
@@ -187,17 +187,23 @@ Ort Cafe, Birmingham (UK), April 2014&lt;/p&gt;
 Imperial College Research Software in Materials event, London (UK), January 2019&lt;/br&gt;
 &lt;a href=&#34;https://lucydot.github.io/slides/JOSS_0119&#34;&gt;Presentation here&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;[talk] &lt;i&gt; Distortions and Defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
+Department of Materials Student Research Day, ICL, London (UK), March 2019&lt;/p&gt;
+
+&lt;p&gt;[talk] &lt;i&gt; Distortions and Defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
+Thomas Young Centre Student Day, UCL, London (UK), February 2019&lt;/p&gt;
+
 &lt;p&gt;[poster] &lt;i&gt;Sustainable software development with Python&lt;/i&gt;&lt;/br&gt;
 Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Liverpool (UK), November 2018&lt;/p&gt;
 
 &lt;p&gt;[workshop] &lt;i&gt;Feed your Python with Pandas&lt;/i&gt;&lt;/br&gt;
-Imperial College Research Computing week, London (UK), September 2018&lt;/p&gt;
+Imperial College Research Computing week, ICL, London (UK), September 2018&lt;/p&gt;
 
 &lt;p&gt;[talk] &lt;i&gt;H-centre and V-centre defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
 Gordon Research Seminar: Utilizing and Mitigating Defects in Emerging Functional Materials, New Hampshire (USA), August 2018&lt;/p&gt;
 
 &lt;p&gt;[talk] &lt;i&gt;Doping and Defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
-Centre for Plastic Electronics meeting, London (UK), August 2018&lt;/p&gt;
+Centre for Plastic Electronics meeting, ICL, London (UK), August 2018&lt;/p&gt;
 
 &lt;p&gt;[talk] &lt;i&gt;Breaking periodicity: vibrations of defects in photovoltaic materials &lt;/i&gt;&lt;/br&gt;
 CECAM Anharmonicity and thermal properties of solids, Paris (France), January 2018&lt;/p&gt;
@@ -240,7 +246,7 @@ CAMD summer school, Copenhagan (Denmark), August 2016&lt;/p&gt;
       <guid>https://lucydot.github.io/dotspace/</guid>
       <description>&lt;p&gt;&lt;code&gt;dotspace&lt;/code&gt; is a collaboration with the musician and visual artist Richard Scott, who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.&lt;/p&gt;
 
-&lt;p&gt;Richard&amp;rsquo;s &amp;ldquo;dotspace&amp;rdquo; pictures are inteference patterns, created by overlaying binary number sequences. These drawings are painstaking work which involve &lt;i&gt;a lot&lt;/i&gt; of counting. When we first met, he was screening for new, interesting patterns by hand. Richard would start a picture, work on it for a few days, then decide it was not what he was looking for. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly. The patterns he is happy with are then drawn by hand or screen printed.&lt;/p&gt;
+&lt;p&gt;Richard&amp;rsquo;s &amp;ldquo;dotspace&amp;rdquo; pictures are inteference patterns, created by overlaying binary number sequences. These drawings are painstaking work which involve &lt;i&gt;a lot&lt;/i&gt; of counting. When we first met, he was screening for new, interesting patterns by hand. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly. The patterns he is happy with are then drawn by hand or screen printed.&lt;/p&gt;
 
 &lt;p&gt;Richard has presented his work at the Birmingham Architecture Festival, Birmingham City University, Midlands Arts Centre, Anglia Ruskin University, Ideas of Noise Festival and Balsall Heath Biennial. The &lt;code&gt;dotspace&lt;/code&gt; code is available in a Github repository, though it is very much a work in progress.&lt;/p&gt;
 
@@ -267,8 +273,6 @@ SDF
 &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve played with the band SDF for over ten years. We met in a pub when I was doing my A-levels. I was sat with a friend and a magician came to our table. For this magic trick he would need two other people, and the two on the table to the left of us would do. We got talking, they were looking for a band member (any instrument would do..), and a decade on we&amp;rsquo;re still going.&lt;/p&gt;
-
-&lt;p&gt;We released a tape record with the label Psykick Dancehall earlier this year - it&amp;rsquo;s available to listen to and buy &lt;a href=&#34;https://psykickdancehallrecordings.bandcamp.com/album/sdf-alana&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/sdf_circuits.jpg&#34; style=&#34;width: 36%&#34;&gt;&lt;/p&gt;
 
