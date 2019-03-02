@@ -115,9 +115,9 @@ Although most of my time and focus is now upon research, I&amp;rsquo;ve kept up 
       <description>&lt;p&gt;My publication list can also be accessed via &lt;a href=&#34;https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt; or &lt;a href=&#34;https://orcid.org/0000-0002-2992-9871&#34;&gt;Orcid&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Impact of non-parabolic electronic band structure on the optical and transport properties of photovoltaic materials&lt;/b&gt;&lt;/br&gt;
-&lt;em&gt;Just Accepted - Physical Review B&lt;/em&gt;&lt;/br&gt;
+&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/br&gt;
 Lucy D. Whalley, Jarvist M. Frost, Benjamin J. Morgan, Aron Walsh&lt;/br&gt;
-arXiv:1811.02281 &lt;/br&gt;
+DOI: 10.1103/PhysRevB.99.085207&lt;/br&gt;
 &lt;a href=&#34;../papers/effmass_arXiv.pdf&#34;&gt;Download here&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt; &lt;code&gt;effmass&lt;/code&gt;: An effective mass package&lt;/b&gt;&lt;/br&gt;
@@ -168,6 +168,9 @@ DOI: 10.1103/PhysRevB.94.220301 &lt;/br&gt;
 &lt;p&gt;&lt;img src=&#34;../images/cycle.png&#34; style=&#34;width: 25%; float: right; margin-left: 1em; margin-right: 1em&#34;&gt;
 &lt;img src=&#34;../images/saviours.jpg&#34; style=&#34;width: 24%; float: right&#34;&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;i&gt; My work as a materials scientist &lt;/i&gt;&lt;/br&gt;
+Girls in Physics series, London (UK), April 2019&lt;/p&gt;
+
 &lt;p&gt;&lt;i&gt;Saving the world with Quantum Mechanics &lt;/i&gt;&lt;/br&gt;
 Gunmaker&amp;rsquo;s Arms, Birmingham (UK), July 2017&lt;/p&gt;
 
@@ -183,15 +186,16 @@ Ort Cafe, Birmingham (UK), April 2014&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Academic workshops and presentations&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;[talk] &lt;i&gt;Publishing your Software Project with the Journal of Open Source Software&lt;/i&gt;&lt;/br&gt;
-Imperial College Research Software in Materials event, London (UK), January 2019&lt;/br&gt;
-&lt;a href=&#34;https://lucydot.github.io/slides/JOSS_0119&#34;&gt;Presentation here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[talk] &lt;i&gt; Distortions and Defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
+&lt;p&gt;[talk] &lt;i&gt; Charge carrier mobility in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
 Department of Materials Student Research Day, ICL, London (UK), March 2019&lt;/p&gt;
 
 &lt;p&gt;[talk] &lt;i&gt; Distortions and Defects in hybrid halide perovskites &lt;/i&gt;&lt;/br&gt;
-Thomas Young Centre Student Day, UCL, London (UK), February 2019&lt;/p&gt;
+Thomas Young Centre Student Day, UCL, London (UK), February 2019 &lt;/br&gt;
+&lt;a href=&#34;lucydot.github.io/slides/TYCD_0219&#34;&gt;Presentation here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[talk] &lt;i&gt;Publishing your Software Project with the Journal of Open Source Software&lt;/i&gt;&lt;/br&gt;
+Imperial College Research Software in Materials event, London (UK), January 2019&lt;/br&gt;
+&lt;a href=&#34;https://lucydot.github.io/slides/JOSS_0119&#34;&gt;Presentation here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;[poster] &lt;i&gt;Sustainable software development with Python&lt;/i&gt;&lt;/br&gt;
 Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Liverpool (UK), November 2018&lt;/p&gt;
