@@ -9,10 +9,15 @@ date = "2017-05-05T13:47:56+01:00"
 
 I like to talk about my work to a variety of audiences. If you'd like me to speak at your event, please email me at <img src="../images/email.png" alt="lucy at gmail dot com">
 
+The slides for some of my talks can be found [here](https://lucydot.github.io/slides/).
+
 <b>Public talks and outreach</b>
 
 <img src="../images/cycle.png" style="width: 25%; float: right; margin-left: 1em; margin-right: 1em">
 <img src="../images/saviours.jpg" style="width: 24%; float: right">
+
+<i> My work as a materials scientist </i></br>
+Girls in Physics series, London (UK), April 2019
 
 <i>Saving the world with Quantum Mechanics </i></br>
 Gunmaker's Arms, Birmingham (UK), July 2017
@@ -30,6 +35,13 @@ Ort Cafe, Birmingham (UK), April 2014
 
 <b>Academic workshops and presentations</b>
 
+[talk] <i> Charge carrier mobility in hybrid halide perovskites </i></br>
+Department of Materials Student Research Day, ICL, London (UK), March 2019
+
+[talk] <i> Distortions and Defects in hybrid halide perovskites </i></br>
+Thomas Young Centre Student Day, UCL, London (UK), February 2019 </br>
+[Presentation here](lucydot.github.io/slides/TYCD_0219)
+
 [talk] <i>Publishing your Software Project with the Journal of Open Source Software</i></br>
 Imperial College Research Software in Materials event, London (UK), January 2019</br>
 [Presentation here](https://lucydot.github.io/slides/JOSS_0119)
@@ -38,13 +50,13 @@ Imperial College Research Software in Materials event, London (UK), January 2019
 Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Liverpool (UK), November 2018
 
 [workshop] <i>Feed your Python with Pandas</i></br>
-Imperial College Research Computing week, London (UK), September 2018
+Imperial College Research Computing week, ICL, London (UK), September 2018
 
 [talk] <i>H-centre and V-centre defects in hybrid halide perovskites </i></br>
 Gordon Research Seminar: Utilizing and Mitigating Defects in Emerging Functional Materials, New Hampshire (USA), August 2018
 
 [talk] <i>Doping and Defects in hybrid halide perovskites </i></br>
-Centre for Plastic Electronics meeting, London (UK), August 2018
+Centre for Plastic Electronics meeting, ICL, London (UK), August 2018
 
 [talk] <i>Breaking periodicity: vibrations of defects in photovoltaic materials </i></br>
 CECAM Anharmonicity and thermal properties of solids, Paris (France), January 2018

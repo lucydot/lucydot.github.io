@@ -9,7 +9,7 @@ type = "post"
 
 `dotspace` is a collaboration with the musician and visual artist Richard Scott, who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.
 
-Richard's "dotspace" pictures are inteference patterns, created by overlaying binary number sequences. These drawings are painstaking work which involve <i>a lot</i> of counting. When we first met, he was screening for new, interesting patterns by hand. Richard would start a picture, work on it for a few days, then decide it was not what he was looking for. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly. The patterns he is happy with are then drawn by hand or screen printed.
+Richard's "dotspace" pictures are inteference patterns, created by overlaying binary number sequences. These drawings are painstaking work which involve <i>a lot</i> of counting. When we first met, he was screening for new, interesting patterns by hand. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly. The patterns he is happy with are then drawn by hand or screen printed.
 
 Richard has presented his work at the Birmingham Architecture Festival, Birmingham City University, Midlands Arts Centre, Anglia Ruskin University, Ideas of Noise Festival and Balsall Heath Biennial. The `dotspace` code is available in a Github repository, though it is very much a work in progress.
 

@@ -13,8 +13,6 @@ SDF
 
 I've played with the band SDF for over ten years. We met in a pub when I was doing my A-levels. I was sat with a friend and a magician came to our table. For this magic trick he would need two other people, and the two on the table to the left of us would do. We got talking, they were looking for a band member (any instrument would do..), and a decade on we're still going.
 
-We released a tape record with the label Psykick Dancehall earlier this year - it's available to listen to and buy [here](https://psykickdancehallrecordings.bandcamp.com/album/sdf-alana).
-
 <img src="../images/sdf_circuits.jpg" style="width: 36%">
 
 SDF is a collective - the sound and the people have changed over the years. Members include Adam Parkinson (AKA [Danelaw](https://soundcloud.com/thedanelaw)), Oliver Marchant (who co-runs the [Open Windows](https://www.facebook.com/openwindowssound/) experimental music night in London) and Adam White.

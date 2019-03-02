@@ -11,9 +11,9 @@ My publication list can also be accessed via [Google Scholar](https://scholar.go
 
 
 <b>Impact of non-parabolic electronic band structure on the optical and transport properties of photovoltaic materials</b></br>
-*In Review*</br>
+*Physical Review B*</br>
 Lucy D. Whalley, Jarvist M. Frost, Benjamin J. Morgan, Aron Walsh</br>
-arXiv:1811.02281 </br>
+DOI: 10.1103/PhysRevB.99.085207</br>
 [Download here](../papers/effmass_arXiv.pdf) </br>
 
 <b> `effmass`: An effective mass package</b></br>
