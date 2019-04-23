@@ -15,13 +15,17 @@
       <pubDate>Tue, 09 May 2017 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/about/</guid>
-      <description>&lt;p&gt;My name is Lucy Whalley and I am a PhD student researching the electronic structure of solar cell materials in the &lt;a href=&#34;http://wmd-group.github.io/&#34;&gt;Walsh Materials Design&lt;/a&gt; group at Imperial College London. &lt;a href=&#34;http://lucydot.github.io/blog/research/&#34;&gt;My research&lt;/a&gt; uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy.  Before my PhD I trained as a mathematics teacher, and I have worked as a teacher in a variety of settings - prisons, primary schools and cafes. I am &lt;a href=&#34;http://lucydot.github.io/blog/teaching/&#34;&gt;currently teaching&lt;/a&gt; basic programming skills to researchers at Imperial College London.&lt;/p&gt;
+      <description>&lt;p&gt;My name is Lucy Whalley (&lt;a href=&#34;../LW_resume.pdf&#34;&gt;My CV&lt;/a&gt;, &lt;img src=&#34;../images/email.png&#34; alt=&#34;lucy at gmail dot com&#34;&gt;):&lt;/p&gt;
 
-&lt;p&gt;If you&amp;rsquo;d like the nuts and bolts, please &lt;a href=&#34;../LW_resume.pdf&#34;&gt;download my CV&lt;/a&gt;. I can be contacted at &lt;img src=&#34;../images/email.png&#34; alt=&#34;lucy at gmail dot com&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./images/lattice_icon.png&#34; width=&#34;30&#34; height=&#34;30&#34;&gt; I am a PhD student researching the electronic structure of solar cell materials in the &lt;a href=&#34;http://wmd-group.github.io/&#34;&gt;Walsh Materials Design&lt;/a&gt; group at Imperial College London. &lt;a href=&#34;http://lucydot.github.io/research/&#34;&gt;My research&lt;/a&gt; uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy.&lt;/p&gt;
 
-&lt;p&gt;This website was built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with a tweaked version of the &lt;a href=&#34;https://github.com/aubm/hugo-code-editor-theme/&#34;&gt;code editor&lt;/a&gt; theme.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./images/teaching_icon.png&#34; width=&#34;30&#34; height=&#34;30&#34;&gt; I am a qualified teacher, and I have taught mathematics in a variety of settings - prisons, primary schools and cafes. I am &lt;a href=&#34;http://lucydot.github.io/teaching/&#34;&gt;currently teaching&lt;/a&gt; basic programming skills to researchers at Imperial College London.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/coding_icon.png&#34; width=&#34;30&#34; height=&#34;30&#34;&gt; I am a 2019 fellow of the &lt;a href=&#34;https://software.ac.uk/about&#34;&gt;Software Sustainability Institute&lt;/a&gt;. I am interested in how we can improve research practice in the computational sciences - with a focus on &lt;a href=&#34;https://lucydot.github.io/open/&#34;&gt;working openly&lt;/a&gt; and &lt;a href=&#34;https://lucydot.github.io/slides/SSI_0219/&#34;&gt;software publishing&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/lucydot.jpg&#34; style=&#34;width: 25%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;This website was built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with a tweaked version of the &lt;a href=&#34;https://github.com/aubm/hugo-code-editor-theme/&#34;&gt;code editor&lt;/a&gt; theme.&lt;/p&gt;
 </description>
     </item>
     
@@ -73,14 +77,22 @@
     </item>
     
     <item>
-      <title>working openly</title>
+      <title>open_science</title>
       <link>https://lucydot.github.io/open/</link>
       <pubDate>Sat, 06 May 2017 15:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/open/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Open&amp;rdquo; is a bit of a buzz-word at the moment: open source, open access, open data, open science&amp;hellip;but I agree with the fundamental idea of openness. I think it encourages efficient use of money and researcher time (less duplication), and a more equal scientific community (as some scientists do not have the resources to go to conferences or pay for journal subscriptions). I also think it could benefit me personally as a researcher (see &lt;a href=&#34;https://dx.doi.org/10.7554%2FeLife.16800&#34;&gt;&amp;ldquo;How open science helps researchers succeed&amp;rdquo;&lt;/a&gt;).&lt;/p&gt;
+      <description>&lt;p&gt;&amp;ldquo;Open&amp;rdquo; is a bit of a buzz-word at the moment: open source, open access, open data&amp;hellip; but openness &lt;em&gt;is&lt;/em&gt; necessary for scientific progress and the focus on open science is long overdue. Open science leads to:&lt;/p&gt;
 
-&lt;p&gt;So one of my targets is to work more openly: to make my &lt;a href=&#34;https://lucydot.github.io/publications&#34;&gt;papers&lt;/a&gt;, &lt;a href=&#34;https://github.com/lucydot/&#34;&gt;software code&lt;/a&gt;, &lt;a href=&#34;https://lucydot.github.io/slides&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;https://lucydot.github.io/applications&#34;&gt;funding applications&lt;/a&gt; available. I&amp;rsquo;m still learning about what &amp;ldquo;working openly&amp;rdquo; means, this is a work in progress!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;efficient use of money and researcher time (less duplication)&lt;/li&gt;
+&lt;li&gt;a more equal scientific community (as some scientists do not have the resources to go to conferences or pay for journal subscriptions)&lt;/li&gt;
+&lt;li&gt;reproducible research (see Stodden et al. &lt;a href=&#34;http://stodden.net/icerm_report.pdf&#34;&gt;&amp;ldquo;Setting the Default to Reproducible&amp;rdquo;&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also think that working openly could benefit me personally as a researcher (see &lt;a href=&#34;https://dx.doi.org/10.7554%2FeLife.16800&#34;&gt;&amp;ldquo;How open science helps researchers succeed&amp;rdquo;&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;So one of my targets is to work more openly: to make my &lt;a href=&#34;https://lucydot.github.io/publications&#34;&gt;papers&lt;/a&gt;, &lt;a href=&#34;https://github.com/lucydot/&#34;&gt;software code&lt;/a&gt;, &lt;a href=&#34;https://lucydot.github.io/slides&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;https://lucydot.github.io/applications&#34;&gt;funding applications&lt;/a&gt; available. As a &lt;a href=&#34;https://software.ac.uk/about/fellows/lucy-whalley&#34;&gt;2019 fellow&lt;/a&gt; of the Software Sustainability Institute I hope to learn more about working openly, and I want to encourage more scientists to publish their research code.&lt;/p&gt;
 </description>
     </item>
     
@@ -293,6 +305,20 @@ LIPSYNC
 &lt;p&gt;Me and my friends Blanche and Hetta have ran Lipsync nights at &lt;a href=&#34;http://ortcafe.co.uk/&#34;&gt;Ort cafe&lt;/a&gt; for the last couple of years. It&amp;rsquo;s better than Karaoke as you can forget about having to &lt;i&gt;sound&lt;/i&gt; good and just concentrate on &lt;i&gt;looking&lt;/i&gt; good. Plus it&amp;rsquo;s an excuse to dress up like Dolly Parton and listen to &lt;a href=&#34;https://www.youtube.com/watch?v=OTuQ9cKGSdM&#34;&gt;Jolene&lt;/a&gt; again and again.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DO4b-NpnWck&#34;&gt;Christmas Lipsync montage&lt;/a&gt; / &lt;a href=&#34;https://www.youtube.com/watch?v=LUzbbfl99es&#34;&gt;Spring Lipsync montage&lt;/a&gt; / &lt;a href=&#34;https://www.youtube.com/watch?v=eaG2FWx7yxk&#34;&gt;Autumn Lipsync montage&lt;/a&gt; / &lt;a href=&#34;https://www.youtube.com/watch?v=f8_SO90sy_8&#34;&gt;Promo video&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lucydot.github.io/SSI_Fellowship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucydot.github.io/SSI_Fellowship/</guid>
+      <description>&lt;p&gt;activities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meeting with Jeremy to discuss options for&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
