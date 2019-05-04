@@ -7,10 +7,14 @@ date = "2017-05-09T13:47:56+01:00"
 
 +++
 
-My name is Lucy Whalley and I am a PhD student researching the electronic structure of solar cell materials in the [Walsh Materials Design](http://wmd-group.github.io/) group at Imperial College London. [My research](http://lucydot.github.io/blog/research/) uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy.  Before my PhD I trained as a mathematics teacher, and I have worked as a teacher in a variety of settings - prisons, primary schools and cafes. I am [currently teaching](http://lucydot.github.io/blog/teaching/) basic programming skills to researchers at Imperial College London.
+My name is Lucy Whalley ([My CV](../LW_resume.pdf), <img src="../images/email.png" alt="lucy at gmail dot com">): 
 
-If you'd like the nuts and bolts, please [download my CV](../LW_resume.pdf). I can be contacted at <img src="../images/email.png" alt="lucy at gmail dot com">
+<img src="./images/lattice_icon.png" width="30" height="30"> I am a PhD student researching the electronic structure of solar cell materials in the [Walsh Materials Design](http://wmd-group.github.io/) group at Imperial College London. [My research](http://lucydot.github.io/research/) uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy.  
 
-This website was built using [Hugo](https://gohugo.io) with a tweaked version of the [code editor](https://github.com/aubm/hugo-code-editor-theme/) theme.
+<img src="./images/teaching_icon.png" width="30" height="30"> I am a qualified teacher, and I have taught mathematics in a variety of settings - prisons, primary schools and cafes. I am [currently teaching](http://lucydot.github.io/teaching/) basic programming skills to researchers at Imperial College London.
+
+<img src="./images/coding_icon.png" width="30" height="30"> I am a 2019 fellow of the [Software Sustainability Institute](https://software.ac.uk/about). I am interested in how we can improve research practice in the computational sciences - with a focus on [working openly](https://lucydot.github.io/open/) and [software publishing](https://lucydot.github.io/slides/SSI_0219/).
 
 <img src="../images/lucydot.jpg" style="width: 25%">
+
+This website was built using [Hugo](https://gohugo.io) with a tweaked version of the [code editor](https://github.com/aubm/hugo-code-editor-theme/) theme.
