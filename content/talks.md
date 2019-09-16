@@ -35,6 +35,9 @@ Ort Cafe, Birmingham (UK), April 2014
 
 <b>Academic workshops and presentations</b>
 
+[panel discussion] <i> Research Software best practices - why aren't we implementing them? </i></br>
+Fourth Conference of Research Software Engineers, Birmingham (UK), September 2019
+
 [talk] <i> Charge carrier mobility in hybrid halide perovskites </i></br>
 Department of Materials Student Research Day, ICL, London (UK), March 2019
 
