@@ -18,3 +18,4 @@ My name is Lucy Whalley ([My CV](../LW_resume.pdf), <img src="../images/email.pn
 <img src="../images/lucydot.jpg" style="width: 25%">
 
 This website was built using [Hugo](https://gohugo.io) with a tweaked version of the [code editor](https://github.com/aubm/hugo-code-editor-theme/) theme.
+
