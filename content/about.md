@@ -9,7 +9,7 @@ date = "2017-05-09T13:47:56+01:00"
 
 My name is Lucy Whalley ([My CV](../LW_resume.pdf), <img src="../images/email.png" alt="lucy at gmail dot com">): 
 
-<img src="./images/lattice_icon.png" width="30" height="30"> I am a PhD student researching the electronic structure of solar cell materials in the [Walsh Materials Design](http://wmd-group.github.io/) group at Imperial College London. [My research](http://lucydot.github.io/research/) uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy.  
+<img src="./images/lattice_icon.png" width="30" height="30"> I am a researcher in the [Materials Design Group](http://wmd-group.github.io/) at Imperial College London. [My research](http://lucydot.github.io/research/) uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy.  
 
 <img src="./images/teaching_icon.png" width="30" height="30"> I am a qualified teacher, and I have taught mathematics in a variety of settings - prisons, primary schools and cafes. I am [currently teaching](http://lucydot.github.io/teaching/) basic programming skills to researchers at Imperial College London.
 
