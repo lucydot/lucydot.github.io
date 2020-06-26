@@ -1,25 +1,43 @@
 +++
 date = "2017-05-06T13:47:56+01:00"
-title = "teaching"
+title = "Teaching"
 categories = []
 tags = []
 type = "post"
 
 +++
 
-I am a qualified teacher and hold a Post-Graduate Certificate in Education (PGCE) with a specialism in mathematics. 
-Although most of my time and focus is now upon research, I've kept up my teaching practice via the Software Carpentry organisation. With support from other volunteer instructors around the world, I teach basic programming skills (version control using git, bash shell scripting and python) to researchers at Imperial College London and beyond. If you are looking for someone to deliver a Software Carpentry lesson at your institution and think I may be able to help, please [get in contact](https://lucydot.github.io/blog/about/).
+Before my PhD I worked as a maths teacher in prisons and at a primary school. My favourite maths class was to talk about [what a naughty but clever boy Gauss was](https://magoosh.com/gre/2011/what-a-naughty-boy-can-teach-us-about-adding/).
+My current teaching is predominantly at the graduate level via the [Software Carpentry organisation](https://carpentries.org/). If you are looking for someone to deliver a Software Carpentry workshop at your institution and think I may be able to help, please [get in contact](mailto:l.whalley@northumbria.ac.uk).
 
-The Carpentries: [https://carpentries.org/](https://carpentries.org/) </br>
-<font size="-2">
-(Not to be confused with [The Carpenters](https://www.youtube.com/watch?v=evETS8_WFGE))
-</font>
+-----
 
-I've developed some resources for teaching an Introduction to the Python Pandas (data analysis) library which can be found [here](https://github.com/lucydot/feed-your-python).
+<big> <b>Course Materials </b></big> </br>
 
-Before starting my PhD, I worked as a trainee teacher at Winson Green Prison in Birmingham (UK) where I taught secondary school mathematics to male prisoners. I have also worked with women caught up in the criminal justice system: as a volunteer teacher at Riker's Island Prison, New York and paid work at Anawim Women's Centre, Birmingham. However the majority of my teaching experience was as a mathematics teacher at an inner city primary school in Birmingham. I was employed to teach national curriculum mathematics to children aged 9-11, although the job was nice and varied and also included training student teachers and teaching assistants. I also got to cover the back wall of my classroom with a big Sierpinski triangle and tell the kids about [what a naughty boy Gauss was](https://magoosh.com/gre/2011/what-a-naughty-boy-can-teach-us-about-adding/).
+Version control with git, Imperial College London, November 2019</br>
+Software Carpentry Workshop </br>
+[Website](https://kmichali.github.io/2019-11-14-Imperial/) | [pdf slides](https://lucydot.github.io/slides/1911_git/SWC_git_1911.pdf) | [Sketches](https://lucydot.github.io/slides/1911_git/A-board-sketches.jpg)
 
-<img src="../images/sierpinski.jpeg" style="width: 30%">
+Introduction to Python (for physicists), University of Bath, March 2019 </br>
+Software Carpentry Workshop, with examples using UV-Vis data </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/Python_0319) </br>
+
+Introduction to Python, Imperial College London, February 2019 </br>
+Software Carpentry Workshop </br>
+[Website](https://imperialcollegelondon.github.io/python-novice-mix/) | [Online slides](https://lucydot.github.io/slides/Python_0219) | [pdf slides](https://lucydot.github.io/slides/Python_0219/Python_0219.pdf) | [Notes](https://github.com/lucydot/slides/raw/gh-pages/Python_0219/Python_0219_notes.pdf)
+
+Feed your Python with Pandas, Imperial College London, September 2018</br>
+Short workshop on the Python Pandas library for data analysis </br>
+[Interactive notebook](https://github.com/lucydot/feed-your-python)
+
+Automating tasks with the unix shell, Imperial College London, June 2018 </br>
+Software Carpentry Workshop </br>
+[Website](https://swcarpentry.github.io/shell-novice/) | [ppt slides](../teaching/Unix_clean.pptx) | [Notes](../teaching/LW_unix_teaching_plan.pdf)
+
+Python for Science and Engineering, Yonsei University, Seoul (Korea), March 2017 </br>
+Formed part of the graduate level course "Energy Materials: Design, Discovery and Data" </br>
+[Interactive notebook](https://github.com/lucydot/python_notebook/blob/master/notebook.ipynb) | [Online slides](https://speakerdeck.com/lucydot/python-for-science-and-engineering)
+
 
 
 

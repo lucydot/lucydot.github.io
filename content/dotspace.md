@@ -2,24 +2,20 @@
 categories = []
 tags = []
 date = "2016-03-05T17:12:04+01:00"
-title = "dotspace"
+title = "Dotspace"
 type = "post"
 
 +++
 
-`dotspace` is a collaboration with the musician and visual artist Richard Scott, who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.
+`DotSpace` is a collaboration with the musician and visual artist [Richard Scott](https://richard-scott.info/home.html), who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.
 
-Richard's "dotspace" pictures are inteference patterns, created by overlaying binary number sequences. These drawings are painstaking work which involve <i>a lot</i> of counting. When we first met, he was screening for new, interesting patterns by hand. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly. The patterns he is happy with are then drawn by hand or screen printed.
+Richard's DotSpace pictures are discrete interference patterns, created by overlaying binary sequences. These drawings are painstaking work which involve a lot of counting. When we first met, he was screening for new, interesting patterns by hand. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly. The patterns he is happy with are then drawn by hand or screen printed.
 
-Richard has presented his work at the Birmingham Architecture Festival, Birmingham City University, Midlands Arts Centre, Anglia Ruskin University, Ideas of Noise Festival and Balsall Heath Biennial. The `dotspace` code is available in a Github repository, though it is very much a work in progress.
+Richard has presented his work at the Birmingham Architecture Festival, Birmingham City University, Midlands Arts Centre, Anglia Ruskin University, Ideas of Noise Festival and Balsall Heath Biennial. From October 2019 until January 2020 DotSpace exhibited at the Herbert Art Gallery and Museum, The Row Gallery and Leamington Spa Art Gallery and Museum as part of the [Coventry Biennial](https://www.theherbert.org/whats_on/1490/coventry_biennial__the_twin).
 
-Richard's website: [http://richard-md-scott.tumblr.com/](http://richard-md-scott.tumblr.com/)
+The DotSpace code is available in [a Github repository](https://github.com/lucydot/dotspace) and there is [a web app](https://boiling-peak-32563.herokuapp.com/voila/render/dotspace.ipynb) to create your own Dotspace patterns. 
 
-Dotspace code [WIP]: [https://github.com/lucydot/dotspace](https://github.com/lucydot/dotspace)
-
-
-<img src="../images/rscott.jpg" style="float: left; width: 20.5%; margin-left: 1%; margin-top: 2.5em;">
-<img src="../images/dotspace.png" style="float: middle; width: 32%; ">
-<img src="../images/dotspace_drawn.jpeg" style="float: left; width: 29%;margin-top: 1.4em; margin-left: 2em">
-
-Left: Richard Scott; Middle: Hand-drawn dotspace; Right: Screen-printed dotspace
+<img src="../images/dotspace.png" style="float: middle; height: 30em; ">
+<img src="../images/dotspace_drawn.jpeg" style="float: left; height: 27.25em; margin-top: 1.4em; margin-left: -0.4em">
+</br>
+Left: Hand-drawn dotspace; Right: Screen-printed dotspace

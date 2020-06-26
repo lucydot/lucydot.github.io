@@ -1,21 +1,47 @@
 +++
 date = "2017-05-07T13:47:56+01:00"
 tags = []
-title = "software"
+title = "Software"
 type = "post"
 categories = []
 
 +++
 
-I am a computational scientist and a significant part of my time is spent writing code. Some of this code helps me to submit and manage my calculations which run on various supercomputers (primarily [Archer, the UK national supercomputer](http://www.archer.ac.uk/)). The rest of the code I write is used to analyse and extract meaning from the output from these calculations (numbers --> physics). 
+As a computational scientist a significant part of my time is spent writing code. Some of this code is written to submit and manage calculations which run on various supercomputers (primarily [Archer, the UK national supercomputer](http://www.archer.ac.uk/)), and some is used to analyse and extract meaning from the output of these calculations (numbers --> physics). 
+Like many scientists, I am a self-taught programmer and have had very little in the way of training. The two things which have had the highest impact on the quality of code I write are: 1) teaching basic programming skills ([Software Carpentry](https://carpentries.org/)) to other researchers; 2) submitting a package ([effmass]((http://github.com/lucydot/effmass))) to the [Journal of Open Source Software](https://joss.theoj.org/), a peer-reviewed journal for research code.
 
-Python and Bash are my go-to languages. Like many scientists, I am a self-taught programmer and have had very little in the way of training. The two things which have had the highest impact on the quality of code I write are: 1) teaching basic programming skills ([Software Carpentry](https://carpentries.org/)) to other researchers; 2) submitting a package to the [Journal of Open Source Software](https://joss.theoj.org/), a peer-reviewed journal for research code.
+The code I write relies heavily upon open source tools, some of which are listed on my [personal roadmap](https://lucydot.github.io/blog/roadmap/).
+Through a fellowship with the [Software Sustainability Institute](https://www.software.ac.uk) I am collaborating with [CodeRefinery](https://coderefinery.org/) to develop resources so that other researchers have the skills in place to publish their code.
 
-The package I submitted for peer-review is called `effmass`  and it is my first Python package with all the bells and whistles. It calculates the effective mass of electrons in a semiconductor, using a variety of definitions taken from solid state physics circa 1950. The bells and whistles were an enjoyable learning curve including documentation, testing and continuous integration. 
+-----
 
-Effmass package: [http://github.com/lucydot/effmass](http://github.com/lucydot/effmass)
+<big>
+<b>Research software and scripts</b> </big>
 
-My research would be made much more difficult if it were not for people sharing their code through websites such as Github. A big shout out to the open source community!
+<i> CarrierCapture.jl: Anharmonic carrier capture</i></br>
+[Repository](https://github.com/WMD-group/CarrierCapture.jl) | [Paper](https://doi.org/10.21105/joss.02102)
 
-<img src="../images/open_source.png" style="float: left; width: 40%;">
+<i> Effmass: An effective mass package </i></br>
+[Repository](https://github.com/lucydot/effmass) | [Paper](https://doi.org/10.21105/joss.00797)
+
+<i>Vesta_vectors: Visualise atomic displacement</i></br>
+[Repository](https://github.com/lucydot/vesta_vectors)
+
+<i> Scripts for job submissions, analysis and publications</i></br>
+[Repository](https://github.com/lucydot/scripts)
+
+------
+
+<big>
+<b>Other software</b></big>
+
+<i> Dotspace code </i></br>
+[Repository](https://github.com/lucydot/dotspace) | [Info](https://lucydot.github.io/blog/dotspace/)
+
+<i> Dotspace web app (aka Grain Generator) </i></br>
+[Repository](https://github.com/lucydot/dotspace_heroku) | [Info](https://lucydot.github.io/blog/dotspace/)
+
+
+
+
 
