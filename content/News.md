@@ -8,7 +8,7 @@ date = "2012-05-04T13:47:57+01:00"
 +++
 
 <b>1st June 2020</b> </br>
-Today is my first official day as a Vice-Chancellor's fellow at Northumbria University. I'm on maternity leave until October, but happy to stop thinking about baby Robin for a little while and attend the online induction events. With lots of events moving online it's been easy for me to keep a toe in the academic waters. I welcome being able to stay in touch during maternity leave, as long as it's on my terms :)
+Today is my first official day as a Vice-Chancellor's fellow at Northumbria University. I'm on maternity leave until October, but happy to stop thinking about baby Robin for a little while and attend the online induction events. With lots of events moving online it's been easy for me to keep a toe in the academic waters.
 
 <b>12th March 2020</b></br>
 Our CarrierCapture.jl software has been accepted for publication with [the Journal of Open Source Software](https://joss.theoj.org/). The accompanying paper can be found [here](https://joss.theoj.org/papers/10.21105/joss.02102).
