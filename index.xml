@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucydot</title>
+    <title>Lucy Whalley</title>
     <link>https://lucydot.github.io/</link>
-    <description>Recent content on Lucydot</description>
+    <description>Recent content on Lucy Whalley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2017 13:47:56 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 13:47:56 +0100</lastBuildDate>
     
 	<atom:link href="https://lucydot.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>about</title>
-      <link>https://lucydot.github.io/about/</link>
-      <pubDate>Tue, 09 May 2017 13:47:56 +0100</pubDate>
-      
-      <guid>https://lucydot.github.io/about/</guid>
-      <description>Update 01/01/2020: I&amp;rsquo;m currently on maternity leave ! In October 2020 I&amp;rsquo;ll be continuing my research as a Fellow at Northumbria University.
-My name is Lucy Whalley (My CV, ):
-My research uses solid-state physics and supercomputers to investigate why particular materials can efficiently convert sunlight into electrical energy. I completed my PhD in the Materials Design Group at Imperial College London.
-I am a qualified teacher, and I have taught mathematics in a variety of settings - prisons, primary schools and cafes.</description>
-    </item>
-    
-    <item>
-      <title>research</title>
+      <title>Research</title>
       <link>https://lucydot.github.io/research/</link>
       <pubDate>Mon, 08 May 2017 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/research/</guid>
-      <description>My recent research has focused on a family of materials called the hybrid halide perovskites. These materials have become incredibly popular over the last decade as they can convert sunlight into electricity efficiently, and have the potential to form more flexible, lightweight and cheaper solar panels than those currently on the market. My research aims to understand the quantum physics underlying this material so that we can improve the efficiency of future devices.</description>
+      <description>My research interests are centred around materials used for renewable energy generation (e.g. solar cells) and storage (e.g. reusable batteries). I use a branch of physics called Density Functional Theory (DFT) to predict the properties of these materials and link the macroscopic observables (such as open circuit voltage or thermodynamic stability) with microscopic processes (such as electron capture or electron-phonon coupling).
+DFT is an ab-initio method derived from quantum mechanics and can be used to predict material properties without experimental input [1].</description>
     </item>
     
     <item>
-      <title>software</title>
+      <title>Software</title>
       <link>https://lucydot.github.io/software/</link>
       <pubDate>Sun, 07 May 2017 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/software/</guid>
-      <description>I am a computational scientist and a significant part of my time is spent writing code. Some of this code helps me to submit and manage my calculations which run on various supercomputers (primarily Archer, the UK national supercomputer). The rest of the code I write is used to analyse and extract meaning from the output from these calculations (numbers &amp;ndash;&amp;gt; physics).
-Python and Bash are my go-to languages. Like many scientists, I am a self-taught programmer and have had very little in the way of training.</description>
+      <description>As a computational scientist a significant part of my time is spent writing code. Some of this code is written to submit and manage calculations which run on various supercomputers (primarily Archer, the UK national supercomputer), and some is used to analyse and extract meaning from the output of these calculations (numbers &amp;ndash;&amp;gt; physics). Like many scientists, I am a self-taught programmer and have had very little in the way of training.</description>
     </item>
     
     <item>
-      <title>open_science</title>
-      <link>https://lucydot.github.io/open/</link>
-      <pubDate>Sat, 06 May 2017 15:47:56 +0100</pubDate>
-      
-      <guid>https://lucydot.github.io/open/</guid>
-      <description>&amp;ldquo;Open&amp;rdquo; is a bit of a buzz-word at the moment: open source, open access, open data&amp;hellip; but openness is necessary for scientific progress and the focus on open science is long overdue. Open science leads to:
- efficient use of money and researcher time (less duplication) a more equal scientific community (as some scientists do not have the resources to go to conferences or pay for journal subscriptions) reproducible research (see Stodden et al.</description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
+      <title>Teaching</title>
       <link>https://lucydot.github.io/teaching/</link>
       <pubDate>Sat, 06 May 2017 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/teaching/</guid>
-      <description>I am a qualified teacher and hold a Post-Graduate Certificate in Education (PGCE) with a specialism in mathematics. Although most of my time and focus is now upon research, I&amp;rsquo;ve kept up my teaching practice via the Software Carpentry organisation. With support from other volunteer instructors around the world, I teach basic programming skills (version control using git, bash shell scripting and python) to researchers at Imperial College London and beyond.</description>
+      <description>Before my PhD I worked as a maths teacher in prisons and at a primary school. My favourite maths class was to talk about what a naughty but clever boy Gauss was. My current teaching is predominantly at the graduate level via the Software Carpentry organisation. If you are looking for someone to deliver a Software Carpentry workshop at your institution and think I may be able to help, please get in contact.</description>
     </item>
     
     <item>
-      <title>publications</title>
+      <title>Publications</title>
       <link>https://lucydot.github.io/publications/</link>
       <pubDate>Sat, 06 May 2017 12:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/publications/</guid>
       <description>My publication list can also be accessed via Google Scholar or Orcid.
-Intrinsic doping limit and defect-assisted luminescence in Cs4PbBr 6 Journal of Materials Chemistry A Young-Kwang Jung, Joaquin Calbo, Ji-Sang Park, Lucy D. Whalley, Sunghyun Kim, Aron Walsh DOI: 10.1039/C9TA06874K  Download here 
-Accumulation of Deep Traps at Grain Boundaries in Halide Perovskites ACS Energy Letters Ji-Sang Park, Joaquín Calbo, Young-Kwang Jung, Lucy D Whalley, Aron Walsh DOI: 10.</description>
+Preprints
+Quick-start guide for first-principles modelling of point defects in crystalline materials ArXiv Pre-print Sunghyun Kim, Samantha N. Hood, Ji-Sang Park, Lucy D. Whalley, Aron Walsh arXiv | pdf 
+2020
+CarrierCapture. jl: Anharmonic Carrier Capture The Journal of Open Source Software Sunghyun Kim, Samantha N. Hood, Puck van Gerwen, Lucy D. Whalley, Aron Walsh DOI:10.21105/joss.02102 | pdf | Code</description>
     </item>
     
     <item>
-      <title>talks</title>
+      <title>Talks</title>
       <link>https://lucydot.github.io/talks/</link>
       <pubDate>Fri, 05 May 2017 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/talks/</guid>
-      <description>I like to talk about my work to a variety of audiences. If you&amp;rsquo;d like me to speak at your event, please email me at The slides for some of my talks can be found here.
-Public talks and outreach
- My work as a materials scientist  Girls in Physics series, London (UK), April 2019
-Saving the world with Quantum Mechanics  Gunmaker&amp;rsquo;s Arms, Birmingham (UK), July 2017
-Renewable energy workshop St Saviour&amp;rsquo;s School, Bath (UK), March 2016 Video here</description>
+      <description>If you&amp;rsquo;d like me to speak at your event, please contact me. The slides for some of my talks can be found here.
+ Seminars and Conferences 
+[seminar]  Carrier capture via multiphonon emission  Oba group seminar, Tokyo Institute of Technology, Tokyo (JPN), November 2019 Online slides
+[panel discussion]  Research Software best practices - why aren&amp;rsquo;t we implementing them?  Fourth Conference of Research Software Engineers, Birmingham (UK), September 2019</description>
     </item>
     
     <item>
-      <title>dotspace</title>
+      <title>Roadmap</title>
+      <link>https://lucydot.github.io/roadmap/</link>
+      <pubDate>Thu, 04 May 2017 13:47:56 +0100</pubDate>
+      
+      <guid>https://lucydot.github.io/roadmap/</guid>
+      <description>This is a personal research roadmap, inspired by the personal mathematical roadmap of Julia Wolf. It is an evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not an exhaustive list but highlights what I have found particularly useful. The purpose is to provide a subjective guide for those new to the research area, and a reminder for myself.
+I use a pound sign to denote that there is an associated cost and a star to denote open source projects.</description>
+    </item>
+    
+    <item>
+      <title>Dotspace</title>
       <link>https://lucydot.github.io/dotspace/</link>
       <pubDate>Sat, 05 Mar 2016 17:12:04 +0100</pubDate>
       
       <guid>https://lucydot.github.io/dotspace/</guid>
-      <description>Update (Sep 2019): From the 5th of October 2019 until the 26th of January 2020 DotSpace will be exhibited at the Herbert Art Gallery and Museum, The Row Gallery and Leamington Spa Art Gallery and Museum as part of the Coventry Biennial. For more information please follow this link.
-Update (Sep 2019): I am currently developing a web app to generate DotSpace pictures - it is a work-in-progress, a beta version can be found here.</description>
+      <description>DotSpace is a collaboration with the musician and visual artist Richard Scott, who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.
+Richard&amp;rsquo;s DotSpace pictures are discrete interference patterns, created by overlaying binary sequences. These drawings are painstaking work which involve a lot of counting. When we first met, he was screening for new, interesting patterns by hand. I offered to write a programme to automate this screening step and allow Richard to generate trial pictures very quickly.</description>
     </item>
     
     <item>
-      <title>misc.</title>
-      <link>https://lucydot.github.io/miscellaneous/</link>
+      <title>News</title>
+      <link>https://lucydot.github.io/news/</link>
+      <pubDate>Fri, 04 May 2012 13:47:57 +0100</pubDate>
+      
+      <guid>https://lucydot.github.io/news/</guid>
+      <description>1st June 2020  Today is my first official day as a Vice-Chancellor&amp;rsquo;s fellow at Northumbria University. I&amp;rsquo;m on maternity leave until October, but happy to stop thinking about baby Robin for a little while and attend the online induction events. With lots of events moving online it&amp;rsquo;s been easy for me to keep a toe in the academic waters.
+12th March 2020 Our CarrierCapture.jl software has been accepted for publication with the Journal of Open Source Software.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lucydot.github.io/about/</link>
       <pubDate>Fri, 04 May 2012 13:47:56 +0100</pubDate>
       
-      <guid>https://lucydot.github.io/miscellaneous/</guid>
-      <description>SDF 
-I&amp;rsquo;ve played with the band SDF for over ten years. We met in a pub when I was doing my A-levels. I was sat with a friend and a magician came to our table. For this magic trick he would need two other people, and the two on the table to the left of us would do. We got talking, they were looking for a band member, and a decade on we&amp;rsquo;re still going.</description>
+      <guid>https://lucydot.github.io/about/</guid>
+      <description>Website Credits and License 
+This website was built using Hugo with a tweaked version of the code editor theme. The image on the landing page was created by Richard Scott and is used with permission.
+The content of this website, unless otherwise indicated, is licensed under a Creative Commons Attribution 4.0 International License. You can re-use any of its content as long as the following attribution is included, and you indicate if changes were made: © 2020 by Lucy Whalley (CC-BY 4.</description>
     </item>
     
     <item>
