@@ -35,11 +35,11 @@ Through a fellowship with the [Software Sustainability Institute](https://www.so
 <big>
 <b>Other software</b></big>
 
-<i> Dotspace code </i></br>
-[Repository](https://github.com/lucydot/dotspace) | [Info](https://lucydot.github.io/blog/dotspace/)
+<i> Dotspace command line </i></br>
+[Repository](https://github.com/lucydot/dotspace) | [Info](https://lucydot.github.io/dotspace/)
 
 <i> Dotspace web app (aka Grain Generator) </i></br>
-[Repository](https://github.com/lucydot/dotspace_heroku) | [Info](https://lucydot.github.io/blog/dotspace/)
+[Repository](https://github.com/lucydot/dotspace_heroku) | [Info](https://lucydot.github.io/dotspace/)
 
 
 

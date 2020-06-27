@@ -31,7 +31,7 @@ The content of this website, unless otherwise indicated, is licensed under a [Cr
 
 Lucy Dorothy Whalley
 
-<b> Contact </b>
+<b> Details </b>
 
 Department of Mathematics, Physics & Electrical Engineering </br>
 Northumbria University </br>

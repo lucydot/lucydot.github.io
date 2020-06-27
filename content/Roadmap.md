@@ -9,7 +9,7 @@ categories = []
 
 This is a personal research roadmap, inspired by the [personal mathematical roadmap of Julia Wolf](http://www.juliawolf.org/research/roadmap.shtml). It is an evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not an exhaustive list but highlights what I have found particularly useful. The purpose is to provide a subjective guide for those new to the research area, and a reminder for myself.
 
-I use a pound sign to denote that there is an associated cost and a star to denote open source projects. If any links are broken, then please [let me know](mailto:l.whalley@northumbria.ac.uk).
+For online tools I use a pound sign to denote that there is an associated cost and a star to denote open source projects. If you use any of the tools please [cite accordingly](https://www.software.ac.uk/how-cite-software). If any links are broken, then please [let me know](mailto:l.whalley@northumbria.ac.uk).
 
 -----
 
@@ -27,7 +27,7 @@ Computing (local)</b></big>
 
 - Operating System: I find that using a unix-based system is easiest for code development, and that there are less "why doesn't this work?" moments with a Mac. (Although I haven't used a linux OS for almost 10 years; [ubuntu]()<sup>* </sup> has most likely improved a lot in that time)
 - Hardware: For post-processing, writing code and other computationally lightweight tasks I use a MacBook Air with an external monitor, keyboard and [curiously shaped ergonomic mouse](https://www.rsi-shop.co.uk/products/penguin-ambidextrous-vertical-mouse-medium-wired-usb.asp). I have an iMac in the office which can also do some lightweight DFT.
-- Back-ups: For local machines I use a combination of [Dropbox](dropbox.com),<sup>£ </sup> [Github](github.com) and an external drive.
+- Back-ups: For local machines I use a combination of [Dropbox](dropbox.com)<sup>£ </sup>, [Github](github.com) and an external drive.
 
 <big><b>
 Computing (high performance)</b></big>
@@ -48,12 +48,12 @@ Textbooks</b></big>
 <big><b>
 Electronic structure</b></big>
 
-- Density Functional Theory: [Vasp](www.vasp.at)<sup>£</sup> and [ASE](https://wiki.fysik.dtu.dk/ase/index.html)
-- Analysis: [vasppy](https://github.com/bjmorgan/vasppy), [effmass](effmass), [kgrid](https://github.com/WMD-group/kgrid), [PolaronMobility]()
-- Plotting: [sumo](https://sumo.readthedocs.io/en/latest/?badge=latest)
+- Density Functional Theory: [Vasp](www.vasp.at)<sup>£</sup> and [ASE](https://wiki.fysik.dtu.dk/ase/index.html)<sup>* </sup>
+- Analysis: [vasppy](https://github.com/bjmorgan/vasppy)<sup>* </sup>, [effmass](https://github.com/lucydot/effmass)<sup>* </sup>, [kgrid](https://github.com/WMD-group/kgrid)<sup>* </sup> and [PolaronMobility](https://github.com/jarvist/PolaronMobility.jl)<sup>* </sup>
+- Plotting: [sumo](https://sumo.readthedocs.io/en/latest/?badge=latest)<sup>* </sup>
 - Visualisation: [Vesta](https://jp-minerals.org/vesta/en/)
 - Crystal structures database: [ICSD](https://icsdoffsite.psds.ac.uk/search/basic.xhtml;jsessionid=DBCA48F5394A5B0C1ED27257E58309F8)
-- Property databases: [Materials Project](https://materialsproject.org/) and [Semiconductors: Data Handbook](https://link.springer.com/book/10.1007/978-3-642-18865-7) by Otfried Madelung
+- Property databases: [Materials Project](https://materialsproject.org/) (powered by [pymatgen](https://pymatgen.org/)<sup>* </sup>) and [Semiconductors: Data Handbook](https://link.springer.com/book/10.1007/978-3-642-18865-7) by Otfried Madelung
 
 <big><b>
 Defects</b></big>
@@ -65,15 +65,15 @@ Defects</b></big>
 <big><b>
 Phonons</b></big>
 
-- Calculators: phonopy, phono3py
-- Processing: ModeMap, JuliaPhonons, ASCIIphonons
+- Calculators: [phonopy](https://phonopy.github.io/phonopy/)<sup>* </sup> (harmonic and quasi-harmonic), [phono3py](https://phonopy.github.io/phono3py/)<sup>* </sup> (third order phonon-phonon interactions)
+- Processing: [ModeMap](https://github.com/JMSkelton/ModeMap)<sup>* </sup>, [JuliaPhonons](https://github.com/jarvist/Julia-Phonons)<sup>* </sup>, [ASCIIphonons](https://github.com/ajjackson/ascii-phonons)<sup>* </sup>
 - Review articles: TODO
-- textbooks: TODO
+- Textbooks: [Inbtroduction to Lattice Dynamics](https://www.cambridge.org/core/books/introduction-to-lattice-dynamics/85943FCCF2BA2797CE53D96D3A8BFCBF) by Martin Dove.
 
 <big><b>
 Photovoltaics</b></big>
 
-- Database: [NREL chart]()
+- Efficiency tables: [NREL](https://www.nrel.gov/pv/cell-efficiency.html), [JPhys Energy emerging inorganic](https://iopscience.iop.org/article/10.1088/2515-7655/ab2338)
 
 <big><b>
 Python</b></big>
@@ -92,7 +92,6 @@ Machine Learning</b></big>
 
 - TODO
 
-
 <big><b>
 Publications</b></big>
 
@@ -105,7 +104,7 @@ Publications</b></big>
 Research and travel funding</b></big></br>
 (note that this is very much a *wish list*!)
 
-- EPSRC: [Fellowship programme](https://epsrc.ukri.org/skills/fellows/overview/)
+- EPSRC: [New investigator award](https://epsrc.ukri.org/funding/applicationprocess/routes/newac/nia/), [Fellowship programme](https://epsrc.ukri.org/skills/fellows/overview/)
 - UKRI: [Future Leaders Fellowships](https://www.ukri.org/funding/funding-opportunities/future-leaders-fellowships/)
 - Royal Society: [Dorothy Hodgkins fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/)
 
@@ -118,6 +117,8 @@ Professional communities</b></big>
 - CECAM
 - MRS
 - Gordon Conference
+- Software Sustainability Institute
+- RSESociety
 
 
 <big><b>
