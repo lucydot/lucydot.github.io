@@ -71,7 +71,7 @@ CarrierCapture. jl: Anharmonic Carrier Capture The Journal of Open Source Softwa
       
       <guid>https://lucydot.github.io/roadmap/</guid>
       <description>This is a personal research roadmap, inspired by the personal mathematical roadmap of Julia Wolf. It is an evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not an exhaustive list but highlights what I have found particularly useful. The purpose is to provide a subjective guide for those new to the research area, and a reminder for myself.
-I use a pound sign to denote that there is an associated cost and a star to denote open source projects.</description>
+For online tools I use a pound sign to denote that there is an associated cost and a star to denote open source projects.</description>
     </item>
     
     <item>

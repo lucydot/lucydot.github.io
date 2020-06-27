@@ -60,7 +60,7 @@
 <article>
     <p>This is a personal research roadmap, inspired by the <a href="http://www.juliawolf.org/research/roadmap.shtml">personal mathematical roadmap of Julia Wolf</a>. It is an evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not an exhaustive list but highlights what I have found particularly useful. The purpose is to provide a subjective guide for those new to the research area, and a reminder for myself.</p>
 
-<p>I use a pound sign to denote that there is an associated cost and a star to denote open source projects. If any links are broken, then please <a href="mailto:l.whalley@northumbria.ac.uk">let me know</a>.</p>
+<p>For online tools I use a pound sign to denote that there is an associated cost and a star to denote open source projects. If you use any of the tools please <a href="https://www.software.ac.uk/how-cite-software">cite accordingly</a>. If any links are broken, then please <a href="mailto:l.whalley@northumbria.ac.uk">let me know</a>.</p>
 
 <hr />
 
@@ -81,7 +81,7 @@ Computing (local)</b></big></p>
 <ul>
 <li>Operating System: I find that using a unix-based system is easiest for code development, and that there are less &ldquo;why doesn&rsquo;t this work?&rdquo; moments with a Mac. (Although I haven&rsquo;t used a linux OS for almost 10 years; [ubuntu]()<sup>* </sup> has most likely improved a lot in that time)</li>
 <li>Hardware: For post-processing, writing code and other computationally lightweight tasks I use a MacBook Air with an external monitor, keyboard and <a href="https://www.rsi-shop.co.uk/products/penguin-ambidextrous-vertical-mouse-medium-wired-usb.asp">curiously shaped ergonomic mouse</a>. I have an iMac in the office which can also do some lightweight DFT.</li>
-<li>Back-ups: For local machines I use a combination of <a href="dropbox.com">Dropbox</a>,<sup>£ </sup> <a href="github.com">Github</a> and an external drive.</li>
+<li>Back-ups: For local machines I use a combination of <a href="dropbox.com">Dropbox</a><sup>£ </sup>, <a href="github.com">Github</a> and an external drive.</li>
 </ul>
 
 <p><big><b>
@@ -108,12 +108,12 @@ Textbooks</b></big></p>
 Electronic structure</b></big></p>
 
 <ul>
-<li>Density Functional Theory: <a href="www.vasp.at">Vasp</a><sup>£</sup> and <a href="https://wiki.fysik.dtu.dk/ase/index.html">ASE</a></li>
-<li>Analysis: <a href="https://github.com/bjmorgan/vasppy">vasppy</a>, <a href="effmass">effmass</a>, <a href="https://github.com/WMD-group/kgrid">kgrid</a>, [PolaronMobility]()</li>
-<li>Plotting: <a href="https://sumo.readthedocs.io/en/latest/?badge=latest">sumo</a></li>
+<li>Density Functional Theory: <a href="www.vasp.at">Vasp</a><sup>£</sup> and <a href="https://wiki.fysik.dtu.dk/ase/index.html">ASE</a><sup>* </sup></li>
+<li>Analysis: <a href="https://github.com/bjmorgan/vasppy">vasppy</a><sup>* </sup>, <a href="https://github.com/lucydot/effmass">effmass</a><sup>* </sup>, <a href="https://github.com/WMD-group/kgrid">kgrid</a><sup>* </sup> and <a href="https://github.com/jarvist/PolaronMobility.jl">PolaronMobility</a><sup>* </sup></li>
+<li>Plotting: <a href="https://sumo.readthedocs.io/en/latest/?badge=latest">sumo</a><sup>* </sup></li>
 <li>Visualisation: <a href="https://jp-minerals.org/vesta/en/">Vesta</a></li>
 <li>Crystal structures database: <a href="https://icsdoffsite.psds.ac.uk/search/basic.xhtml;jsessionid=DBCA48F5394A5B0C1ED27257E58309F8">ICSD</a></li>
-<li>Property databases: <a href="https://materialsproject.org/">Materials Project</a> and <a href="https://link.springer.com/book/10.1007/978-3-642-18865-7">Semiconductors: Data Handbook</a> by Otfried Madelung</li>
+<li>Property databases: <a href="https://materialsproject.org/">Materials Project</a> (powered by <a href="https://pymatgen.org/">pymatgen</a><sup>* </sup>) and <a href="https://link.springer.com/book/10.1007/978-3-642-18865-7">Semiconductors: Data Handbook</a> by Otfried Madelung</li>
 </ul>
 
 <p><big><b>
@@ -129,17 +129,17 @@ Defects</b></big></p>
 Phonons</b></big></p>
 
 <ul>
-<li>Calculators: phonopy, phono3py</li>
-<li>Processing: ModeMap, JuliaPhonons, ASCIIphonons</li>
+<li>Calculators: <a href="https://phonopy.github.io/phonopy/">phonopy</a><sup>* </sup> (harmonic and quasi-harmonic), <a href="https://phonopy.github.io/phono3py/">phono3py</a><sup>* </sup> (third order phonon-phonon interactions)</li>
+<li>Processing: <a href="https://github.com/JMSkelton/ModeMap">ModeMap</a><sup>* </sup>, <a href="https://github.com/jarvist/Julia-Phonons">JuliaPhonons</a><sup>* </sup>, <a href="https://github.com/ajjackson/ascii-phonons">ASCIIphonons</a><sup>* </sup></li>
 <li>Review articles: TODO</li>
-<li>textbooks: TODO</li>
+<li>Textbooks: <a href="https://www.cambridge.org/core/books/introduction-to-lattice-dynamics/85943FCCF2BA2797CE53D96D3A8BFCBF">Inbtroduction to Lattice Dynamics</a> by Martin Dove.</li>
 </ul>
 
 <p><big><b>
 Photovoltaics</b></big></p>
 
 <ul>
-<li>Database: [NREL chart]()</li>
+<li>Efficiency tables: <a href="https://www.nrel.gov/pv/cell-efficiency.html">NREL</a>, <a href="https://iopscience.iop.org/article/10.1088/2515-7655/ab2338">JPhys Energy emerging inorganic</a></li>
 </ul>
 
 <p><big><b>
@@ -193,6 +193,8 @@ Professional communities</b></big></p>
 <li>CECAM</li>
 <li>MRS</li>
 <li>Gordon Conference</li>
+<li>Software Sustainability Institute</li>
+<li>RSESociety</li>
 </ul>
 
 <p><big><b>
