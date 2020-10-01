@@ -14,6 +14,13 @@ My current teaching is predominantly at the graduate level via the [Software Car
 
 <big> <b>Course Materials </b></big> </br>
 
+<b>Upcoming</b>
+
+Introduction to Python, Renewable Energy Northeast Universities Centre for Doctoral Training, November 2020</br>
+Website and slides will be posted here soon
+
+<b>2019</b>
+
 Version control with git, Imperial College London, November 2019</br>
 Software Carpentry Workshop </br>
 [Website](https://kmichali.github.io/2019-11-14-Imperial/) | [pdf slides](https://lucydot.github.io/slides/1911_git/SWC_git_1911.pdf) | [Sketches](https://lucydot.github.io/slides/1911_git/A-board-sketches.jpg)
@@ -25,6 +32,8 @@ Software Carpentry Workshop, with examples using UV-Vis data </br>
 Introduction to Python, Imperial College London, February 2019 </br>
 Software Carpentry Workshop </br>
 [Website](https://imperialcollegelondon.github.io/python-novice-mix/) | [Online slides](https://lucydot.github.io/slides/Python_0219) | [pdf slides](https://lucydot.github.io/slides/Python_0219/Python_0219.pdf) | [Notes](https://github.com/lucydot/slides/raw/gh-pages/Python_0219/Python_0219_notes.pdf)
+
+<b>2018</b>
 
 Feed your Python with Pandas, Imperial College London, September 2018</br>
 Short workshop on the Python Pandas library for data analysis </br>

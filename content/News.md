@@ -7,6 +7,12 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
+<b> 1st October 2020</b> </br>
+It's my first day back from maternity leave. I'm thinking about my strategy for the next three years, writing applications for computer time and (virtually) meeting with my new colleagues at Northumbria University. Pleased to be back on board.
+
+<b>31st July 2020</b> </br>
+Our quick-start guide for first-principles modelling of point defects has been published in JPhys Energy. The paper is Open Access and available [here](https://doi.org/10.1088/2515-7655/aba081).
+
 <b>1st June 2020</b> </br>
 Today is my first official day as a Vice-Chancellor's fellow at Northumbria University. I'm on maternity leave until October, but happy to stop thinking about baby Robin for a little while and attend the online induction events. With lots of events moving online it's been easy for me to keep a toe in the academic waters.
 

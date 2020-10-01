@@ -9,15 +9,13 @@ categories = []
 
 My publication list can also be accessed via [Google Scholar](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0002-2992-9871).
 
-<b>Preprints</b>
+<b>2020</b>
 
 Quick-start guide for first-principles modelling of point defects in crystalline materials</br>
-*ArXiv Pre-print*</br>
+*JPhys Energy*</br>
 Sunghyun Kim, Samantha N. Hood, Ji-Sang Park, Lucy D. Whalley, Aron Walsh</br>
-[arXiv](https://arxiv.org/abs/2005.01941) |
+[DOI:10.1088/2515-7655/aba081](https://doi.org/10.1088/2515-7655/aba081) |
 [pdf](../papers/quickstart.pdf) </br>
-
-<b>2020</b>
 
 CarrierCapture. jl: Anharmonic Carrier Capture</br>
 *The Journal of Open Source Software*</br>

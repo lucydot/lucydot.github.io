@@ -13,24 +13,33 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 <big>
 <b>Seminars and Conferences</b> </big>
 
+<b>Upcoming</b>
+
+[seminar] [online event] <i> The impact of nonparabolic bandstructure on the optical and transport properties of photovoltaic materials </i></br>
+Center for Quantum Research and Technology seminar series, The University of Oklahoma (US), 13th November at 12pm Central Time
+
+<b>2019</b>
+
 [seminar] <i> Carrier capture via multiphonon emission </i></br>
-Oba group seminar, Tokyo Institute of Technology, Tokyo (JPN), November 2019
+Oba group seminar, Tokyo Institute of Technology, Tokyo (JPN), November 2019 </br>
 [Online slides](https://lucydot.github.io/slides/1910_Oba)
 
 [panel discussion] <i> Research Software best practices - why aren't we implementing them? </i></br>
-Fourth Conference of Research Software Engineers, Birmingham (UK), September 2019
+Fourth Conference of Research Software Engineers, University of Birmingham (UK), September 2019
 
 [talk] <i> Charge carrier mobility in hybrid halide perovskites </i></br>
-Department of Materials Student Research Day, ICL, London (UK), March 2019 </br>
+Department of Materials Student Research Day, Imperial College London (UK), March 2019 </br>
 [Online slides](https://lucydot.github.io/slides/PGRD_0319)
 
 [talk] <i> Distortions and Defects in hybrid halide perovskites </i></br>
-Thomas Young Centre Student Day, UCL, London (UK), February 2019 </br>
+Thomas Young Centre Student Day, University College London (UK), February 2019 </br>
 [Online slides](lucydot.github.io/slides/TYCD_0219)
 
 [talk] <i>Publishing your Software Project with the Journal of Open Source Software</i></br>
-Imperial College Research Software in Materials event, London (UK), January 2019</br>
+Imperial College Research Software in Materials event, Imperial College London (UK), January 2019</br>
 [Online slides](https://lucydot.github.io/slides/JOSS_0119)
+
+<b>2018</b>
 
 [poster] <i>Sustainable software development with Python</i></br>
 Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Liverpool (UK), November 2018
@@ -43,6 +52,8 @@ Centre for Plastic Electronics meeting, ICL, London (UK), August 2018
 
 [talk] <i>Breaking periodicity: vibrations of defects in photovoltaic materials </i></br>
 CECAM Anharmonicity and thermal properties of solids, Paris (France), January 2018
+
+<b>2017</b>
 
 [poster] <i>H-centre and V-centre defects in hybrid halide perovskites</i></br>
 Royal Society of Chemistry solid state group meeting, Loughborough (UK), December 2017
@@ -59,6 +70,8 @@ International Conference of Women in Physics, Birmingham (UK), July 2017
 [talk] <i>Electrons and phonons in hybrid halide perovskites</i></br>
 As part of the seminar <i>Emerging materials for solar energy</i>, delivered with my supervisor Aron Walsh and PhD student Dan Davies.
 Yonsei University, Seoul (Korea), April 2017
+
+<b>2016</b>
 
 [poster] <i>Solar minerology: earth-abundant semiconductors for photovoltaics</i></br>
 Materials Research Society, Boston (USA), December 2016
