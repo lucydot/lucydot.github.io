@@ -6,10 +6,20 @@
     <description>Recent content on Lucy Whalley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2017 13:47:56 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 13:49:56 +0100</lastBuildDate>
     
 	<atom:link href="https://lucydot.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join Me!</title>
+      <link>https://lucydot.github.io/joinme/</link>
+      <pubDate>Mon, 08 May 2017 13:49:56 +0100</pubDate>
+      
+      <guid>https://lucydot.github.io/joinme/</guid>
+      <description>Do you like to think deeply about problems? Do you want to use your science and/or engineering skills to mitigate climate change? Do you like computers, atoms and electrons?
+I&amp;rsquo;m looking to hire a PhD student for the project &amp;ldquo;Modelling disorder in Mg-ion battery cathode materials&amp;rdquo;. You will be part of a growing team based at the University of Northumbria and at the new Centre for Doctoral Training in Renewable Energies North-East Universities (CDT-ReNU).</description>
+    </item>
     
     <item>
       <title>Research</title>
@@ -91,8 +101,7 @@ Richard&amp;rsquo;s DotSpace pictures are discrete interference patterns, create
       <pubDate>Fri, 04 May 2012 13:47:57 +0100</pubDate>
       
       <guid>https://lucydot.github.io/news/</guid>
-      <description>10th November 2020  I&amp;rsquo;ll be delivering a seminar at the University of Oklahoma Centre for Quantum Research and Technology this Friday (13th November). I&amp;rsquo;ll be talking about nonparabolic effective mass, and the effect this has on the optical and transport properties of photovoltaic materials - the corresponding paper is here.
- 1st October 2020  It&amp;rsquo;s my first day back from maternity leave. I&amp;rsquo;m thinking about my strategy for the next three years, writing applications for computer time and (virtually) meeting with my new colleagues at Northumbria University.</description>
+      <description>23rd November 2020  I&amp;rsquo;m preparing to deliver my first online teaching session, and first time teaching as a faculty member. It&amp;rsquo;s a course I&amp;rsquo;m familiar with (Programming in Python, adapted from the Software Carpentry course), but I&amp;rsquo;m wondering how well the &amp;ldquo;live coding&amp;rdquo; approach will work: me talking + screenshare with the code I am typing + students&amp;rsquo; jupyter notebook + chat window / website / other useful course materials seems a lot for a small laptop screen&amp;hellip;</description>
     </item>
     
     <item>
