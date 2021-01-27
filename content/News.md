@@ -7,6 +7,18 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
+<b> 17th January </b></br>
+I'm now a full member of the [Materials Chemistry Consortium](https://www.ucl.ac.uk/klmc/mcc/). What does this mean? That I (and other member of [NUPV](https://sites.google.com/view/nupv)) can apply for computer time on the [Archer2](https://www.archer2.ac.uk/) and [Young](https://www.rc.ucl.ac.uk/docs/Clusters/Young/) supercomputers - let's get diagonalising..
+
+<b> 1st December </b></br>
+Work with me! A funded PhD is available  - for more information please see the [Group page](https://lucydot.github.io/group).
+
+<b> 23rd November 2020 </b></br>
+I'm preparing to deliver my first online teaching session, and first time teaching as a faculty member. It's a course I'm familiar with ([Programming in Python](https://lucydot.github.io/python_novice), adapted from the Software Carpentry course), but I'm wondering how well the "live coding" approach will work: me talking + screenshare with the code I am typing + students' jupyter notebook + chat window / website / other useful course materials seems a lot for a small laptop screen...
+
+<b> 10th November 2020</b> </br>
+I'll be delivering a seminar at the University of Oklahoma Centre for Quantum Research and Technology this Friday (13th November). I'll be talking about nonparabolic effective mass, and the effect this has on the optical and transport properties of photovoltaic materials - the corresponding paper is [here](https://doi.org/10.1103/PhysRevB.99.085207).  
+
 <b> 1st October 2020</b> </br>
 It's my first day back from maternity leave. I'm thinking about my strategy for the next three years, writing applications for computer time and (virtually) meeting with my new colleagues at Northumbria University. Pleased to be back on board.
 

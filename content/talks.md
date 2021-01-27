@@ -15,8 +15,18 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
+[talk] [online event] <i> Title TBC </i></br>
+Computational chemistry seminar series, Cardiff University, 16th April 2021 at 3pm
+
+<b>2021</b>
+
+[talk] [online event] <i> Defects and distortions in energy materials </i></br>
+Materials Chemistry Consortium Meeting, University College London, January 2021
+
+<b>2020</b>
+
 [seminar] [online event] <i> The impact of nonparabolic bandstructure on the optical and transport properties of photovoltaic materials </i></br>
-Center for Quantum Research and Technology seminar series, The University of Oklahoma (US), 13th November at 12pm Central Time
+Center for Quantum Research and Technology seminar series, The University of Oklahoma (US), November 2020
 
 <b>2019</b>
 

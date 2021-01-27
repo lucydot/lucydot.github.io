@@ -7,7 +7,6 @@ type = "post"
 
 +++
 
-Before my PhD I worked as a maths teacher in prisons and at a primary school. My favourite maths class was to talk about [what a naughty but clever boy Gauss was](https://magoosh.com/gre/2011/what-a-naughty-boy-can-teach-us-about-adding/).
 My current teaching is predominantly at the graduate level via the [Software Carpentry organisation](https://carpentries.org/). If you are looking for someone to deliver a Software Carpentry workshop at your institution and think I may be able to help, please [get in contact](mailto:l.whalley@northumbria.ac.uk).
 
 -----
@@ -16,8 +15,9 @@ My current teaching is predominantly at the graduate level via the [Software Car
 
 <b>Upcoming</b>
 
-Introduction to Python, Renewable Energy Northeast Universities Centre for Doctoral Training, November 2020</br>
-Website and slides will be posted here soon
+Introduction to Python, Centre for Doctoral Training Renewable Energy Northeast Universities , November 2020</br>
+Adapted from the Software Carpentry Workshop </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/Python_2011)
 
 <b>2019</b>
 
