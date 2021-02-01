@@ -13,7 +13,8 @@
       
       <guid>https://lucydot.github.io/group/</guid>
       <description>I am based at Northumbria University in the beautiful North East of England, and am a member of Northumbria University Photovoltaics group, Energy Futures and the North East Centre for Energy Materials.
-Michael Jones - PhD candidate (Northumbria University) - Interface Engineering in CZTS thin film solar cells [co-supervisor] Tianhao Zhu - BEng project student (Northumbria University) - Community Energy Projects: a feasibility study [past] Susannah Lea - BEng project student (Imperial College London) - Effective mass of cuprous oxide [co-supervisor] Do you want to use your science and/or engineering skills to mitigate climate change?</description>
+ Supervision  Michael Jones - PhD candidate (Northumbria University) - Interface Engineering in CZTS thin film solar cells [co-supervisor] 
+Tianhao Zhu - BEng project student (Northumbria University) - Community Energy Projects: a feasibility study [past] Susannah Lea - BEng project student (Imperial College London) - Effective mass of cuprous oxide [co-supervisor]</description>
     </item>
     
     <item>
@@ -42,8 +43,9 @@ DFT is an ab-initio method derived from quantum mechanics and can be used to pre
       
       <guid>https://lucydot.github.io/teaching/</guid>
       <description>My current teaching is predominantly at the graduate level via the Software Carpentry organisation. If you are looking for someone to deliver a Software Carpentry workshop at your institution and think I may be able to help, please get in contact.
- Course Materials UpcomingIntroduction to Python, Centre for Doctoral Training Renewable Energy Northeast Universities , November 2020Adapted from the Software Carpentry Workshop Website | Online slides
-2019Version control with git, Imperial College London, November 2019Software Carpentry Workshop Website | pdf slides | Sketches</description>
+  Course Materials  
+Upcoming
+Introduction to Python, Centre for Doctoral Training Renewable Energy Northeast Universities , November 2020 Adapted from the Software Carpentry Workshop  Website | Online slides</description>
     </item>
     
     <item>
@@ -53,8 +55,9 @@ DFT is an ab-initio method derived from quantum mechanics and can be used to pre
       
       <guid>https://lucydot.github.io/publications/</guid>
       <description>My publication list can also be accessed via Google Scholar or Orcid.
-2020Quick-start guide for first-principles modelling of point defects in crystalline materialsJPhys EnergySunghyun Kim, Samantha N. Hood, Ji-Sang Park, Lucy D. Whalley, Aron WalshDOI:10.1088/2515-7655/aba081 | pdf CarrierCapture. jl: Anharmonic Carrier CaptureThe Journal of Open Source SoftwareSunghyun Kim, Samantha N. Hood, Puck van Gerwen, Lucy D. Whalley, Aron WalshDOI:10.21105/joss.02102 | pdf | Code
-2019Intrinsic doping limit and defect-assisted luminescence in Cs4PbBr6Journal of Materials Chemistry AYoung-Kwang Jung, Joaquin Calbo, Ji-Sang Park, Lucy D.</description>
+2020
+Quick-start guide for first-principles modelling of point defects in crystalline materials JPhys Energy Sunghyun Kim, Samantha N. Hood, Ji-Sang Park, Lucy D. Whalley, Aron Walsh DOI:10.1088/2515-7655/aba081 | pdf 
+CarrierCapture. jl: Anharmonic Carrier Capture The Journal of Open Source Software Sunghyun Kim, Samantha N. Hood, Puck van Gerwen, Lucy D. Whalley, Aron Walsh DOI:10.21105/joss.02102 | pdf | Code</description>
     </item>
     
     <item>
@@ -64,9 +67,12 @@ DFT is an ab-initio method derived from quantum mechanics and can be used to pre
       
       <guid>https://lucydot.github.io/talks/</guid>
       <description>If you&amp;rsquo;d like me to speak at your event, please contact me. The slides for some of my talks can be found here.
-Upcoming[talk] [online event] Title TBC Computational chemistry seminar series, Cardiff University, 16th April 2021 at 3pm
-2021[talk] [online event] Defects and distortions in energy materials Materials Chemistry Consortium Meeting, University College London, January 2021
-2020[seminar] [online event] The impact of nonparabolic bandstructure on the optical and transport properties of photovoltaic materials Center for Quantum Research and Technology seminar series, The University of Oklahoma (US), November 2020</description>
+ Seminars and Conferences  Upcoming
+[talk] [online event]  Title TBC  Computational chemistry seminar series, Cardiff University, 16th April 2021 at 3pm
+2021
+[talk] [online event]  Defects and distortions in energy materials  Materials Chemistry Consortium Meeting, University College London, January 2021
+2020
+[seminar] [online event]  The impact of nonparabolic bandstructure on the optical and transport properties of photovoltaic materials  Center for Quantum Research and Technology seminar series, The University of Oklahoma (US), November 2020</description>
     </item>
     
     <item>
@@ -95,9 +101,9 @@ Richard&amp;rsquo;s DotSpace pictures are discrete interference patterns, create
       <pubDate>Fri, 04 May 2012 13:47:57 +0100</pubDate>
       
       <guid>https://lucydot.github.io/news/</guid>
-      <description>17th January I&amp;rsquo;m now a full member of the Materials Chemistry Consortium. What does this mean? That I (and other member of NUPV) can apply for computer time on the Archer2 and Young supercomputers - let&amp;rsquo;s get diagonalising..
-1st December Work with me! A funded PhD is available - for more information please see the Group page.
-23rd November 2020 I&amp;rsquo;m preparing to deliver my first online teaching session, and first time teaching as a faculty member.</description>
+      <description>17th January  I&amp;rsquo;m now a full member of the Materials Chemistry Consortium. What does this mean? That I (and other member of NUPV) can apply for computer time on the Archer2 and Young supercomputers - let&amp;rsquo;s get diagonalising..
+ 1st December  Work with me! A funded PhD is available - for more information please see the Group page.
+ 23rd November 2020  I&amp;rsquo;m preparing to deliver my first online teaching session, and first time teaching as a faculty member.</description>
     </item>
     
     <item>
@@ -106,7 +112,8 @@ Richard&amp;rsquo;s DotSpace pictures are discrete interference patterns, create
       <pubDate>Fri, 04 May 2012 13:47:56 +0100</pubDate>
       
       <guid>https://lucydot.github.io/about/</guid>
-      <description>Website Credits and LicenseThis website was built using Hugo with a tweaked version of the code editor theme. The image on the landing page was created by Richard Scott and is used with permission.
+      <description>Website Credits and License 
+This website was built using Hugo with a tweaked version of the code editor theme. The image on the landing page was created by Richard Scott and is used with permission.
 The content of this website, unless otherwise indicated, is licensed under a Creative Commons Attribution 4.0 International License. You can re-use any of its content as long as the following attribution is included, and you indicate if changes were made: © 2020 by Lucy Whalley (CC-BY 4.</description>
     </item>
     
