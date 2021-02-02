@@ -63,15 +63,13 @@ Deploy
 bash deploy.sh
 ```
 
-Webpage Ideas
+Webpage content TODO
 ---
 
-- Software Carpentry
-- JOSS-ready code
-- Dotspace project
-- PhD project and papers
-- Teaching
-- About, what I like.
+- Invite applications to join group
+- Create a project page which links to project ideas for UG/PG/PhD (Github wiki?)
+- Blog (with a link to wiki for the actual pages?)
+
 
 TODO
 ---
