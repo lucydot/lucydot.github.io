@@ -13,7 +13,7 @@
       
       <guid>https://lucydot.github.io/group/</guid>
       <description>I am based at Northumbria University in the beautiful North East of England, and am a member of Northumbria University Photovoltaics group, Energy Futures and the North East Centre for Energy Materials.
- Supervision  Michael Jones - PhD candidate (Northumbria University) - Interface Engineering in CZTS thin film solar cells [co-supervisor] 
+ Supervision  Michael Jones - PhD candidate (Northumbria University) - Interface Engineering in CZTS thin film solar cells [second supervisor] 
 Kishore Varadapureddi - Advanced Practice student (Northumbria University) - Computational Screening of spinel compounds for battery applications</description>
     </item>
     
@@ -102,8 +102,8 @@ Richard&amp;rsquo;s DotSpace pictures are discrete interference patterns, create
       
       <guid>https://lucydot.github.io/news/</guid>
       <description>8th March 
-We&amp;rsquo;ve just released a new version of effmass with support for FHI-aims calculations. Thanks to Matthias Golomb for contributing the necessary code. Castep is next, watch this space.
- 16th February  Welcome to Kiran and Kishore, who are working with me as part of the Electrical Engineering Advanced Practice programme at Northumbria. They will be using the SMACT software package to screen for new spinel compounds.</description>
+We&amp;rsquo;ve just released a new version of effmass with support for FHI-aims calculations. Thanks to Matthias Golomb for contributing the necessary code. Castep is next, watch this space. UPDATE: effmass 2.0.0 supports Vasp, Castep, FHI-aims and ASE. It also comes with a command line interface..
+ 16th February  Welcome to Kiran and Kishore, who are working with me as part of the Electrical Engineering Advanced Practice programme at Northumbria.</description>
     </item>
     
     <item>
