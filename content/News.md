@@ -7,6 +7,12 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
+<b> 8th March </b><br>
+We've just released a new version of [effmass](https://github.com/lucydot/effmass) with support for FHI-aims calculations. Thanks to Matthias Golomb for contributing the necessary code. Castep is next, watch this space. UPDATE: effmass 2.0.0 supports Vasp, Castep, FHI-aims and ASE. It also comes with a command line interface..
+
+<b> 16th February </b></br>
+Welcome to Kiran and Kishore, who are working with me as part of the Electrical Engineering Advanced Practice programme at Northumbria. They will be using the [SMACT software package](https://github.com/WMD-group/SMACT) to screen for new spinel compounds.
+
 <b> 17th January </b></br>
 I'm now a full member of the [Materials Chemistry Consortium](https://www.ucl.ac.uk/klmc/mcc/). What does this mean? That I (and other member of [NUPV](https://sites.google.com/view/nupv)) can apply for computer time on the [Archer2](https://www.archer2.ac.uk/) and [Young](https://www.rc.ucl.ac.uk/docs/Clusters/Young/) supercomputers - let's get diagonalising..
 

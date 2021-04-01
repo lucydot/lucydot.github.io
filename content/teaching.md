@@ -13,7 +13,7 @@ My current teaching is predominantly at the graduate level via the [Software Car
 
 <big> <b>Course Materials </b></big> </br>
 
-<b>Upcoming</b>
+<b>2020</b>
 
 Introduction to Python, Centre for Doctoral Training Renewable Energy Northeast Universities , November 2020</br>
 Adapted from the Software Carpentry Workshop </br>

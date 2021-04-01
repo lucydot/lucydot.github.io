@@ -11,3 +11,8 @@ googleAnalytics = "UA-125953365-1"
     author = "Lucy Whalley"
     locale = "en-US"
     DateForm = "2.1.2006"
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

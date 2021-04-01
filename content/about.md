@@ -18,7 +18,7 @@ The content of this website, unless otherwise indicated, is licensed under a [Cr
 
 <img src="../images/mum.png" style="width: 23.5%; float: left; margin-bottom: 0em; margin-right: 1em">
 
-<img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid-state physics and supercomputers to investigate why particular materials can efficiently generate energy from sunlight (solar cells), or repeatedly store and release energy (rechargeable batteries). I am a Vice-Chancellor's Fellow at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a post-doc and PhD student in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
+<img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid state physics and supercomputers to investigate why particular materials can efficiently generate energy from sunlight (solar cells), or repeatedly store and release energy (rechargeable batteries). I am a Vice-Chancellor's Fellow at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a post-doc and PhD student in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
 
 <img src="./images/teaching_icon.png" width="30" height="30"> I am a qualified teacher (PGCE), and I have taught in a variety of settings - universities, prisons, primary schools and cafes. I [currently teach](http://lucydot.github.io/teaching/) basic programming skills to graduate researchers.
 

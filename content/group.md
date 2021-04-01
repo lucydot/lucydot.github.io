@@ -7,25 +7,27 @@ categories = []
 
 +++
 
+I am based at Northumbria University in the beautiful North East of England, and am a member of [Northumbria University Photovoltaics group](https://sites.google.com/view/nupv), [Energy Futures](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/renewable-energy-technologies-and-materials/) and the [North East Centre for Energy Materials](https://research.ncl.ac.uk/necem/).
+
 <big>
 <b>Supervision</b> </big>
 
-Michael Jones - PhD candidate (Northumbria University) - *Interface Engineering in CZTS thin film solar cells* [co-supervisor] </br>
+Michael Jones - PhD candidate (Northumbria University) - *Interface Engineering in CZTS thin film solar cells* [second supervisor] </br>
+
+Kishore Varadapureddi - Advanced Practice student (Northumbria University) - *Computational Screening of spinel compounds for battery applications* </br>
+
+Kiran Veeramalla - Advanced Practice student (Northumbria University) - *Computational Screening of spinel compounds for battery applications* </br>
+
 Tianhao Zhu - BEng project student (Northumbria University) - *Community Energy Projects: a feasibility study* <br>
+
 [past] Susannah Lea - BEng project student (Imperial College London) - *Effective mass of cuprous oxide* [co-supervisor] </br>
 
 <big>
-<b>Funded PhD opportunity - closes 7th Feb</b> </big>
+<b>Opportunities</b> </big>
 
-Do you want to use your science and/or engineering skills to mitigate climate change? Do you like computers, atoms and electrons?
+I am always interested in hearing from potential new members and collaborators - [please get in touch](https://lucydot.github.io/about/). 
 
-Applications are open for the funded PhD project "Modelling disorder in Mg-ion battery cathode materials". You will be part of a growing team based at Northumbria University and the new Centre for Doctoral Training in Renewable Energies North-East Universities (CDT-ReNU).
-
-The job advert is [here](https://bit.ly/renu_mg). I especially encourage applications from those who identify as part of a group that is under-represented in physics.
-
-In return for your efforts, you will receive a standard EPSRC stipend, specialist training through the CDT-ReNU and experience working at the forefront of research. The University of Northumbria is based in the beautiful city of Newcastle: we have a beach, Hadrian's wall and excellent nightlife - something for everyone!
-
-If you're interested in applying, please [contact me](mailto:l.whalley@northumbria.ac.uk) for more information.
+Any PhD/job opportunities will be posted here, and, for the right candidate, there is also the possibility to apply for external funding (e.g. the [Marie Curie IF](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)).
 
 <img src="../images/ore.jpg" style="float: middle; height: 30em; ">
 

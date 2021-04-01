@@ -15,8 +15,14 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
+[talk] [online event] <i> Software Carpentry in Lockdown </i></br>
+Lessons learned in lockdown: Teaching computational physics in 2020 and beyond, Institute of Physics, 14th April 2021 
+
 [talk] [online event] <i> Title TBC </i></br>
 Computational chemistry seminar series, Cardiff University, 16th April 2021 at 3pm
+
+[talk] [online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
+15th International conference on materials chemistry (MC15), Royal Society of Chemistry, 12th July 2021
 
 <b>2021</b>
 
