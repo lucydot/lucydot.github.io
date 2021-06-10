@@ -7,6 +7,15 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
+<b> 10th May </b><br>
+I'm pleased to say that our paper "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" has been published open-access in the Journal of the American Chemical Society.
+
+<b> 6th May </b><br>
+A pre-print for our new paper "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" is [available on arXiv](https://arxiv.org/abs/2105.02097). In this paper we analyse the quantum mechanics of carrier trapping at an abundant defect in the prototype hybrid perovskite "MAPI". Our main finding is that there is large lattice relaxation after carrier capture, leading to a Huang-Rhys factor (a proxy for electron-phonon coupling) exceeding 300 and fast electron capture. This suggests that suppression of the large octahedral rotations associated with the lead-iodide cage is an important factor to enhance photovoltaic performance. 
+
+<b> 7th April </b><br>
+Next week (14/4) I'm speaking at the Institute of Physics conference ["Lessons Learnt in Lockdown: Teaching computational physics in 2020 and beyond"](http://lessonslearnedinlockdown.iopconfs.org/1021126). I'll introduce the pedagogy used in [Software Carpentry](https://software-carpentry.org/) lessons, and reflect on a carpentry-based workshop I have delivered both in and out of lockdown, [Python for Physicists](https://lucydot.github.io/python_novice/). Software Carpentry takes inspiration from the world of open-source software, developing lesson materials collaboratively and making them available for anyone to re-use, adapt and extend. I dream of a future where most university education is developed and delivered in a similar way...
+
 <b> 8th March </b><br>
 We've just released a new version of [effmass](https://github.com/lucydot/effmass) with support for FHI-aims calculations. Thanks to Matthias Golomb for contributing the necessary code. Castep is next, watch this space. UPDATE: effmass 2.0.0 supports Vasp, Castep, FHI-aims and ASE. It also comes with a command line interface..
 

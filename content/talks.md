@@ -15,24 +15,30 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
-[talk] [online event] <i> Software Carpentry in Lockdown </i></br>
-Lessons learned in lockdown: Teaching computational physics in 2020 and beyond, Institute of Physics, 14th April 2021 
-
-[talk] [online event] <i> Title TBC </i></br>
-Computational chemistry seminar series, Cardiff University, 16th April 2021 at 3pm
 
 [talk] [online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
 15th International conference on materials chemistry (MC15), Royal Society of Chemistry, 12th July 2021
 
 <b>2021</b>
 
+
+[talk] [online event] <i> Modelling non-radiative carrier capture in photovoltaic materials </i></br>
+Computational chemistry seminar series, Cardiff University, 16th April 2021 at 3pm </br>
+[pdf slides](https://lucydot.github.io/slides/1604_cardiff.pdf)
+
+[talk] [online event] <i> Software Carpentry in Lockdown </i></br>
+Lessons learned in lockdown: Teaching computational physics in 2020 and beyond, Institute of Physics, 14th April 2021 </br>
+[pdf slides](https://lucydot.github.io/slides/2104_IOP.pdf)
+
 [talk] [online event] <i> Defects and distortions in energy materials </i></br>
-Materials Chemistry Consortium Meeting, University College London, January 2021
+Materials Chemistry Consortium Meeting, University College London, January 2021 </br>
+[pdf slides](https://lucydot.github.io/slides/2101_MCC.pdf)
 
 <b>2020</b>
 
 [seminar] [online event] <i> The impact of nonparabolic bandstructure on the optical and transport properties of photovoltaic materials </i></br>
-Center for Quantum Research and Technology seminar series, The University of Oklahoma (US), November 2020
+Center for Quantum Research and Technology seminar series, The University of Oklahoma (US), November 2020 </br>
+[pdf slides](https://lucydot.github.io/slides/2011_Oklahoma.pdf)
 
 <b>2019</b>
 
