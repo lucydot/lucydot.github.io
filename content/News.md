@@ -7,7 +7,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
-<b> 10th May </b><br>
+<b> 12th July </b><br>
+Today I'm speaking about our latest paper "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" at the 15th International conference on materials chemistry (MC15). For those that couldn't attend you can find a recording of the same presentation [here](https://vimeo.com/575352468).
+
+<b> 10th June </b><br>
 I'm pleased to say that our paper "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" has been published open-access in the Journal of the American Chemical Society.
 
 <b> 6th May </b><br>

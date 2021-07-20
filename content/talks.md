@@ -13,14 +13,15 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 <big>
 <b>Seminars and Conferences</b> </big>
 
-<b>Upcoming</b>
-
-
-[talk] [online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
-15th International conference on materials chemistry (MC15), Royal Society of Chemistry, 12th July 2021
-
 <b>2021</b>
 
+[talk] [online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
+15th International conference on materials chemistry (MC15), Royal Society of Chemistry, 12th July 2021 </br>
+[pdf slides](https://lucydot.github.io/slides/2107_MC15.pdf) | [video](https://vimeo.com/575352468)
+
+[talk][online event] <i> Introduction to High Performance Computing </i></br>
+Department of Mechanical and Construction Engineering, Northumbria University, 5th July at 11am </br>
+[pdf slides](https://lucydot.github.io/slides/505_MCEHPC.pdf)
 
 [talk] [online event] <i> Modelling non-radiative carrier capture in photovoltaic materials </i></br>
 Computational chemistry seminar series, Cardiff University, 16th April 2021 at 3pm </br>
