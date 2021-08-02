@@ -11,7 +11,7 @@ As a computational scientist a significant part of my time is spent writing code
 Like many scientists, I am a self-taught programmer and have had very little in the way of training. The two things which have had the highest impact on the quality of code I write are: 1) teaching basic programming skills ([Software Carpentry](https://carpentries.org/)) to other researchers; 2) submitting a package ([effmass]((http://github.com/lucydot/effmass))) to the [Journal of Open Source Software](https://joss.theoj.org/), a peer-reviewed journal for research code.
 
 The code I write relies heavily upon open source tools, some of which are listed on my [personal roadmap](https://lucydot.github.io/blog/roadmap/).
-Through a fellowship with the [Software Sustainability Institute](https://www.software.ac.uk) I am collaborating with [CodeRefinery](https://coderefinery.org/) to develop resources so that other researchers have the skills in place to publish their code.
+Through a fellowship with the [Software Sustainability Institute](https://www.software.ac.uk) I am collaborating with [CodeRefinery](https://coderefinery.org/) to develop resources so that other researchers have the skills in place to publish their code, and I am an editor at the [Journal of Open Source Software](https://joss.theoj.org/).
 
 -----
 

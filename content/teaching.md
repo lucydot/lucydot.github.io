@@ -7,11 +7,14 @@ type = "post"
 
 +++
 
-My current teaching is predominantly at the graduate level via the [Software Carpentry organisation](https://carpentries.org/). If you are looking for someone to deliver a Software Carpentry workshop at your institution and think I may be able to help, please [get in contact](mailto:l.whalley@northumbria.ac.uk).
-
------
+I currently teach a second year undergraduate course in Computational Physics (materials are [in development](https://github.com/NU-CEM/CompPhys)) and a graduate level course that is inspired by [Software Carpentry](https://carpentries.org/). My teaching materials are below, and I strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials I'd love to hear from you.
 
 <big> <b>Course Materials </b></big> </br>
+
+<b>2021</b>
+
+Computational Physics KD5081, Autumn term <br>
+Materials currently under development [here](https://github.com/NU-CEM/CompPhys)
 
 <b>2020</b>
 

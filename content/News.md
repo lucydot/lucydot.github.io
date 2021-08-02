@@ -9,6 +9,9 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2021</b></br>
 
+<b> 2nd August </b><br>
+If you are a software developer then you better run and hide - I've joined the editorial board of the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) and will be pinging you for reviews soon. JOSS is a journal *of the future* - with a peer review process that is fully transparent (using Github issues) and designed to improve the quality of software submitted. I'll be talking more about JOSS at the [SeptembRSE conference](https://society-rse.org/events/septembrse/).
+
 <b> 12th July </b><br>
 Today I'm speaking about our latest paper "Giant Huang-Rhys Factor for Electron Capture by the Iodine Interstitial in Perovskite Solar Cells" at the 15th International conference on materials chemistry (MC15). For those that couldn't attend you can find a recording of the same presentation [here](https://vimeo.com/575352468).
 

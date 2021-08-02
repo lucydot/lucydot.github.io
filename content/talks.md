@@ -13,6 +13,12 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 <big>
 <b>Seminars and Conferences</b> </big>
 
+<b>Upcoming</b>
+
+[talk][online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
+SeptembrRSE - An online celebration of Research Software Engineering in 2021 </br>
+Date TBC 
+
 <b>2021</b>
 
 [talk] [online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
