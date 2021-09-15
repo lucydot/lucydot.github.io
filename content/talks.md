@@ -15,9 +15,13 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
-[talk][online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
+[talk][online event] <i> Non-radiative carrier capture at the iodine interstitial in mixed-cation hybrid halide perovskites </i></br>
+Materials Research Society Fall Meeting, Boston (US) and online </br>
+Date TBC
+
+[keynote talk][online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
 SeptembrRSE - An online celebration of Research Software Engineering in 2021 </br>
-Date TBC 
+Thursday 30th September at 3pm
 
 <b>2021</b>
 
