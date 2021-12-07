@@ -19,11 +19,15 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 Materials Research Society Fall Meeting, Boston (US) and online </br>
 Date TBC
 
-[keynote talk][online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
-SeptembrRSE - An online celebration of Research Software Engineering in 2021 </br>
-Thursday 30th September at 3pm
 
 <b>2021</b>
+
+[talk] [in-person (!) event] <i> Some selfish and not-so-selfish reasons for sharing your code </i> </br>
+Northumbria Research Computing launch event, Northumbria University, 21st October 2021 </br> [online slides](https://lucydot.github.io/slides/2110_RSENorthum/Selfish_NotSelfish.slides(2)#/)
+
+[keynote talk][online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
+SeptembrRSE - An online celebration of Research Software Engineering in 2021 </br>
+ [video](https://www.youtube.com/watch?v=l1B2kqoxqAo)
 
 [talk] [online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
 15th International conference on materials chemistry (MC15), Royal Society of Chemistry, 12th July 2021 </br>

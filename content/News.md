@@ -9,6 +9,12 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2021</b></br>
 
+<b> 1st October </b><br>
+A big welcome to [Prakriti](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) who is joining us as a PhD student to work on energy materials modelling as part of the [CDT-ReNU](https://renu.northumbria.ac.uk/). Her project will focus on modelling battery cathode materials in the spinel structure, but first we are taking a little de-tour into chalcogenide perovskites. 
+
+<b> 30th September </b><br>
+[SeptembRSE](https://septembrse.github.io/#/) has been running throughout this month, with a very full timetable of RSE-related talks (RSE = Research Software Engineering). I'm speaking today about the importance of, and practicalities around, publishing your code in a peer-reviewed journal like [JOSS](https://joss.theoj.org/) or [JORS](https://openresearchsoftware.metajnl.com/).
+
 <b> 2nd August </b><br>
 If you are a software developer then you better run and hide - I've joined the editorial board of the [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) and will be pinging you for reviews soon. JOSS is a journal *of the future* - with a peer review process that is fully transparent (using Github issues) and designed to improve the quality of software submitted. I'll be talking more about JOSS at the [SeptembRSE conference](https://society-rse.org/events/septembrse/).
 
