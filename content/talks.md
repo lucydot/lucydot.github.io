@@ -20,8 +20,8 @@ Materials Research Society Fall Meeting, Boston (US) and online </br>
 Date TBC
 
 [keynote talk][online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
-SeptembrRSE - An online celebration of Research Software Engineering in 2021 </br>
-Thursday 30th September at 3pm
+SeptembRSE 2021, Society of Research Software Engineers, 30th September </br>
+[Online slides](https://lucydot.github.io/slides/2109_RSE)
 
 <b>2021</b>
 

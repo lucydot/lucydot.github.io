@@ -9,11 +9,14 @@ categories = []
 
 I am based at Northumbria University in the beautiful North East of England, and am a member of [Northumbria University Photovoltaics group](https://sites.google.com/view/nupv), [Energy Futures](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/renewable-energy-technologies-and-materials/) and the [North East Centre for Energy Materials](https://research.ncl.ac.uk/necem/).
 
+<big>
 <b>Supervision</b> </big>
 
-Prakriti Kayastha - PhD student - *Atomistic modelling of disorder and defects in energy materials* </br>
+[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *Atomistic modelling of disorder and defects in energy materials* </br>
 
-Michael Jones - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
+[Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
+
+[William Taylor](https://github.com/musicmrman99) - Undergraduate intern - *Oswald HPC documentation* </br>
 
 <big>
 <b>Opportunities</b> </big>
@@ -24,7 +27,7 @@ Any PhD/job opportunities will be listed here, and, for the right candidate, the
 
 For smaller undergraduate, postgraduate and summer placement projects please see a project list that I maintain [here](https://lucydot.github.io/projects_list/).
 
-<img src="../images/ore.jpg" style="float: middle; height: 10em; ">
+<img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
 <big>
 <b>Previous supervision</b> </big>
