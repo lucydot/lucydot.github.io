@@ -134,7 +134,14 @@ Video lectures</b></big>
 - [Solid State Physics in a Nutshell channel](https://www.youtube.com/channel/UCFgtgeXkgWr1MsOTftce5BA)
 
 <big><b>
+Teaching resources</b></big>
+
+- Small Teaching by James M. Lang connects pedagogical theory with some easily implementable ideas for the classroom
+- Teaching Tech Together by Greg Wilson. Greg Wilson co-founded Software Carpentry and this book expands on the excellent instructor training that is delivered by the organisation.
+
+<big><b>
 Miscellaneous</b></big>
 
+- Bird of passage by Rudolf Peierls. This is one of my very favourite books. It is an autobiography from a German born physicist who travelled to the UK and kick-started the Manhattan project with the [Frisch-Peierls memorandum](https://en.wikipedia.org/wiki/Frisch%E2%80%93Peierls_memorandum). It provides lots of interesting context around the early developments in quantum mechanics and solid state physics.
 - Motherhood and academia blog [Mamaisanacademic](https://mamaisanacademic.wordpress.com/blog/)
 - [Keith Butler's Materials Hipster](https://keeeto.github.io/tag/materials_hipster/)

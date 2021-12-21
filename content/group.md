@@ -14,9 +14,12 @@ I am based at Northumbria University in the beautiful North East of England, and
 
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *Atomistic modelling of disorder and defects in energy materials* </br>
 
+
 [Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
 
 [William Taylor](https://github.com/musicmrman99) - Undergraduate intern - *Oswald HPC documentation* </br>
+
+<img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
 <big>
 <b>Opportunities</b> </big>
