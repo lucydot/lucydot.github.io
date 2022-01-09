@@ -16,7 +16,7 @@ Through a fellowship with the [Software Sustainability Institute](https://www.so
 -----
 
 <big>
-<b>Research software and scripts</b> </big>
+<b>Research software and scripts</b> </big>  <img src="./images/tora.gif" width="30" height="30">
 
 <i> CarrierCapture.jl: Anharmonic carrier capture</i></br>
 [Repository](https://github.com/WMD-group/CarrierCapture.jl) | [Paper](https://doi.org/10.21105/joss.02102)
