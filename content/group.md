@@ -41,7 +41,7 @@ Kiran Veeramalla - Advanced Practice student (Northumbria University) - *Computa
 
 Tianhao Zhu - BEng project student (Northumbria University) - *Community Energy Projects: a feasibility study* <br>
 
-[past] Susannah Lea - BEng project student (Imperial College London) - *Effective mass of cuprous oxide* [co-supervisor] </br>
+Susannah Lea - BEng project student (Imperial College London) - *Effective mass of cuprous oxide* [co-supervisor] </br>
 
 
 

@@ -13,6 +13,11 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 <big>
 <b>Seminars and Conferences</b> </big>
 
+<b>2022</b>
+
+[panel discussion] <i> Empowering diversity in science </i></br>
+IUPAC Global Women’s Breakfast, Newcastle University (UK), February 2022
+
 <b>2021</b>
 
 [talk] [in-person (!) event] <i> Some selfish and not-so-selfish reasons for sharing your code </i> </br>

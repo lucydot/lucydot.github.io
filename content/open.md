@@ -1,10 +1,10 @@
 +++
 date = "2017-05-06T15:47:56+01:00"
-title = "open_science"
+title = "Open science"
 tags = []
 type = "post"
 categories = []
-draft = true
+draft = "true"
 
 +++
 
@@ -16,7 +16,7 @@ draft = true
 
 I also think that working openly could benefit me personally as a researcher (see ["How open science helps researchers succeed"](https://dx.doi.org/10.7554%2FeLife.16800)).
 
-So one of my targets is to work more openly: to make my [papers](https://lucydot.github.io/publications), [software code](https://github.com/lucydot/), [slides](https://lucydot.github.io/slides) and [funding applications](https://lucydot.github.io/applications) available. As a [2019 fellow](https://software.ac.uk/about/fellows/lucy-whalley) of the Software Sustainability Institute I hope to learn more about working openly, and I want to encourage more scientists to publish their research code.
+So one of my targets is to work more openly, and encourage those around me to do the same: to make our [papers](https://lucydot.github.io/publications), [software code](https://github.com/lucydot/), [slides](https://lucydot.github.io/slides) and [funding applications](https://lucydot.github.io/applications) available. As a [fellow of the Software Sustainability Institute](https://software.ac.uk/about/fellows/lucy-whalley) I hope to learn more about working openly, and encourage more scientists to publish their research code.
 
 
 

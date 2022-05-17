@@ -9,12 +9,18 @@ categories = []
 
 My publication list can also be accessed via [Google Scholar](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0002-2992-9871).
 
+<b>2022</b>
+
+The physical significance of imaginary phonon modes in crystals</br>
+*Submitted to IOP electronic structure*</br>
+Ioanna Pallikara, Prakriti Kayastha, Jonathan M. Skelton, Lucy D. Whalley
+
 <b>2021</b>
 
 Giant Huang-Rhys factor for electron capture by the iodine interstitial in perovskite solar cells</br>
 *Journal of the American Chemical Society*</br>
 Lucy D. Whalley, Puck van Gerwen, Jarvist M. Frost, Sunghyun Kim, Samantha N. Hood, Aron Walsh</br>
-[DOI:10.1021/jacs.1c03064](https://doi.org/10.1021/jacs.1c03064) </br> | Open Access
+[DOI:10.1021/jacs.1c03064](https://doi.org/10.1021/jacs.1c03064) | open Access
 
 <b>2020</b>
 

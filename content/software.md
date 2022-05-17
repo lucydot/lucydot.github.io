@@ -18,6 +18,9 @@ Through a fellowship with the [Software Sustainability Institute](https://www.so
 <big>
 <b>Research software and scripts</b> </big>
 
+<i> Thermopot: An ab-initio thermodynamic modelling package</i></br>
+[Repository](https://github.com/NU-CEM/thermopot)
+
 <i> CarrierCapture.jl: Anharmonic carrier capture</i></br>
 [Repository](https://github.com/WMD-group/CarrierCapture.jl) | [Paper](https://doi.org/10.21105/joss.02102)
 
@@ -29,6 +32,14 @@ Through a fellowship with the [Software Sustainability Institute](https://www.so
 
 <i> Scripts for job submissions, analysis and publications</i></br>
 [Repository](https://github.com/lucydot/scripts)
+
+------
+
+<big>
+<b>Teaching software </b> </big>
+
+<i> ChooChoo the Checklist Tool</i></br>
+[Repository](https://github.com/lucydot/choochoo) 
 
 ------
 
