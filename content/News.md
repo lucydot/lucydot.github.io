@@ -29,7 +29,6 @@ We are putting the final touches on our review paper 'The Physical Significance 
 
 <b> 15th January </b><br>
 January has been the Month of Marking *sigh*.
-=======
 
 <b> 25th April </b><br>
 I'm officially a [Fellow of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/fellowship) - this means I have attained the standards defined the [UK Professional Standards Framework](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf) for teaching in higher education. You can find the reflective essay I wrote for my application [here](https://lucydot.github.io/FHEA_essay/).
