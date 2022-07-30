@@ -22,18 +22,6 @@ I'm officially a <a href="https://www.advance-he.ac.uk/fellowship/fellowship">Fe
 Today my good friend [David Mytton](https://davidmytton.blog/about/) visited Northumbria to talk about [Software engineering tools, sustainability, and academia](https://northumbriaresearchcomputing.github.io/Spring_Talk/). An excellent turn-out from Northumbria students and staff, with staff from the Newcastle RSE team joining us also. Nice to start building RSE connections in the North-East.
 
 <b> 23rd March </b><br>
-<a href="https://twitter.com/prakayastha314/status/1506782571140636673">Prakriti is presenting a poster</a> 'Following the reaction: computational spectroscopy of perovskite BaZrS3 at the Institute of Physics' <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp?pageID=1091274&amp;eventID=1769&amp;traceRedir=2">Advances in Photovoltaics conference</a> today. This is a warm-up project, building on Prakriti's existing expertise in lattice dynamics, to kick start her PhD work. Of course, the warm-up is turning into more of a work-out as we start to uncover more and more tempting science!
-
-<b> 28th February </b><br>
-We are putting the final touches on our review paper 'The Physical Significance of Imaginary Phonon Modes in Crystals'. Imaginary modes have a bad reputation ("your crystal is all wrong!") but they <em>can</em> contain a lot of useful physics - and in this review article we tell you how to access all that juicy information on phase transitions and dynamical disorder.
-
-<b> 15th January </b><br>
-January has been the Month of Marking *sigh*.
-
-<b> 25th April </b><br>
-I'm officially a [Fellow of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/fellowship) - this means I have attained the standards defined the [UK Professional Standards Framework](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf) for teaching in higher education. You can find the reflective essay I wrote for my application [here](https://lucydot.github.io/FHEA_essay/).
-
-<b> 23rd March </b><br>
 [Prakriti is presenting a poster](https://twitter.com/prakayastha314/status/1506782571140636673) "Following the reaction: computational spectroscopy of perovskite BaZrS3" at the Institute of Physics' [Advances in Photovoltaics conference](https://www.iopconferences.org/iop/frontend/reg/thome.csp?pageID=1091274&eventID=1769&traceRedir=2) today. This is a warm-up project, building on Prakriti's existing expertise in lattice dynamics, to kick start her PhD work. Of course, the warm-up is turning into more of a work-out as we start to uncover more and more tempting science...
 
 <b> 28th February </b><br>
