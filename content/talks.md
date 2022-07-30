@@ -13,20 +13,28 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 <big>
 <b>Seminars and Conferences</b> </big>
 
+<b>2022</b>
+
+[flash presentatiion] [online event] <i> ChooChoo! The Checklist  Tool </i></br>
+Collaborations Workshop, Software Sustainability Institute , April 2022
+
+[panel discussion] <i> Empowering diversity in science</i></br>
+IUPAC Global Women’s Breakfast, Newcastle University (UK), February 2022
+
 <b>2021</b>
 
 [talk] [in-person (!) event] <i> Some selfish and not-so-selfish reasons for sharing your code </i> </br>
 Northumbria Research Computing launch event, Northumbria University, 21st October 2021 </br> [online slides](https://lucydot.github.io/slides/2110_RSENorthum/Selfish_NotSelfish.slides(2)#/)
 
-[keynote talk][online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
+[keynote talk] [online event] <i> Publishing your software project (with the Journal of Open Source Software) </i></br>
 SeptembrRSE - An online celebration of Research Software Engineering in 2021 </br>
  [video](https://www.youtube.com/watch?v=l1B2kqoxqAo)
 
-[talk] [online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
+[talk][online event] <i> Non-radiative carrier trapping processes at the iodine intersitial in perovskite solar cells </i></br>
 15th International conference on materials chemistry (MC15), Royal Society of Chemistry, 12th July 2021 </br>
 [pdf slides](https://lucydot.github.io/slides/2107_MC15.pdf) | [video](https://vimeo.com/575352468)
 
-[talk][online event] <i> Introduction to High Performance Computing </i></br>
+[talk] [online event] <i> Introduction to High Performance Computing </i></br>
 Department of Mechanical and Construction Engineering, Northumbria University, 5th July at 11am </br>
 [pdf slides](https://lucydot.github.io/slides/505_MCEHPC.pdf)
 
