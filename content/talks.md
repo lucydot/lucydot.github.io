@@ -13,7 +13,15 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 <big>
 <b>Seminars and Conferences</b> </big>
 
+<b>Upcoming</b>
+
+[invited talk] <i> Title tbd </i></br>
+41st RSC Solid State Chemistry Christmas Meeting, University of Cambridge, Dec 2022
+
 <b>2022</b>
+
+[talk] <i> A-site mixing and non-radiative trapping in hybrid halide perovskites </i></br>
+MDG 10-year anniversary, Imperial College London, July 2022
 
 [flash presentatiion] [online event] <i> ChooChoo! The Checklist  Tool </i></br>
 Collaborations Workshop, Software Sustainability Institute , April 2022

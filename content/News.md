@@ -7,6 +7,28 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
+<b>2022</b></br>
+<b> 29th July </b><br>
+Very pleased to be speaking about A-site cation mixing and non-radiative carrier trapping at a special meeting celebrating 10 years of the [Material Design Group](https://wmd-group.github.io/) at Imperial. Great to see some old faces - just wish I could have been there in person..
+
+<b> 21st June </b><br>
+Our review paper ["Modelling interfaces in thin-film photovoltaic devices"](https://doi.org/10.3389/fchem.2022.920676) is out in Frontiers in Chemistry. A new collaboration with Newcastle (Toon) based scientists from Northumbria University and Newcastle University.
+
+<b> 1st May </b><br>
+I'm officially a <a href="https://www.advance-he.ac.uk/fellowship/fellowship">Fellow of the Higher Education Academy</a> - this means I have attained the standards defined the <a href="https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf">UK Professional Standards Framework</a> for teaching in higher education. You can find the reflective essay I wrote for my application <a href="https://lucydot.github.io/FHEA_essay/">here</a>.
+
+<b>  29th April </b><br>
+Today my good friend [David Mytton](https://davidmytton.blog/about/) visited Northumbria to talk about [Software engineering tools, sustainability, and academia](https://northumbriaresearchcomputing.github.io/Spring_Talk/). An excellent turn-out from Northumbria students and staff, with staff from the Newcastle RSE team joining us also. Nice to start building RSE connections in the North-East.
+
+<b> 23rd March </b><br>
+<a href="https://twitter.com/prakayastha314/status/1506782571140636673">Prakriti is presenting a poster</a> 'Following the reaction: computational spectroscopy of perovskite BaZrS3 at the Institute of Physics' <a href="https://www.iopconferences.org/iop/frontend/reg/thome.csp?pageID=1091274&amp;eventID=1769&amp;traceRedir=2">Advances in Photovoltaics conference</a> today. This is a warm-up project, building on Prakriti's existing expertise in lattice dynamics, to kick start her PhD work. Of course, the warm-up is turning into more of a work-out as we start to uncover more and more tempting science!
+
+<b> 28th February </b><br>
+We are putting the final touches on our review paper 'The Physical Significance of Imaginary Phonon Modes in Crystals'. Imaginary modes have a bad reputation ("your crystal is all wrong!") but they <em>can</em> contain a lot of useful physics - and in this review article we tell you how to access all that juicy information on phase transitions and dynamical disorder.
+
+<b> 15th January </b><br>
+January has been the Month of Marking *sigh*.
+
 <b>2021</b></br>
 
 <b> 30th November </b><br>
