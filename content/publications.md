@@ -21,13 +21,12 @@ Modelling interfaces in thin-film photovoltaic devices
 Michael DK Jones, James A Dawson, Stephen Campbell, Vincent Barrioz, Lucy D Whalley, Yongtao Qu</br>
 [DOI:10.3389/fchem.2022.920676](https://doi.org/10.3389/fchem.2022.920676) </br> | Open Access
 
-
 <b>2021</b>
 
 Giant Huang-Rhys factor for electron capture by the iodine interstitial in perovskite solar cells</br>
 *Journal of the American Chemical Society*</br>
 Lucy D. Whalley, Puck van Gerwen, Jarvist M. Frost, Sunghyun Kim, Samantha N. Hood, Aron Walsh</br>
-[DOI:10.1021/jacs.1c03064](https://doi.org/10.1021/jacs.1c03064) </br> | Open Access
+[DOI:10.1021/jacs.1c03064](https://doi.org/10.1021/jacs.1c03064) | open Access
 
 <b>2020</b>
 

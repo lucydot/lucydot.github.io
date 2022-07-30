@@ -8,6 +8,7 @@ date = "2012-05-04T13:47:57+01:00"
 +++
 
 <b>2022</b></br>
+
 <b> 29th July </b><br>
 Very pleased to be speaking about A-site cation mixing and non-radiative carrier trapping at a special meeting celebrating 10 years of the [Material Design Group](https://wmd-group.github.io/) at Imperial. Great to see some old faces - just wish I could have been there in person..
 
@@ -28,8 +29,23 @@ We are putting the final touches on our review paper 'The Physical Significance 
 
 <b> 15th January </b><br>
 January has been the Month of Marking *sigh*.
+=======
+
+<b> 25th April </b><br>
+I'm officially a [Fellow of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/fellowship) - this means I have attained the standards defined the [UK Professional Standards Framework](https://www.advance-he.ac.uk/knowledge-hub/uk-professional-standards-framework-ukpsf) for teaching in higher education. You can find the reflective essay I wrote for my application [here](https://lucydot.github.io/FHEA_essay/).
+
+<b> 23rd March </b><br>
+[Prakriti is presenting a poster](https://twitter.com/prakayastha314/status/1506782571140636673) "Following the reaction: computational spectroscopy of perovskite BaZrS3" at the Institute of Physics' [Advances in Photovoltaics conference](https://www.iopconferences.org/iop/frontend/reg/thome.csp?pageID=1091274&eventID=1769&traceRedir=2) today. This is a warm-up project, building on Prakriti's existing expertise in lattice dynamics, to kick start her PhD work. Of course, the warm-up is turning into more of a work-out as we start to uncover more and more tempting science...
+
+<b> 28th February </b><br>
+We are putting the final touches on our review paper "The Physical Significance of Imaginary Phonon Modes in Crystals". Imaginary modes have a bad reputation ("your crystal is all wrong!") but they *can* contain a lot of useful physics - and in this review article we tell you how to access all that juicy information on phase transitions and dynamical disorder.
+
+<b> 15th January </b><br>
+January has been the Month of Marking \*sigh\*.
 
 <b>2021</b></br>
+<b> 15th December </b><br>
+A pleasant end of year activity has been writing my application for fellowship of the Higher Education Academy. It has been a chance to reflect on my teaching this term. It has also encouraged me to read two excellent books: [Teaching Tech Together](https://teachtogether.tech/) by [Greg Wilson](https://third-bit.com/) and [Small Teaching](https://www.wiley.com/en-us/Small+Teaching%3A+Everyday+Lessons+from+the+Science+of+Learning%2C+2nd+Edition-p-9781119755548) by [James M. Lang](https://www.jamesmlang.com/).
 
 <b> 30th November </b><br>
 I'm coming to the end of teaching a [Theory and Computation](https://nu-cem.github.io/CompPhys) course to second year Physics students at Northumbria. It's been a learning curve for all involved, and I've got improvements up my sleeve for next year's iteration - including an [automated Github-based workflow for monitoring student progress](https://nu-cem.github.io/CompPhys/2021/08/02/Python-progress.html). Now I'm looking forward to the rest over Christmas and a more research-intensive new year!

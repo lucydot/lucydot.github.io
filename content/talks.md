@@ -26,7 +26,7 @@ MDG 10-year anniversary, Imperial College London, July 2022
 [flash presentatiion] [online event] <i> ChooChoo! The Checklist  Tool </i></br>
 Collaborations Workshop, Software Sustainability Institute , April 2022
 
-[panel discussion] <i> Empowering diversity in science</i></br>
+[panel discussion] <i> Empowering diversity in science </i></br>
 IUPAC Global Women’s Breakfast, Newcastle University (UK), February 2022
 
 <b>2021</b>

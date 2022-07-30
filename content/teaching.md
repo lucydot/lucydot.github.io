@@ -7,14 +7,33 @@ type = "post"
 
 +++
 
-I currently teach a second year undergraduate course in Computational Physics (materials are [in development](https://github.com/NU-CEM/CompPhys)) and a graduate level course that is inspired by [Software Carpentry](https://carpentries.org/). My teaching materials are below, and I strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials I'd love to hear from you.
+I currently teach a second year undergraduate course in Computational Physics (materials are [in development](https://github.com/NU-CEM/CompPhys)) and a graduate level course for physical scientists that is inspired by [Software Carpentry](https://carpentries.org/). I am also developing a Github-based checklist tool for educators called [ChooChoo](https://github.com/lucydot/choochoo).
 
-<big> <b>Course Materials </b></big> </br>
+My teaching materials are below, and I strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials I'd love to [hear from you](https://lucydot.github.io/about/).
+
+<big> <b>Teaching Materials </b></big> </br>
+
+Computational Physics </br>
+Course materials under development [here](https://github.com/NU-CEM/CompPhys).
+
+Python for the physical sciences  </br>
+Course materials under development [here](https://github.com/lucydot/python_novice).
+
+ChooChoo the CHecklist tOOl </br>
+Teaching tool under development [here](https://github.com/lucydot/choochoo).
+
+<big> <b>Teaching Log </b></big> </br>
 
 <b>2021</b>
 
-Computational Physics KD5081, Autumn term <br>
-Materials currently under development [here](https://github.com/NU-CEM/CompPhys)
+Introduction to Programming in Python (KD6024), Spring term </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/Python_2201)
+
+Computational Physics (KD5081), Autumn term </br>
+[Website](https://github.com/NU-CEM/CompPhys) 
+
+Introduction to Programming in Python (KD4014), Autumn term </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/Python_2111)
 
 <b>2020</b>
 
