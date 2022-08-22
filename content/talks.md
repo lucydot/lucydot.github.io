@@ -15,8 +15,14 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
+[panel discussion] <i> Developing the necessary skills to support the future of computational research </i> </br>
+Research Software Engineers Conference, Newcastle Upon Tyne (UK), 6th September 2022
+
+[talk] <i> Elucidating the Relationship Between A-Site Mixing and Non-Radiative Carrier Capture </i> </br>
+Materials Research Society Fall Meeting, Boston (US), 30th November 2022
+
 [invited talk] <i> Title tbd </i></br>
-41st RSC Solid State Chemistry Christmas Meeting, University of Cambridge, Dec 2022
+41st RSC Solid State Chemistry Christmas Meeting, University of Cambridge, 19th-20th Dec 2022
 
 <b>2022</b>
 
@@ -24,7 +30,7 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 MDG 10-year anniversary, Imperial College London, July 2022
 
 [flash presentatiion] [online event] <i> ChooChoo! The Checklist  Tool </i></br>
-Collaborations Workshop, Software Sustainability Institute , April 2022
+Collaborations Workshop, Software Sustainability Institute, April 2022
 
 [panel discussion] <i> Empowering diversity in science </i></br>
 IUPAC Global Women’s Breakfast, Newcastle University (UK), February 2022
