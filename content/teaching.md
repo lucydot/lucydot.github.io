@@ -7,24 +7,38 @@ type = "post"
 
 +++
 
-I currently teach a second year undergraduate course in Computational Physics (materials are [in development](https://github.com/NU-CEM/CompPhys)) and a graduate level course for physical scientists that is inspired by [Software Carpentry](https://carpentries.org/). I am also developing a Github-based checklist tool for educators called [ChooChoo](https://github.com/lucydot/choochoo).
+I currently teach two undergraduate courses in Programming and Computational Physics, one of which I also use at the graduate level as an Introductory Programming course (Python for the physical sciences). I am also developing a Github-based checklist tool for educators called [ChooChoo](https://github.com/lucydot/choochoo).
 
 My teaching materials are below, and I strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials I'd love to [hear from you](https://lucydot.github.io/about/).
 
 <big> <b>Teaching Materials </b></big> </br>
 
 Computational Physics </br>
-Course materials under development [here](https://github.com/NU-CEM/CompPhys).
+Course materials [here](https://github.com/NU-CEM/CompPhys).
 
 Python for the physical sciences  </br>
-Course materials under development [here](https://github.com/lucydot/python_novice).
+Course materials [here](https://github.com/lucydot/python_novice).
 
 ChooChoo the CHecklist tOOl </br>
 Teaching tool under development [here](https://github.com/lucydot/choochoo).
 
 <big> <b>Teaching Log </b></big> </br>
 
-<b>2021</b>
+<b>2022/23</b>
+
+Quantum Optics - simulation and modelling (KL6003), Spring term </br>
+Electromagnetics simulation using [Meep](https://meep.readthedocs.io/en/latest/)
+
+Introduction to Programming in Python (Centre for Doctoral Training in Renewable Energy Northeast Universities), Autumn term </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/2022_KD4014)
+
+Computational Physics (KD5081), Autumn term </br>
+[Website](https://github.com/NU-CEM/CompPhys) 
+
+Introduction to Programming in Python (KD4014), Autumn term </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/2022_KD4014)
+
+<b>2021/22</b>
 
 Introduction to Programming in Python (KD6024), Spring term </br>
 [Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/Python_2201)

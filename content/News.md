@@ -9,6 +9,21 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2022</b></br>
 
+<b> 5th December </b><br>
+Our latest work developed alongside experimental collaborator Giulia Longo (and others) is [now available](https://arxiv.org/abs/2212.01429) on the pre-print server ArXiv. We consider all competing phases in the Ba-Zr-S system and predict that the Ruddlesden Popper phases are likely to form during high temperature synthesis. This is confirmed experimentally via XRD and Raman, with our predicted Raman specta for all phases used to eliminate the possibility of other phases forming.
+
+<b> 26th November </b><br>
+Myself and Prakriti are heading to Boston for MRS Fall. I'll be presenting my latest results analysing the quantum mechanics of non-radiative carrier capture processes in mixed A-site cation perovskites. Prakriti will be presenting her work modelling the vibrational spectra of chalcogenide perovskites. 
+
+<b> 10th October </b><br>
+Deep in the autumn teaching term now. Still some time to update our [ThermoPot repository](https://github.com/NU-CEM/ThermoPot), which will hopefully be fully tested and available for wider use in the next few months...
+
+<b> 11th September </b><br>
+Yay! I've completed my induction period at Northumbria, and have been promoted to an Assistant Professor position :) 
+
+<b> 31st August </b><br>
+I'll be speaking on a panel at the [UK Research Software Engineering conference](https://rsecon2022.society-rse.org/) next week. We will be discussing "Developing the necessary skills to support the future of computational research" - something I've thought a fair bit amount since teaching Computational Physics at undergraduate level. Looking forward to meeting up with the very friendly RSE-crowd. 
+
 <b> 29th July </b><br>
 Very pleased to be speaking about A-site cation mixing and non-radiative carrier trapping at a special meeting celebrating 10 years of the [Material Design Group](https://wmd-group.github.io/) at Imperial. Great to see some old faces - just wish I could have been there in person..
 

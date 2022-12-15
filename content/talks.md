@@ -15,19 +15,29 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
-[panel discussion] <i> Developing the necessary skills to support the future of computational research </i> </br>
-Research Software Engineers Conference, Newcastle Upon Tyne (UK), 6th September 2022
-
-[talk] <i> Elucidating the Relationship Between A-Site Mixing and Non-Radiative Carrier Capture </i> </br>
-Materials Research Society Fall Meeting, Boston (US), 30th November 2022
-
-[invited talk] <i> Title tbd </i></br>
+[invited talk] <i> Steric engineering of point defects in lead halide perovskites </i></br>
 41st RSC Solid State Chemistry Christmas Meeting, University of Cambridge, 19th-20th Dec 2022
 
 <b>2022</b>
 
+[talk] <i> Elucidating the Relationship Between A-Site Mixing and Non-Radiative Carrier Capture </i> </br>
+Materials Research Society Fall Meeting, Boston (US), 30th November 2022
+</br>
+[pdf slides](https://lucydot.github.io/slides/2211_MRS.pdf) 
+
+[talk] <i> How to share your code, and why you should
+bother </i></br>
+Space Solar Group Seminar, Northumbria University, October 2022
+</br>
+[pdf slides](https://lucydot.github.io/slides/2210_SpaceSolar.pdf) 
+
+[panel discussion] <i> Developing the necessary skills to support the future of computational research </i> </br>
+Research Software Engineers Conference, Newcastle Upon Tyne (UK), 6th September 2022
+
 [talk] <i> A-site mixing and non-radiative trapping in hybrid halide perovskites </i></br>
 MDG 10-year anniversary, Imperial College London, July 2022
+</br>
+[pdf slides](https://lucydot.github.io/slides/2207_MDG.pdf) 
 
 [flash presentatiion] [online event] <i> ChooChoo! The Checklist  Tool </i></br>
 Collaborations Workshop, Software Sustainability Institute, April 2022

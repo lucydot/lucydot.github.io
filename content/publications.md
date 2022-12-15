@@ -11,6 +11,12 @@ My publication list can also be accessed via [Google Scholar](https://scholar.go
 
 <b>2022</b>
 
+High temperature equilibrium of 3D and 2D chalcogenide perovskites</br>
+*Submitted for review*</br>
+Prakriti Kayastha, Devendra Tiwari, Adam Holland, Oliver S. Hutter, Ken Durose, Lucy D. Whalley, Giulia Longo</br>
+[ArXiv pre-print](https://doi.org/10.48550/arXiv.2212.01429)
+</br> 
+
 The physical significance of imaginary phonon modes in crystals</br>
 *Electronic Structure*</br>
 Ioanna Pallikara, Prakriti Kayastha, Jonathan M Skelton, Lucy D Whalley</br>
