@@ -18,7 +18,7 @@ Through a fellowship with the [Software Sustainability Institute](https://www.so
 <big>
 <b>Research software and scripts</b> </big>  <img src="./images/tora.gif" width="30" height="30">
 
-<i> Thermopot: An ab-initio thermodynamic modelling package</i></br>
+<i> ThermoPot: An ab-initio thermodynamic modelling package</i></br>
 [Repository](https://github.com/NU-CEM/thermopot)
 
 <i> CarrierCapture.jl: Anharmonic carrier capture</i></br>

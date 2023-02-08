@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2022</b></br>
 
+<b> 25th January </b><br>
+
+New term, new teaching! We have developed a new Quantum Optics course for 3rd year undergraduates on the physics programme. As a newbie to quantum optics, learning about [MEEP](https://meep.readthedocs.io/en/latest/) has been a pleasure. We also have a nice Microsoft Azure setup for the students to use. Takes the pain out of installation, and the students can run it from any device with a browser and terminal.
+
 <b> 5th December </b><br>
 Our latest work developed alongside experimental collaborator Giulia Longo (and others) is [now available](https://arxiv.org/abs/2212.01429) on the pre-print server ArXiv. We consider all competing phases in the Ba-Zr-S system and predict that the Ruddlesden Popper phases are likely to form during high temperature synthesis. This is confirmed experimentally via XRD and Raman, with our predicted Raman specta for all phases used to eliminate the possibility of other phases forming.
 

@@ -15,10 +15,20 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
-[invited talk] <i> Steric engineering of point defects in lead halide perovskites </i></br>
-41st RSC Solid State Chemistry Christmas Meeting, University of Cambridge, 19th-20th Dec 2022
+[summer school] <i> An Introduction to Phonons and Phonon Simulations </i></br>
+ Finite-temperature and anharmonic response properties of solids in theory and practice, Linköping (Sweden), 21st-25th August 2023
+
+[summer school] <i> Introductory tutorials </i></br>
+Open Science with the Atomic Simulation Environment, Daresbury Laboratory, 24th-28th April 2023
+
+[invited talk] <i> talk title TBC </i></br>
+UK Reproducibility Network event for open research week, Northumbria University, 29th April
+
 
 <b>2022</b>
+
+[invited talk] <i> Steric engineering of point defects in lead halide perovskites </i></br>
+41st RSC Solid State Chemistry Christmas Meeting, University of Cambridge, 19th-20th Dec 2022
 
 [talk] <i> Elucidating the Relationship Between A-Site Mixing and Non-Radiative Carrier Capture </i> </br>
 Materials Research Society Fall Meeting, Boston (US), 30th November 2022

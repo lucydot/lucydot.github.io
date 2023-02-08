@@ -7,7 +7,7 @@ type = "post"
 
 +++
 
-I currently teach two undergraduate courses in Programming and Computational Physics, one of which I also use at the graduate level as an Introductory Programming course (Python for the physical sciences). I am also developing a Github-based checklist tool for educators called [ChooChoo](https://github.com/lucydot/choochoo).
+I currently teach three undergraduate courses in Programming and Computational Physics, one of which I also use at the graduate level as an Introductory Programming course (Python for the physical sciences). I am also developing a Github-based checklist tool for educators called [ChooChoo](https://github.com/lucydot/choochoo).
 
 My teaching materials are below, and I strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials I'd love to [hear from you](https://lucydot.github.io/about/).
 

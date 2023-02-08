@@ -14,10 +14,22 @@ I am based at Northumbria University in the beautiful North East of England, and
 
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *Atomistic modelling of disorder and defects in energy materials* </br>
 
-
 [Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
 
-[William Taylor](https://github.com/musicmrman99) - Undergraduate intern - *Oswald HPC documentation* </br>
+<img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
+
+<big>
+<b>Previous supervision</b> </big>
+
+[William Taylor](https://github.com/musicmrman99) - Undergraduate intern (Northumbria University)  - *Oswald HPC documentation* </br>
+
+Kishore Varadapureddi - Advanced Practice student (Northumbria University) - *Computational Screening of spinel compounds for battery applications* </br>
+
+Kiran Veeramalla - Advanced Practice student (Northumbria University) - *Computational Screening of spinel compounds for battery applications* </br>
+
+Tianhao Zhu - BEng project student (Northumbria University) - *Community Energy Projects: a feasibility study* <br>
+
+Susannah Lea - BEng project student (Imperial College London) - *Effective mass of cuprous oxide* [co-supervisor] </br>
 
 <img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
@@ -30,18 +42,9 @@ Any PhD/job opportunities will be listed here, and, for the right candidate, the
 
 For smaller undergraduate, postgraduate and summer placement projects please see a project list that I maintain [here](https://lucydot.github.io/projects_list/).
 
-<img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
-<big>
-<b>Previous supervision</b> </big>
 
-Kishore Varadapureddi - Advanced Practice student (Northumbria University) - *Computational Screening of spinel compounds for battery applications* </br>
 
-Kiran Veeramalla - Advanced Practice student (Northumbria University) - *Computational Screening of spinel compounds for battery applications* </br>
-
-Tianhao Zhu - BEng project student (Northumbria University) - *Community Energy Projects: a feasibility study* <br>
-
-Susannah Lea - BEng project student (Imperial College London) - *Effective mass of cuprous oxide* [co-supervisor] </br>
 
 
 
