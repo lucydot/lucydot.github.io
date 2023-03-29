@@ -11,6 +11,16 @@ My publication list can also be accessed via [Google Scholar](https://scholar.go
 
 <b>2023</b>
 
+ChooChoo the Checklist Tool</br>
+*In Review*</br>
+Lucy D. Whalley</br>
+[Submission](https://github.com/lucydot/ChooChoo/blob/main/paper/ChooChoo-submission.pdf)</br>
+
+Steric engineering of point defects in lead halide perovskites</br>
+*In Review*</br>
+Lucy D. Whalley</br>
+[Pre-print](https://doi.org/10.48550/arXiv.2302.08412)</br> 
+
 High temperature equilibrium of 3D and 2D chalcogenide perovskites</br>
 *Solar RRL*</br>
 Prakriti Kayastha, Devendra Tiwari, Adam Holland, Oliver S. Hutter, Ken Durose, Lucy D. Whalley, Giulia Longo</br>
