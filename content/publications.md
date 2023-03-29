@@ -34,8 +34,8 @@ The physical significance of imaginary phonon modes in crystals</br>
 Ioanna Pallikara, Prakriti Kayastha, Jonathan M Skelton, Lucy D Whalley</br>
 [DOI:10.1088/2516-1075/ac78b3](https://doi.org/10.1088/2516-1075/ac78b3) | Open Access </br>
 
-Modelling interfaces in thin-film photovoltaic devices
-*Frontiers in Chemistry*
+Modelling interfaces in thin-film photovoltaic devices</br>
+*Frontiers in Chemistry*</br>
 Michael DK Jones, James A Dawson, Stephen Campbell, Vincent Barrioz, Lucy D Whalley, Yongtao Qu</br>
 [DOI:10.3389/fchem.2022.920676](https://doi.org/10.3389/fchem.2022.920676) | Open Access
 
