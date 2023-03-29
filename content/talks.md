@@ -24,7 +24,7 @@ Open Science with the Atomic Simulation Environment, Daresbury Laboratory, 24th-
 
 <b>2023</b>
 
-[invited talk] <i> "Automate everything! Reproducible research with less mistakes and more impact"  </i></br>
+[invited talk] <i> Automate everything! Reproducible research with less mistakes and more impact  </i></br>
 UK Reproducibility Network event for open research week, Northumbria University, 29th April 2023
 
 [invited talk] <i> Python gives you wings: How a little bit of code can improve the quality and efficiency of your research</i></br>
