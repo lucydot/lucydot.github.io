@@ -9,30 +9,32 @@ categories = []
 
 My publication list can also be accessed via [Google Scholar](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0002-2992-9871).
 
-<b>2022</b>
+<b>2023</b>
 
 High temperature equilibrium of 3D and 2D chalcogenide perovskites</br>
-*Submitted for review*</br>
+*Solar RRL*</br>
 Prakriti Kayastha, Devendra Tiwari, Adam Holland, Oliver S. Hutter, Ken Durose, Lucy D. Whalley, Giulia Longo</br>
-[ArXiv pre-print](https://doi.org/10.48550/arXiv.2212.01429)
+[DOI:10.1002/solr.202201078](https://doi.org/10.1002/solr.202201078) | Open Access
 </br> 
+
+<b>2022</b>
 
 The physical significance of imaginary phonon modes in crystals</br>
 *Electronic Structure*</br>
 Ioanna Pallikara, Prakriti Kayastha, Jonathan M Skelton, Lucy D Whalley</br>
-[DOI:10.1088/2516-1075/ac78b3](https://doi.org/10.1088/2516-1075/ac78b3) </br> | Open Access </br>
+[DOI:10.1088/2516-1075/ac78b3](https://doi.org/10.1088/2516-1075/ac78b3) | Open Access </br>
 
 Modelling interfaces in thin-film photovoltaic devices
 *Frontiers in Chemistry*
 Michael DK Jones, James A Dawson, Stephen Campbell, Vincent Barrioz, Lucy D Whalley, Yongtao Qu</br>
-[DOI:10.3389/fchem.2022.920676](https://doi.org/10.3389/fchem.2022.920676) </br> | Open Access
+[DOI:10.3389/fchem.2022.920676](https://doi.org/10.3389/fchem.2022.920676) | Open Access
 
 <b>2021</b>
 
 Giant Huang-Rhys factor for electron capture by the iodine interstitial in perovskite solar cells</br>
 *Journal of the American Chemical Society*</br>
 Lucy D. Whalley, Puck van Gerwen, Jarvist M. Frost, Sunghyun Kim, Samantha N. Hood, Aron Walsh</br>
-[DOI:10.1021/jacs.1c03064](https://doi.org/10.1021/jacs.1c03064) | open Access
+[DOI:10.1021/jacs.1c03064](https://doi.org/10.1021/jacs.1c03064) | Open Access
 
 <b>2020</b>
 

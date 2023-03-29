@@ -1,17 +1,27 @@
 +++
 tags = []
-title = "News"
+title = "Log"
 type = "post"
 categories = []
 date = "2012-05-04T13:47:57+01:00"
 
 +++
 
-<b>2022</b></br>
+<b>2023</b></br>
+
+<b> 4th March </b><br>
+
+Hot off the press! Prakriti's second paper as a PhD student, and my first one with an experimental collaborator: [High Temperature Equilibrium of 3D and 2D Chalcogenide Perovskites](https://onlinelibrary.wiley.com/doi/10.1002/solr.202201078). We consider all competing phases in the Ba-Zr-S system and predict that the Ruddlesden Popper phases are likely to form during high temperature synthesis. This is confirmed experimentally via XRD and Raman, with [our database of Raman specta](https://github.com/NU-CEM/2022_BaZrS3_High-T_equilibrium) used to eliminate the possibility of other phases forming.
+
+<b> 16th February </b><br>
+
+New pre-print on ArXiv: [Steric engineering of point defects in lead halide perovskites](https://arxiv.org/abs/2302.08412). This is an idea I have been working on since early 2020 (how time flies); namely, translating the concept of reorganisation energy from organic materials to inorganic and hybrid organic-inorganic materials. In the context of organics it is used to engineer for particular charge transport properties. In this work I propose it can be used to engineer charge trapping / de-trapping rates at point defects in crystalline materials which display large lattice relaxation. I also show that the usual defect classification of "deep", "inactive" and "shallow" is not so relevant in these materials. For accurate predictions I had to interpolate along atomic translations and molecular rotations; I have released the code that implements this [here](https://github.com/NU-CEM/Kabsch_interpolation). Thoughts and feedback on any and all are very welcome.
 
 <b> 25th January </b><br>
 
 New term, new teaching! We have developed a new Quantum Optics course for 3rd year undergraduates on the physics programme. As a newbie to quantum optics, learning about [MEEP](https://meep.readthedocs.io/en/latest/) has been a pleasure. We also have a nice Microsoft Azure setup for the students to use. Takes the pain out of installation, and the students can run it from any device with a browser and terminal.
+
+<b>2022</b></br>
 
 <b> 5th December </b><br>
 Our latest work developed alongside experimental collaborator Giulia Longo (and others) is [now available](https://arxiv.org/abs/2212.01429) on the pre-print server ArXiv. We consider all competing phases in the Ba-Zr-S system and predict that the Ruddlesden Popper phases are likely to form during high temperature synthesis. This is confirmed experimentally via XRD and Raman, with our predicted Raman specta for all phases used to eliminate the possibility of other phases forming.

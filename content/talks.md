@@ -21,9 +21,16 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 [summer school] <i> Introductory tutorials </i></br>
 Open Science with the Atomic Simulation Environment, Daresbury Laboratory, 24th-28th April 2023
 
-[invited talk] <i> talk title TBC </i></br>
-UK Reproducibility Network event for open research week, Northumbria University, 29th April
 
+<b>2023</b>
+
+[invited talk] <i> "Automate everything! Reproducible research with less mistakes and more impact"  </i></br>
+UK Reproducibility Network event for open research week, Northumbria University, 29th April 2023
+
+[invited talk] <i> Python gives you wings: How a little bit of code can improve the quality and efficiency of your research</i></br>
+Mechanical and Construction Engineering Research Seminar series, Northumbria University, 8th March 2023
+</br>
+[pdf slides](https://lucydot.github.io/slides/2303_MCE.pdf) 
 
 <b>2022</b>
 

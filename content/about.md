@@ -23,7 +23,7 @@ The content of this website, unless otherwise indicated, is licensed under a [Cr
 
 <img src="./images/coding_icon.png" width="30" height="30"> I am a fellow of the [Software Sustainability Institute](https://software.ac.uk/about) and an editor at the [Journal of Open Source Software](https://joss.theoj.org). I am interested in how we can improve research practice in the computational sciences - with a focus on [working openly and software publishing](https://lucydot.github.io/open/).
 
-<img src="./images/baby_icon.png" width="30" height="30"> I am a mum to <strike>1 2</strike>3 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
+<img src="./images/baby_icon.png" width="30" height="30"> I am a mum to <strike>1,2</strike> 3 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
 
 -----------------
 <big> <b> Contact </b> </big>
