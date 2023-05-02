@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2023</b></br>
 
+<b> 21st April </b>
+
+Putting the finishing touches to a series of introductory tutorials for the [Open Science with the Atomic Simulation Environment](https://ase-workshop-2023.github.io/tutorial/)  summer school, running next week at Daresbury Labs in the UK.
+
 <b> 4th March </b><br>
 
 Hot off the press! Prakriti's second paper as a PhD student, and my first one with an experimental collaborator: [High Temperature Equilibrium of 3D and 2D Chalcogenide Perovskites](https://onlinelibrary.wiley.com/doi/10.1002/solr.202201078). We consider all competing phases in the Ba-Zr-S system and predict that the Ruddlesden Popper phases are likely to form during high temperature synthesis. This is confirmed experimentally via XRD and Raman, with [our database of Raman specta](https://github.com/NU-CEM/2022_BaZrS3_High-T_equilibrium) used to eliminate the possibility of other phases forming.
