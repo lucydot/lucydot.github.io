@@ -15,17 +15,27 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>Upcoming</b>
 
-[summer school] <i> An Introduction to Phonons and Phonon Simulations </i></br>
- Finite-temperature and anharmonic response properties of solids in theory and practice, Linköping (Sweden), 21st-25th August 2023
+[invited talk] <i> Defects and Distortions in Emerging Perovskite Materials </i></br>
+ CIMTEC: Materials in an Expolsively Growing Informatics World, Montecatini Terme (Italy), 20th-24th June 2024
 
-[summer school] <i> Introductory tutorials </i></br>
-Open Science with the Atomic Simulation Environment, Daresbury Laboratory, 24th-28th April 2023
+[invited seminar] <i> Talk title TBC </i></br>
+ Computational Chemistry seminar series, University of Edinburgh, 6th October 2023
+
+[summer school] <i> An Introduction Ab-initio Phonon Simulations </i></br>
+ Finite-temperature and anharmonic response properties of solids in theory and practice, Linköping (Sweden), 21st-25th August 2023
 
 
 <b>2023</b>
 
+[summer school] <i> Atomic Simulation Environment introductory tutorials </i></br>
+Open Science with the Atomic Simulation Environment, Daresbury Laboratory, 24th-28th April 2023
+</br>
+[tutorials](https://ase-workshop-2023.github.io/tutorial) 
+
 [invited talk] <i> Automate everything! Reproducible research with less mistakes and more impact  </i></br>
 UK Reproducibility Network event for open research week, Northumbria University, 29th April 2023
+</br>
+[video](https://northumbria.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7a3de8da-778f-4749-95d7-afd400ea9b48) 
 
 [invited talk] <i> Python gives you wings: How a little bit of code can improve the quality and efficiency of your research</i></br>
 Mechanical and Construction Engineering Research Seminar series, Northumbria University, 8th March 2023
