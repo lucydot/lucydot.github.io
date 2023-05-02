@@ -11,7 +11,10 @@ I currently teach three undergraduate courses in Programming and Computational P
 
 My teaching materials are below, and I strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials I'd love to [hear from you](https://lucydot.github.io/about/).
 
-<big> <b>Teaching Materials </b></big> </br>
+<big> <b>Teaching Reources </b></big> </br>
+
+Open Science with the Atomic Simulation Environment </br>
+Course materials [here](https://ase-workshop-2023.github.io/tutorial/).
 
 Computational Physics </br>
 Course materials [here](https://github.com/NU-CEM/CompPhys).
@@ -25,6 +28,9 @@ Teaching tool under development [here](https://github.com/lucydot/choochoo).
 <big> <b>Teaching Log </b></big> </br>
 
 <b>2022/23</b>
+
+Open Science with the Atomic Simulation Environment, April 24th-28th </br>
+[CECAM](https://www.cecam.org/) and [Psi-k](https://psi-k.net/) sponsored summer school
 
 Quantum Optics - simulation and modelling (KL6003), Spring term </br>
 Electromagnetics simulation using [Meep](https://meep.readthedocs.io/en/latest/)
