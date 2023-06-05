@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2023</b></br>
 
+<b> 31st May </b>
+
+Today I'm giving a webinar as part of the Henry Royce Institute [stand-out skills programme](https://www.royce.ac.uk/students/stand-out-skills/). I'll be talking about building an open source website using Github+Jekyll+Markdown; for a recording, there is a Youtube vid [here](https://www.youtube.com/watch?v=xrqFfccCMvE).
+
 <b> 21st April </b>
 
 Putting the finishing touches to a series of introductory tutorials for the [Open Science with the Atomic Simulation Environment](https://ase-workshop-2023.github.io/tutorial/)  summer school, running next week at Daresbury Labs in the UK.

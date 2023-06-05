@@ -27,6 +27,10 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 <b>2023</b>
 
+[invited webinar] <i> Build your own Academic Website </i></br>
+Stand Out Skills webinar series, Henry Royce Institute (UK), 31st May 2023 </br>
+[Recording](https://www.youtube.com/watch?v=xrqFfccCMvE&ab_channel=HenryRoyceInstitute)
+
 [summer school] <i> Atomic Simulation Environment introductory tutorials </i></br>
 Open Science with the Atomic Simulation Environment, Daresbury Laboratory, 24th-28th April 2023
 </br>
