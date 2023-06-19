@@ -27,7 +27,15 @@ This is for future Lucy. She will thank me for it.
 
 Clone the repo with content (not the repo with the generated content).
 ```  
-git clone https://github.com/lucydot/lucydot-hugo/edit/master/README.md
+git clone https://github.com/lucydot/lucydot-hugo/
+```
+
+Remove the submodules, as content is not cloned in previous step.
+
+```
+git rm public
+git rm themes
+git commit
 ```
 
 Add the public submodule. This has the static repo set as upstream.
