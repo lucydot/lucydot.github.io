@@ -9,6 +9,26 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2023</b></br>
 
+<b> 25th September </b>
+
+And we are here - induction week begins! On Thursday we're welcoming returning students with a computational skills re-orientation using [ChooChoo the Checklist Tool](https://github.com/lucydot/ChooChoo). Nice to be back working with students again, especially after getting my Fellowship application done and dusted (fingers crossed).
+
+<b> 20th August </b>
+
+We are on our way back from London today (me and daughter Robin), after visiting the Institute of Physics for a family fun day: "Mimi's Rainbow Adventure". Lovely to feature in it as an ["Amazing science superhero"](https://www.iop.org/explore-physics/mimis-rainbow-adventure/green-energy-role-models), and to talk about my love of both science and reality TV. Now off to Sweden to speak at a summer school on [Finite Temperature and Anharmonic Response Properties](https://liu.se/en/research/tdep2023).
+
+<b> 8th August </b>
+
+Point defects in halide perovskites are difficult to model, and there are several conflicting reports (both from experiment and theory). I highlight the high sensitivity to available lattice relaxation pathways in "[Steric Engineering of Point Defects in Lead Halide Perovskites](https://doi.org/10.1021/acs.jpcc.3c03516)", just out in Journal of Physical Chemistry C.
+
+<b> 3rd July </b>
+
+Now in Dublin for the [RSC Materials Chemistry conference MC16](https://www.rsc.org/events/detail/72840/16th-international-conference-on-materials-chemistry-mc16). With my out-of-office on, and no other diversions for a full week, this is also prime-time for fellowship application writing. 
+
+<b> 28th June </b>
+
+Back in Daresbury for the second time in 2023, this time for the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/) annual conference. It's a remote spot in the North West of England where a national lab is hidden. You can get to it by bus from Warrington, or take the more adventurous route from Runcorn East by walking for about 45 minutes along canal towpaths. Lots of lovely farmland. 
+
 <b> 31st May </b>
 
 Today I'm giving a webinar as part of the Henry Royce Institute [stand-out skills programme](https://www.royce.ac.uk/students/stand-out-skills/). I'll be talking about building an open source website using Github+Jekyll+Markdown; for a recording, there is a Youtube vid [here](https://www.youtube.com/watch?v=xrqFfccCMvE).
