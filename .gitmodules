@@ -4,4 +4,4 @@
 
 [submodule "node_modules/bootstrap-sass"]
 	path = node_modules/bootstrap-sass
-	url = https://https://github.com/twbs/bootstrap-sass
+	url = https://github.com/twbs/bootstrap-sass
