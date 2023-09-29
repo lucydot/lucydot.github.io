@@ -49,11 +49,11 @@ Through a fellowship with the [Software Sustainability Institute](https://www.so
 <i> Dotspace command line </i></br>
 [Repository](https://github.com/lucydot/dotspace) | [Info](https://lucydot.github.io/dotspace/)
 
-<i> Dotspace web app (aka Grain Generator) </i></br>
+<i> Dotspace web app (aka Grain Generator) - unmaintained </i></br>
 [Repository](https://github.com/lucydot/dotspace_heroku) | [Info](https://lucydot.github.io/dotspace/)
 
-<i> Hear my phonons (WIP) </i></br>
-[Repository](https://github.com/NU-CEM/hear-my-phonons)
+<i> Singing Materials) </i></br>
+[Repository](https://github.com/NU-CEM/singing-materials)
 
 
 
