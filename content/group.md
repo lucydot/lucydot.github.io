@@ -7,7 +7,7 @@ categories = []
 
 +++
 
-I am based at Northumbria University in the beautiful North East of England, and am a member of [Northumbria University Photovoltaics group](https://sites.google.com/view/nupv), [Energy Futures](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/renewable-energy-technologies-and-materials/) and the [North East Centre for Energy Materials](https://research.ncl.ac.uk/necem/).
+We are based at Northumbria University in the beautiful North East of England, and participate in the [Northumbria University Photovoltaics group](https://sites.google.com/view/nupv), [Energy Futures](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/renewable-energy-technologies-and-materials/) and the [North East Centre for Energy Materials](https://research.ncl.ac.uk/necem/).
 
 <big>
 <b>Supervision</b> </big>
@@ -15,6 +15,8 @@ I am based at Northumbria University in the beautiful North East of England, and
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *Atomistic modelling of disorder and defects in energy materials* </br>
 
 [Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
+
+[Ify Nwabuokei](https://github.com/ifylala) - Student intern (Northumbria University) - *Singing Materials: Sonification of first-principles phonon data* </br>
 
 <img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
