@@ -7,9 +7,7 @@ date = "2017-05-05T13:47:56+01:00"
 
 +++
 
-If you'd like me to speak at your event, please [contact me](mailto:l.whalley@northumbria.ac.uk).
-The slides for some of my talks can be found [here](https://lucydot.github.io/slides/).
-
+We are very happy to share our work, please [contact us](mailto:l.whalley@northumbria.ac.uk) if you have speaking opportunities.
 
  <big>
 <b>Upcoming</b></big>
