@@ -1,13 +1,13 @@
 +++
 date = "2017-05-04T13:47:56+01:00"
 tags = []
-title = "Roadmap"
+title = "Ingredients"
 type = "post"
 categories = []
 
 +++
 
-This is a personal research roadmap, inspired by the [personal mathematical roadmap of Julia Wolf](http://www.juliawolf.org/research/roadmap.shtml). It is an evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not an exhaustive list but highlights what we have found particularly useful. 
+This is an ingredients list for research, inspired by the [personal mathematical roadmap of Julia Wolf](http://www.juliawolf.org/research/roadmap.shtml). It is an evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not exhaustive but highlights what we have found particularly useful. 
 
 For online tools we use a pound sign to denote that there is an associated cost and a star to denote open source projects. If you use any of the tools please [cite accordingly](https://www.software.ac.uk/how-cite-software).
 
