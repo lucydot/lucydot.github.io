@@ -14,7 +14,7 @@ This website was built using [Hugo](https://gohugo.io) with a tweaked version of
 The content of this website, unless otherwise indicated, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You can re-use any of its content as long as the following attribution is included, and you indicate if changes were made: © Lucy Whalley (CC-BY 4.0).
 
 ---------------
-<big> <b> Personal Summary </b> </big>
+<big> <b> Personal Summary - Lucy Whalley </b> </big>
 
 
 <img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to investigate why particular materials can efficiently generate energy from sunlight (solar cells), or repeatedly store and release energy (rechargeable batteries). I am an Assistant Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a post-doc and PhD student in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
@@ -26,7 +26,7 @@ The content of this website, unless otherwise indicated, is licensed under a [Cr
 <img src="./images/baby_icon.png" width="30" height="30"> I am a mum to <strike>1,2</strike> 3 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
 
 -----------------
-<big> <b> Contact </b> </big>
+<big> <b> Contact - Lucy Whalley </b> </big>
 
 <b> Full name </b>
 
