@@ -10,7 +10,7 @@ categories = []
 We are based at Northumbria University in the beautiful North East of England, and participate in the [Northumbria University Photovoltaics group](https://sites.google.com/view/nupv), [Energy Futures](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/renewable-energy-technologies-and-materials/) and the [North East Centre for Energy Materials](https://research.ncl.ac.uk/necem/).
 
 <big>
-<b>Modelling team</b> </big>
+<b>Team Atoms</b> </big>
 
 [Lucy Whalley](https://lucydot.github.io/about) - Assistant Professor - *HackThePlanet* </br>
 
