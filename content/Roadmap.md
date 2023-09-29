@@ -132,6 +132,8 @@ Video lectures</b></big>
 - [ML4science channel](https://www.youtube.com/c/ML4Science/live)
 - [CECAM channel](https://www.youtube.com/channel/UCwMTf03fJ_ECmsDsqHOsSuA)
 - [Solid State Physics in a Nutshell channel](https://www.youtube.com/channel/UCFgtgeXkgWr1MsOTftce5BA)
+- [VASP video series](https://www.youtube.com/@vasp8588/videos)
+- [Materials Project seminars](https://www.youtube.com/@MaterialsProject/videos)
 
 <big><b>
 Teaching resources</b></big>
