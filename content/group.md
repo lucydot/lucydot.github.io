@@ -16,14 +16,14 @@ We are based at Northumbria University in the beautiful North East of England, a
 
 [Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
 
-[Ify Nwabuokei](https://github.com/ifylala) - Student intern (Northumbria University) - *Singing Materials: Sonification of first-principles phonon data* </br>
+[Ify Nwabuokei](https://github.com/ifylala) - Student intern - *Singing Materials: Sonification of first-principles phonon data* </br>
 
 <img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
 <big>
 <b>Previous supervision</b> </big>
 
-[William Taylor](https://github.com/musicmrman99) - Undergraduate intern (Northumbria University)  - *Oswald HPC documentation* </br>
+[William Taylor](https://github.com/musicmrman99) - Student intern (Northumbria University)  - *Oswald HPC documentation* </br>
 
 Kishore Varadapureddi - Advanced Practice student (Northumbria University) - *Computational Screening of spinel compounds for battery applications* </br>
 
@@ -38,11 +38,11 @@ Susannah Lea - BEng project student (Imperial College London) - *Effective mass 
 <big>
 <b>Opportunities</b> </big>
 
-I am always interested in hearing from potential new members and collaborators - [please get in touch](https://lucydot.github.io/about/). 
+We are always interested in hearing from potential new members and collaborators - [please get in touch](https://lucydot.github.io/about/). 
 
 Any PhD/job opportunities will be listed here, and, for the right candidate, there is also the possibility to apply for external funding (e.g. the [Marie Curie IF](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)).
 
-For smaller undergraduate, postgraduate and summer placement projects please see a project list that I maintain [here](https://lucydot.github.io/projects_list/).
+For smaller undergraduate, postgraduate and summer placement projects please see a project list that we maintain [here](https://lucydot.github.io/projects_list/).
 
 
 
