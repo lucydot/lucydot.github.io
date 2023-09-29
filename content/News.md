@@ -1,6 +1,6 @@
 +++
 tags = []
-title = "Log"
+title = "Lucy's Log"
 type = "post"
 categories = []
 date = "2012-05-04T13:47:57+01:00"
