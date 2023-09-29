@@ -17,7 +17,7 @@ The content of this website, unless otherwise indicated, is licensed under a [Cr
 <big> <b> Personal Summary - Lucy Whalley </b> </big>
 
 
-<img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to investigate why particular materials can efficiently generate energy from sunlight (solar cells), or repeatedly store and release energy (rechargeable batteries). I am an Assistant Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a post-doc and PhD student in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
+<img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to investigate why particular materials can efficiently generate energy from sunlight (solar cells), or repeatedly store and release energy (rechargeable batteries). I am an Assistant Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a researcher in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
 
 <img src="./images/teaching_icon.png" width="30" height="30"> I am a qualified teacher (PGCE), and I have taught in a variety of settings - universities, prisons, primary schools and cafes. I [currently teach](http://lucydot.github.io/teaching/) programming and computational physics at the undergraduate and graduate levels.
 
