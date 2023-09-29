@@ -26,7 +26,7 @@ The content of this website, unless otherwise indicated, is licensed under a [Cr
 <img src="./images/baby_icon.png" width="30" height="30"> I am a mum to <strike>1,2</strike> 3 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
 
 -----------------
-<big> <b> Contact - Lucy Whalley </b> </big>
+<big> <b> Contact </b> </big>
 
 <b> Full name </b>
 
