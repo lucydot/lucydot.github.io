@@ -7,20 +7,22 @@ type = "post"
 
 +++
 
-I currently teach three undergraduate courses in Programming and Computational Physics, one of which I also use at the graduate level as an Introductory Programming course (Python for the physical sciences). I am also developing a Github-based checklist tool for educators called [ChooChoo](https://github.com/lucydot/choochoo).
+Teaching materials and tools are below, and we strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials we'd love to [hear from you](https://lucydot.github.io/about/).
 
-My teaching materials are below, and I strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials I'd love to [hear from you](https://lucydot.github.io/about/).
+<big> <b>Teaching Resources </b></big> </br>
 
-<big> <b>Teaching Reources </b></big> </br>
+<b>Researchers</b>
 
 Open Science with the Atomic Simulation Environment </br>
 Course materials [here](https://ase-workshop-2023.github.io/tutorial/).
 
-Computational Physics </br>
-Course materials [here](https://github.com/NU-CEM/CompPhys).
-
 Python for the physical sciences  </br>
 Course materials [here](https://github.com/lucydot/python_novice).
+
+<b>Undergraduates</b>
+
+Computational Physics </br>
+Course materials [here](https://github.com/NU-CEM/CompPhys).
 
 ChooChoo the CHecklist tOOl </br>
 Teaching tool under development [here](https://github.com/lucydot/choochoo).
