@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Lucy Whalley"
-baseURL = "https://lucydot.github.io/"
+baseURL = "https://lucydot.github.io/lucydot-hugo/"
 theme = "code-editor"
 googleAnalytics = "UA-125953365-1"
 
