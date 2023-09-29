@@ -7,11 +7,11 @@ categories = []
 
 +++
 
-As a computational scientist a significant part of my time is spent writing code, or supporting others to write code. Some of this code is written to submit and manage calculations which run on various supercomputers (primarily [Archer, the UK national supercomputer](http://www.archer.ac.uk/)), and some is used to analyse and extract meaning from the output of these calculations (numbers --> physics). 
-Like many scientists, I am a self-taught programmer and have had very little in the way of training. The two things which have had the highest impact on the quality of code I write are: 1) teaching basic programming skills ([Software Carpentry](https://carpentries.org/)) to other researchers; 2) working with the [Journal of Open Source Software](https://joss.theoj.org/), a peer-reviewed journal for research code.
+As computational scientists a significant part of our time is spent writing code, or supporting others to write code. Some of this code is written to submit and manage calculations which run on various supercomputers (primarily [Archer, the UK national supercomputer](http://www.archer.ac.uk/)), and some is used to analyse and extract meaning from the output of these calculations (numbers --> physics). 
+We are largely self-taught programmer and have had very little in the way of formal training. However there are strategies for learning: 1) teaching basic programming skills ([Software Carpentry](https://carpentries.org/)) to other researchers; 2) publishing with or reviewing for the [Journal of Open Source Software](https://joss.theoj.org/), a peer-reviewed journal for research code.
 
 The code we write relies heavily upon open source tools, some of which are listed on my [personal roadmap](https://lucydot.github.io/blog/roadmap/).
-Through a fellowship with the [Software Sustainability Institute](https://www.software.ac.uk) we have [developed resources](https://lucydot.github.io/teaching/) so that other researchers have the skills in place to publish their code, and I am an editor at the <a href="https://joss.theoj.org/">Journal of Open Source Software</a>.
+Through a fellowship with the [Software Sustainability Institute](https://www.software.ac.uk) we have [developed resources](https://lucydot.github.io/teaching/) so that other researchers have the skills in place to publish their code.
 
 -----
 
