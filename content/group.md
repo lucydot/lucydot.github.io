@@ -10,9 +10,11 @@ categories = []
 We are based at Northumbria University in the beautiful North East of England, and participate in the [Northumbria University Photovoltaics group](https://sites.google.com/view/nupv), [Energy Futures](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/renewable-energy-technologies-and-materials/) and the [North East Centre for Energy Materials](https://research.ncl.ac.uk/necem/).
 
 <big>
-<b>Supervision</b> </big>
+<b>Modelling team</b> </big>
 
-[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *Atomistic modelling of disorder and defects in energy materials* </br>
+[Lucy Whalley](https://lucydot.github.io/about) - Assistant Professor - *HackThePlanet* </br>
+
+[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *Atomistic modelling of disorder and defects in energy materials* 
 
 [Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
 
@@ -21,7 +23,7 @@ We are based at Northumbria University in the beautiful North East of England, a
 <img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
 <big>
-<b>Previous supervision</b> </big>
+<b>Previous team members</b> </big>
 
 [William Taylor](https://github.com/musicmrman99) - Student intern (Northumbria University)  - *Oswald HPC documentation* </br>
 
