@@ -10,10 +10,9 @@ date = "2017-05-05T13:47:56+01:00"
 If you'd like me to speak at your event, please [contact me](mailto:l.whalley@northumbria.ac.uk).
 The slides for some of my talks can be found [here](https://lucydot.github.io/slides/).
 
-<big>
-<b>Seminars and Conferences</b> </big>
 
-<b>Upcoming</b>
+ <big>
+<b>Upcoming</b></big>
 
 [invited talk] <i> Defects and Distortions in Emerging Perovskite Materials </i></br>
  CIMTEC: Materials in an Expolsively Growing Informatics World, Montecatini Terme (Italy), 20th-24th June 2024
@@ -23,6 +22,9 @@ The slides for some of my talks can be found [here](https://lucydot.github.io/sl
 
 [seminar] <i> Designing new materials using quantum chemistry and high-performance computing </i></br>
  Computational Chemistry seminar series, University of Edinburgh, 6th October 2023
+
+ <big>
+<b>Seminars and Conferences</b> </big>
 
 <b>2023</b>
 
