@@ -17,21 +17,17 @@ Richard has presented this work at the BALTIC Centre for Contemporary Art, the M
 The associated code is available in [a Github repository](https://github.com/lucydot/dotspace) and there was [a web app](https://boiling-peak-32563.herokuapp.com/voila/render/dotspace.ipynb) (now defunct) to create your own patterns. 
 
 <img src="../images/dotspace.png" style="float: middle; height: 30em; ">
-<img src="../images/dotspace_drawn.jpeg" style="float: left; height: 27.25em; margin-top: 1.4em; margin-left: -0.4em">
-</br>
+<img src="../images/dotspace_drawn.jpeg" style="float: left; height: 27.25em; margin-top: 1em; margin-left: -0.4em">
+
 <p class="both">
+</br>
 Left: Hand-drawn Grain picture; Right: Screen-printed Grain picture </p>
 </br>
 </br>
 <img src="../images/broken_glass.jpeg" style="float: left; height: 13.25em; margin-top: 1.4em; margin-left: -0.3em; margin-right: 1.4em; margin-bottom: 1.4em">
-</br>
-
-
 <mark>`SDF`</mark> is an electronic music collective. Established in Newcastle and now distributed around the UK, SDF comprise of [Adam Parkinson](https://peoplefinder.lsbu.ac.uk/researcher/825yv/dr-adam-parkinson), [Oliver Marchant](https://olivermarchant.hotglue.me/) and myself. Our fourth album [Broken Glass](https://lostmap.bandcamp.com/album/broken-glass-ep) was released with Lost Map records and has featured on BBC6 Music.
+
 <p class="both">
-  
 </br>
-
-
 <mark>`Singing Materials`</mark> explores the sonification of phonon data and how this can be used for electronic music performance. The project team are myself, [Prof. Paul Vickers](https://paulvickers.github.io/), [Dr Adam Parkinson](https://peoplefinder.lsbu.ac.uk/researcher/825yv/dr-adam-parkinson), [Prakriti Kayastha](https://prakayastha.github.io/) and [Ify Nwabuokei](https://github.com/ifylala). This project is at an early stage, with software development happening [here](https://github.com/nu-cem/singing-materials) and [here](https://github.com/nu-cem/singing-materials-app). </p>
 
