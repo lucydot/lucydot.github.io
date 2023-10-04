@@ -17,7 +17,7 @@ Richard has presented this work at the BALTIC Centre for Contemporary Art, the M
 The associated code is available in [a Github repository](https://github.com/lucydot/dotspace) and there was [a web app](https://boiling-peak-32563.herokuapp.com/voila/render/dotspace.ipynb) (now defunct) to create your own patterns. 
 
 <img src="../images/dotspace.png" style="float: middle; height: 30em; ">
-<img src="../images/dotspace_drawn.jpeg" style="float: left; height: 27.25em; margin-top: 1em; margin-left: -0.4em">
+<img src="../images/dotspace_drawn.jpeg" style="float: left; height: 27.25em; margin-top: 1.4em; margin-left: -0.4em">
 <p class="both">
 Left: Hand-drawn Grain picture; Right: Screen-printed Grain picture </p>
 
@@ -29,6 +29,7 @@ Left: Hand-drawn Grain picture; Right: Screen-printed Grain picture </p>
 <mark>`SDF`</mark> is an electronic music collective. Established in Newcastle and now distributed around the UK, SDF comprise of [Adam Parkinson](https://peoplefinder.lsbu.ac.uk/researcher/825yv/dr-adam-parkinson), [Oliver Marchant](https://olivermarchant.hotglue.me/) and myself. Our fourth album [Broken Glass](https://lostmap.bandcamp.com/album/broken-glass-ep) was released with Lost Map records and has featured on BBC6 Music.
 
 <p class="both">
+</br>
 </br>
 </br>
 
