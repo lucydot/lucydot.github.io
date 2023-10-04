@@ -8,7 +8,7 @@ type = "post"
 +++
 
 
-`Grain pictures` is a collaboration with the musician and visual artist [Richard Scott](https://richard-scott.info/home.html), who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.
+<mark>`Grain pictures`</mark> is a collaboration with the musician and visual artist [Richard Scott](https://richard-scott.info/home.html), who is interested in how scientific concepts such as order, disorder and ergodicity manifest in visual art.
 
 Richard's Grain pictures are discrete interference patterns, created by overlaying binary sequences. These drawings are painstaking work which involves a lot of counting. We write programmes to automate pattern generation, allowing Richard to screen through trial pictures very quickly. The patterns are then drawn by hand or screen printed. In these patterns of order and disorder we see grain boundaries, point defects, quasi-crystals and more.
 
