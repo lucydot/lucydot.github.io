@@ -20,3 +20,9 @@ The associated code is available in [a Github repository](https://github.com/luc
 <img src="../images/dotspace_drawn.jpeg" style="float: left; height: 27.25em; margin-top: 1.4em; margin-left: -0.4em">
 </br>
 Left: Hand-drawn Grain picture; Right: Screen-printed Grain picture
+
+<mark>`SDF`</mark> is an electronic music collective. Established in Newcastle & now distributed around the UK, SDF comprise of [Adam Parkinson](https://peoplefinder.lsbu.ac.uk/researcher/825yv/dr-adam-parkinson), [Oliver Marchant](https://olivermarchant.hotglue.me/) and myself. Our fourth album [Broken Glass](https://lostmap.bandcamp.com/album/broken-glass-ep) was released with Lost Map records and has featured on BBC6 Music.
+
+<img src="../images/broken_glass.jpeg" style="float: left; height: 27.25em; margin-top: 1.4em; margin-left: -0.4em">
+
+<mark>`Singing Materials`</mark> explores the sonification of phonon data and how this can be used for electronic music performance. The project team are myself, [Prof. Paul Vickers](https://paulvickers.github.io/), [Dr Adam Parkinson](https://peoplefinder.lsbu.ac.uk/researcher/825yv/dr-adam-parkinson), [Prakriti Kayastha](https://prakayastha.github.io/) and [Ify Nwabuokei](https://github.com/ifylala). This project is an early stage project, with software development happening [here](https://github.com/nu-cem/singing-materials) and [here](https://github.com/nu-cem/singing-materials-app). 
