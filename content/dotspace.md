@@ -22,7 +22,7 @@ The associated code is available in [a Github repository](https://github.com/luc
 Left: Hand-drawn Grain picture; Right: Screen-printed Grain picture
 </br>
 </br>
-<img src="../images/broken_glass.jpeg" style="float: left; height: 13.25em; margin-top: 1.4em; margin-left: -0.4em">
+<img src="../images/broken_glass.jpeg" style="float: left; height: 13.25em; margin-top: 1.4em; margin-left: -0.4em; margin-right: 0.4em">
 </br>
 <mark>`SDF`</mark> is an electronic music collective. Established in Newcastle & now distributed around the UK, SDF comprise of [Adam Parkinson](https://peoplefinder.lsbu.ac.uk/researcher/825yv/dr-adam-parkinson), [Oliver Marchant](https://olivermarchant.hotglue.me/) and myself. Our fourth album [Broken Glass](https://lostmap.bandcamp.com/album/broken-glass-ep) was released with Lost Map records and has featured on BBC6 Music.
 
