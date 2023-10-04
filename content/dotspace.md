@@ -34,5 +34,6 @@ Left: Hand-drawn Grain picture; Right: Screen-printed Grain picture </p>
 </br>
 </br>
 </br>
+
 <mark>`Singing Materials`</mark> explores the sonification of phonon data and how this can be used for electronic music performance. The project team are myself, [Prof. Paul Vickers](https://paulvickers.github.io/), [Dr Adam Parkinson](https://peoplefinder.lsbu.ac.uk/researcher/825yv/dr-adam-parkinson), [Prakriti Kayastha](https://prakayastha.github.io/) and [Ify Nwabuokei](https://github.com/ifylala). This project is at an early stage, with software development happening [here](https://github.com/nu-cem/singing-materials) and [here](https://github.com/nu-cem/singing-materials-app). </p>
 
