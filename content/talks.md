@@ -12,19 +12,22 @@ We are very happy to share our work, please [contact us](mailto:l.whalley@northu
  <big>
 <b>Upcoming</b></big>
 
-[invited talk] <i> Defects and Distortions in Emerging Perovskite Materials </i></br>
- CIMTEC: Materials in an Expolsively Growing Informatics World, Montecatini Terme (Italy), 20th-24th June 2024
+[seminar] <i> Title TBC </i></br>
+School of Chemistry Seminar Series, University of Nottingham, 29th May 2024
+
+[seminar] <i> Title TBC </i></br>
+Warwick Centre for Predictive Modelling seminar series, University of Warwick, 19th February 2024
 
 [public talk] <i> Fighting Climate Change with Quantum Mechanics </i></br>
  Literary and Philosophical Society of Newcastle upon Tyne (Italy), 24th October 2023
-
-[seminar] <i> Designing new materials using quantum chemistry and high-performance computing </i></br>
- Computational Chemistry seminar series, University of Edinburgh, 6th October 2023
 
  <big>
 <b>Seminars and Conferences</b> </big>
 
 <b>2023</b>
+
+[seminar] <i> Designing new materials using quantum chemistry and high-performance computing </i></br>
+ Computational Chemistry seminar series, University of Edinburgh, 6th October 2023
 
 [summer school] <i> An Introduction to first-principles lattice dynamics </i></br>
  Finite-temperature and anharmonic response properties of solids in theory and practice, Linköping (Sweden), 21st-25th August 2023 </br>
