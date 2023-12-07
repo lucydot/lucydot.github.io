@@ -9,6 +9,19 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2023</b></br>
 
+<b> 6th December </b>
+
+[Ify](https://github.com/ifylala) finished her internship with us today. She has been contributing the our on-going "Singing Materials" project. Together (and alongside [Paul Vickers](https://www.northumbria.ac.uk/about-us/our-staff/v/paul-vickers/)) we have been developing a Python-based web application for sonification of phonon data: the sonification code for "Singing Materials" is [here](https://github.com/NU-CEM/singing-materials) and the web application (in development) is [here](https://github.com/NU-CEM/singing-materials-online).
+
+<b> 1st November </b>
+
+Preparations are beginning for another edition of "[Rising Stars in Materials Science](https://mainstraem.github.io/)". 
+
+
+<b> 11th October </b>
+
+ Today we (WISC- Women in Information Science and Computing) hosted a filming of ["Hackers"](https://en.wikipedia.org/wiki/Hackers_(film)) a.k.a the best film ever made. I've watched it about ten times, but never in a room of people about 15 years younger than me. It did make me realise it is *of its time*. Hack The Planet!
+
 <b> 25th September </b>
 
 And we are here - induction week begins! On Thursday we're welcoming returning students with a computational skills re-orientation using [ChooChoo the Checklist Tool](https://github.com/lucydot/ChooChoo). Nice to be back working with students again, especially after getting my Fellowship application done and dusted (fingers crossed).
