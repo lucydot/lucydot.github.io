@@ -20,7 +20,7 @@ Preparations are beginning for another edition of "[Rising Stars in Materials Sc
 
 <b> 11th October </b>
 
- Today we (WISC- Women in Information Science and Computing) hosted a filming of ["Hackers"](https://en.wikipedia.org/wiki/Hackers_(film)) a.k.a the best film ever made. I've watched it about ten times, but never in a room of people about 15 years younger than me. It did make me realise it is *of its time*. Hack The Planet!
+ Today we (WISC- Women in Information Science and Computing) hosted a filming of "[Hackers](https://en.wikipedia.org/wiki/Hackers_(film))" a.k.a the best film ever made. I've watched it about ten times, but never in a room of people about 15 years younger than me. It did make me realise it is *of its time*. Hack The Planet!
 
 <b> 25th September </b>
 
