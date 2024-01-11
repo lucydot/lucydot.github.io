@@ -11,6 +11,16 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 
 <b>2023</b>
 
+A first-principles thermodynamic model for the Ba-Zr-S system in equilibrium with sulfur vapour</br>
+*In Review*</br>
+Prakriti Kayastha, Giulia Longo, Lucy D. Whalley</br>
+[Pre-print]()</br>
+
+Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion</br>
+*In Review*</br>
+Blakesley, Hoye et al. </br>
+[Pre-print](https://arxiv.org/abs/2310.19430)</br>
+
 ChooChoo the Checklist Tool</br>
 *In Review*</br>
 Lucy D. Whalley</br>
