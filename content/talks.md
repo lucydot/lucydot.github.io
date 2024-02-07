@@ -13,21 +13,29 @@ We are very happy to share our work, please [contact us](mailto:l.whalley@northu
 <b>Upcoming</b></big>
 
 [seminar] <i> Title TBC </i></br>
+Warwick Centre for Predictive Modelling seminar series, University of Warwick, 3rd June 2024
+
+[seminar] <i> Title TBC </i></br>
 School of Chemistry Seminar Series, University of Nottingham, 29th May 2024
 
 [seminar] <i> Title TBC </i></br>
-Warwick Centre for Predictive Modelling seminar series, University of Warwick, 19th February 2024
+Condensed Matter Seminar, Chalmers University of Technology (Sweden), 28th May 2024
 
-[public talk] <i> Fighting Climate Change with Quantum Mechanics </i></br>
- Literary and Philosophical Society of Newcastle upon Tyne (Italy), 24th October 2023
+<big>
+<b>Past Seminars and Conferences</b> </big>
 
- <big>
-<b>Seminars and Conferences</b> </big>
+<b>2024</b>
+
+[invited talk]<i> "I can't code" and other reproducibility blockers  </i></br>
+Technicians improving the research reproducibility, Northumbria University, 22nd Jan 2024
+</br>
+[pdf slides](https://lucydot.github.io/slides/2401_Technicians.pdf) 
 
 <b>2023</b>
 
-[seminar] <i> Designing new materials using quantum chemistry and high-performance computing </i></br>
+ [seminar] <i> Designing new materials using quantum chemistry and high-performance computing </i></br>
  Computational Chemistry seminar series, University of Edinburgh, 6th October 2023
+ [pdf slides](https://lucydot.github.io/slides/2310_Edinburgh.pdf) 
 
 [summer school] <i> An Introduction to first-principles lattice dynamics </i></br>
  Finite-temperature and anharmonic response properties of solids in theory and practice, Linköping (Sweden), 21st-25th August 2023 </br>
@@ -184,7 +192,11 @@ CAMD summer school, Copenhagan (Denmark), August 2016
 --------
 
 <big>
-<b>Public lectures and Outreach</b></big>
+<b>Past Public lectures and Outreach</b></big>
+
+[public talk] <i> Fighting Climate Change with Quantum Mechanics </i></br>
+ Literary and Philosophical Society of Newcastle upon Tyne, 24th October 2023
+ [pdf slides](https://lucydot.github.io/slides/2310_LitPhil.pdf) 
 
 <i> My work as a materials scientist </i></br>
 Girls in Physics series, Highgate School, London (UK), April 2019 </br>
