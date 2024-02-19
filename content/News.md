@@ -15,7 +15,7 @@ Today is the second installment of the [Rising Stars](https://mainstraem.github.
 
 <b> 8th January </b>
 
-After two weeks of rest and relaxation with family over Christmas, it is time to start preparing teaching materials for a first year undergraduate course in Quantum Mechanics. The time investment is significant, however as someone whose research is based on repeatedly solving (an adapted version of) the Schr$\"o$dinger equation a chance to brush up on the fundamentals is welcome. 
+After two weeks of rest and relaxation with family over Christmas, it is time to start preparing teaching materials for a first year undergraduate course in Quantum Mechanics. The time investment is significant, however as someone whose research is based on repeatedly solving (an adapted version of) the Schrödinger equation a chance to brush up on the fundamentals is welcome. 
 
 <b> 6th December </b>
 
