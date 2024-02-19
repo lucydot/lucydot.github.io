@@ -9,6 +9,14 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2023</b></br>
 
+<b> 9th February </b>
+
+Today is the second installment of the [Rising Stars](https://mainstraem.github.io/) workshop at the Henry Royce Institute in Manchester. Henry Royce have been excellent in providing logistical and financial support so we can focus on the [workshop programme](https://www.royce.ac.uk/events/rising-stars-2024/) and reaching under-represented groups in materials science. 
+
+<b> 8th January </b>
+
+After two weeks of rest and relaxation with family over Christmas, it is time to start preparing teaching materials for a first year undergraduate course in Quantum Mechanics. The time investment is significant, however as someone whose research is based on repeatedly solving (an adapted version of) the Schr$\"o$dinger equation a chance to brush up on the fundamentals is welcome. 
+
 <b> 6th December </b>
 
 [Ify](https://github.com/ifylala) finished her internship with us today. She has been contributing the our on-going "Singing Materials" project. Together (and alongside [Paul Vickers](https://www.northumbria.ac.uk/about-us/our-staff/v/paul-vickers/)) we have been developing a Python-based web application for sonification of phonon data: the sonification code for "Singing Materials" is [here](https://github.com/NU-CEM/singing-materials) and the web application (in development) is [here](https://github.com/NU-CEM/singing-materials-online).
@@ -16,7 +24,6 @@ date = "2012-05-04T13:47:57+01:00"
 <b> 1st November </b>
 
 Preparations are beginning for another edition of "[Rising Stars in Materials Science](https://mainstraem.github.io/)". 
-
 
 <b> 11th October </b>
 
