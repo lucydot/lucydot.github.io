@@ -29,12 +29,23 @@ Teaching tool under development [here](https://github.com/lucydot/choochoo).
 
 <big> <b>Teaching Log </b></big> </br>
 
+<b>2023/24</b>
+
+Quantum Mechanics (2nd year UG), Spring term </br>
+Contact me for resources
+
+Computational Physics (2nd year UG), Autumn term </br>
+[Website](https://github.com/NU-CEM/CompPhys) 
+
+Introduction to Programming in Python (1st year UG), Autumn term </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/2022_KD4014)
+
 <b>2022/23</b>
 
 Open Science with the Atomic Simulation Environment, April 24th-28th </br>
 [CECAM](https://www.cecam.org/) and [Psi-k](https://psi-k.net/) sponsored summer school
 
-Quantum Optics - simulation and modelling (KL6003), Spring term </br>
+Quantum Optics - simulation and modelling (3rd year UG), Spring term </br>
 Electromagnetics simulation using [Meep](https://meep.readthedocs.io/en/latest/)
 
 Introduction to Programming in Python (Centre for Doctoral Training in Renewable Energy Northeast Universities), Autumn term </br>
