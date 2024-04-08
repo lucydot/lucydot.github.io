@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2023</b></br>
 
+<b> 4th April </b>
+
+Our paper [`A First-Principles Thermodynamic Model for the Ba–Zr–S System in Equilibrium with Sulfur Vapor`](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) is now available in Applied Energy Materials. Here we predict which temperatures and sulfur partial pressures are amenable to BaZrS$_3$ formation. And it is good news - we find that BaZrS$_3$ is stable against degradation even at high sulfur partial pressures (which are required for stability of the the BaS$_3$ liquid flux precursor).
+
 <b> 9th February </b>
 
 Today is the second installment of the [Rising Stars](https://mainstraem.github.io/) workshop at the Henry Royce Institute in Manchester. Henry Royce have been excellent in providing logistical and financial support so we can focus on the [workshop programme](https://www.royce.ac.uk/events/rising-stars-2024/) and reaching under-represented groups in materials science. 
