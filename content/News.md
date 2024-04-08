@@ -11,7 +11,7 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b> 4th April </b>
 
-Our paper [`A First-Principles Thermodynamic Model for the Ba–Zr–S System in Equilibrium with Sulfur Vapor`](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) is now available in Applied Energy Materials. Here we predict which temperatures and sulfur partial pressures are amenable to BaZrS$_3$ formation. And it is good news - we find that BaZrS$_3$ is stable against degradation even at high sulfur partial pressures (which are required for stability of the the BaS$_3$ liquid flux precursor).
+Our paper [`A First-Principles Thermodynamic Model for the Ba–Zr–S System in Equilibrium with Sulfur Vapor`](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) is now available in Applied Energy Materials. Here we predict which temperatures and sulfur partial pressures are amenable to perovskite formation. And it is good news - we find that BaZrS3 is stable against degradation even at high sulfur partial pressures (which are required for stability of the the BaS3 liquid flux precursor).
 
 <b> 9th February </b>
 
