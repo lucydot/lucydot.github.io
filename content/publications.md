@@ -9,12 +9,14 @@ categories = []
 
 Publication lists can also be accessed via [Google Scholar](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0002-2992-9871).
 
-<b>2023</b>
+<b>2024</b>
 
 A first-principles thermodynamic model for the Ba-Zr-S system in equilibrium with sulfur vapour</br>
-*In Review*</br>
+*ACS Applied Energy Materials*</br>
 Prakriti Kayastha, Giulia Longo, Lucy D. Whalley</br>
-[Pre-print](https://arxiv.org/abs/2401.06092)</br>
+[DOI:10.1021/acsaem.3c03208](https://doi.org/10.1021/acsaem.3c03208) | Open Access</br>
+
+<b>2023</b>
 
 Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion</br>
 *In Review*</br>
