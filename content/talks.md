@@ -10,16 +10,16 @@ date = "2017-05-05T13:47:56+01:00"
 We are very happy to share our work, please [contact us](mailto:l.whalley@northumbria.ac.uk) if you have speaking opportunities.
 
  <big>
-<b>Upcoming</b></big>
+<b>Upcoming</b></big></br>
 
-[seminar] <i> Title TBC </i></br>
-Warwick Centre for Predictive Modelling seminar series, University of Warwick, 3rd June 2024
 
-[seminar] <i> Title TBC </i></br>
+[seminar] <i> Defects and distortions in perovskite materials for solar energy</i></br>
+
+Condensed Matter Seminar, Chalmers University of Technology (Sweden), 28th May 2024
+
 School of Chemistry Seminar Series, University of Nottingham, 29th May 2024
 
-[seminar] <i> Title TBC </i></br>
-Condensed Matter Seminar, Chalmers University of Technology (Sweden), 28th May 2024
+Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 3rd June 2024
 
 <big>
 <b>Past Seminars and Conferences</b> </big>
