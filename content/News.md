@@ -9,9 +9,12 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2023</b></br>
 
+<b> 16th May </b>
+Some nice outreach/communication/dissemination-related news this month. Prakriti gave an invited talk at the [FHI-aims UK meeting](https://logsdail.github.io/fhiaims_meeting_2024/) in some great company. Also for the first time, I presented at [Pint of Science 2024](https://pintofscience.co.uk/event/solar-power-to-the-people) - I'm so chuffed when people choose to spend their evening listening to us chat about our research. We had some great questions also (are defects in the materials important? what role does AI play?). And a nice [Q&A article](https://www.nature.com/articles/s41467-024-48495-8) in Nature Communications following the Rising Stars event at Henry Royce Institute, `Celebrating and supporting early career researchers within underrepresented groups in materials science`.
+
 <b> 4th April </b>
 
-Our paper [`A First-Principles Thermodynamic Model for the Ba–Zr–S System in Equilibrium with Sulfur Vapor`](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) is now available in Applied Energy Materials. Here we predict which temperatures and sulfur partial pressures are amenable to perovskite formation. And it is good news - we find that BaZrS3 is stable against degradation even at high sulfur partial pressures (which is required for stability of the the BaS3 liquid flux precursor).
+[Our paper](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) `A First-Principles Thermodynamic Model for the Ba–Zr–S System in Equilibrium with Sulfur Vapor` is now available in Applied Energy Materials. Here we predict which temperatures and sulfur partial pressures are amenable to perovskite formation. And it is good news - we find that BaZrS3 is stable against degradation even at high sulfur partial pressures (which is required for stability of the the BaS3 liquid flux precursor).
 
 <b> 21st March </b>
 
