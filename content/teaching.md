@@ -22,7 +22,7 @@ Course materials [here](https://github.com/lucydot/python_novice).
 <b>Undergraduates</b>
 
 Computational Physics </br>
-Course materials [here](https://github.com/NU-CEM/CompPhys).
+Course materials [here](https://github.com/NU-CEM/Computational_Physics).
 
 ChooChoo the CHecklist tOOl </br>
 Teaching tool under development [here](https://github.com/lucydot/choochoo).
@@ -35,7 +35,7 @@ Quantum Mechanics (2nd year UG), Spring term </br>
 Contact me for resources
 
 Computational Physics (2nd year UG), Autumn term </br>
-[Website](https://github.com/NU-CEM/CompPhys) 
+[Website](https://github.com/NU-CEM/Computational_Physics) 
 
 Introduction to Programming in Python (1st year UG), Autumn term </br>
 [Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/2022_KD4014)
