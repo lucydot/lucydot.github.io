@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2024</b></br>
 
+<b> 4th June </b>
+
+[Visting](https://x.com/scanlond81/status/1797979835001975152) the David Scanlon crew in Birmingham today to talk about defects and dynamics, garnished with a little bit of machine learning.
+
 <b> 16th May </b>
 
 Some nice outreach/communication/dissemination-related news this month. Prakriti gave an invited talk at the [FHI-aims UK meeting](https://logsdail.github.io/fhiaims_meeting_2024/) in some great company. Also for the first time, I presented at [Pint of Science 2024](https://pintofscience.co.uk/event/solar-power-to-the-people) - I'm so chuffed when people choose to spend their evening listening to us chat about our research. We had some great questions also (are defects in the materials important? what role does AI play?). And a nice [Q&A article](https://www.nature.com/articles/s41467-024-48495-8) in Nature Communications following the Rising Stars event at Henry Royce Institute, "Celebrating and supporting early career researchers within underrepresented groups in materials science".
