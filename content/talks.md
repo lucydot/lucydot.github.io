@@ -12,19 +12,20 @@ We are very happy to share our work, please [contact us](mailto:l.whalley@northu
  <big>
 <b>Upcoming</b></big></br>
 
-
-[seminar] <i> Defects and distortions in perovskite materials for solar energy</i></br>
-
-Condensed Matter Seminar, Chalmers University of Technology (Sweden), 28th May 2024
-
-School of Chemistry Seminar Series, University of Nottingham, 29th May 2024
-
-Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 3rd June 2024
+[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i>
+</br>
+Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024
+Condensed Matter Seminar, Chalmers University of Technology (Sweden), 4th Nov 2024
 
 <big>
 <b>Past Seminars and Conferences</b> </big>
 
 <b>2024</b>
+
+[seminar] <i> Defects and distortions in perovskite materials for solar energy</i></br>
+Chemistry Seminar, University of Birmingham, 4th June 2024
+</br>
+[pdf slides](https://lucydot.github.io/slides/0406_bham_seminar.pdf) 
 
 [invited talk]<i> "I can't code" and other reproducibility blockers  </i></br>
 Technicians improving the research reproducibility, Northumbria University, 22nd Jan 2024
