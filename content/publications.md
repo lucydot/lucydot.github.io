@@ -11,17 +11,17 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 
 <b>2024</b>
 
+Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion</br>
+*In Review*</br>
+Blakesley, Hoye et al. </br>
+[Pre-print](https://arxiv.org/abs/2310.19430)</br>
+
 A first-principles thermodynamic model for the Ba-Zr-S system in equilibrium with sulfur vapour</br>
 *ACS Applied Energy Materials*</br>
 Prakriti Kayastha, Giulia Longo, Lucy D. Whalley</br>
 [DOI:10.1021/acsaem.3c03208](https://doi.org/10.1021/acsaem.3c03208) | Open Access</br>
 
 <b>2023</b>
-
-Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion</br>
-*In Review*</br>
-Blakesley, Hoye et al. </br>
-[Pre-print](https://arxiv.org/abs/2310.19430)</br>
 
 ChooChoo the Checklist Tool</br>
 *In Review*</br>
