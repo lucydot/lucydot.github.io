@@ -19,11 +19,11 @@ The content of this website, unless otherwise indicated, is licensed under a [Cr
 
 <img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to investigate why particular materials can efficiently generate energy from sunlight (solar cells), or repeatedly store and release energy (rechargeable batteries). I am an Assistant Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a researcher in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
 
+<img src="./images/coding_icon.png" width="30" height="30"> I am a fellow of the [Software Sustainability Institute](https://software.ac.uk/about) and an Associate Editor at the [Journal of Open Source Software](https://joss.theoj.org). I am interested in how we can improve research practice in the computational sciences, with a focus on working openly and software publishing.
+
 <img src="./images/teaching_icon.png" width="30" height="30"> I am a qualified teacher (PGCE), and I have taught in a variety of settings - universities, prisons, primary schools and cafes. I [currently teach](http://lucydot.github.io/teaching/) programming, computational physics and quantum mechanics to undergraduates and postgraduates.
 
-<img src="./images/coding_icon.png" width="30" height="30"> I am a fellow of the [Software Sustainability Institute](https://software.ac.uk/about) and an editor at the [Journal of Open Source Software](https://joss.theoj.org). I am interested in how we can improve research practice in the computational sciences - with a focus on [working openly and software publishing](https://lucydot.github.io/open/).
-
-<img src="./images/sharing_icon.png" width="30" height="30"> I co-organise the [Rising Stars programme](https://mainstraem.github.io/) to support under-represented groups in Materials Science.
+<img src="./images/sharing_icon.png" width="30" height="30"> I co-organise the [Rising Stars workshops](https://mainstraem.github.io/) to support under-represented groups in Materials Science.
 
 <img src="./images/baby_icon.png" width="30" height="30"> I am a mum to <strike>1,2,3</strike> 4 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
 
