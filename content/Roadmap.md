@@ -7,7 +7,7 @@ categories = []
 
 +++
 
-This is an ingredients list for research, inspired by the [personal mathematical roadmap of Julia Wolf](http://www.juliawolf.org/research/roadmap.shtml). It is an evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not exhaustive but highlights what we have found particularly useful. 
+This is an ingredients list for research, inspired by the [personal mathematical roadmap of Julia Wolf](http://www.juliawolf.org/research/roadmap.shtml). It is a (slowly) evolving collection of tools, papers, websites and online lectures related to computational energy materials research. It is not exhaustive but highlights what we have found particularly useful. 
 
 For online tools we use a pound sign to denote that there is an associated cost and a star to denote open source projects. If you use any of the tools please [cite accordingly](https://www.software.ac.uk/how-cite-software).
 
@@ -17,7 +17,7 @@ For online tools we use a pound sign to denote that there is an associated cost 
 General research toolkit</b></big>
 
 - Paper management and sharing: [Zotero](https://www.zotero.org/)<sup>* </sup> 
-- Communication: [Slack](http://slack.com)<sup>£</sup> or it's open source sister [Zulip](http://zulipchat.com)<sup>* </sup> (note that both feature built-in video conferencing).
+- Communication: [Slack](http://slack.com)<sup>£</sup> or it's open source sister [Zulip](http://zulipchat.com)<sup>* </sup>.
 - Academic websites: Build it using a static site generator such as [Hugo](http://gohugo.io)<sup>* </sup> or [Jekyll](http://jekyllrb.com)<sup>* </sup>, and host it using [Github](http://github.com).
 - Presentations: write it in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), convert it to html using [reveal-md](https://github.com/webpro/reveal-md)<sup>* </sup> and host it using [Github](http://github.com).
 - Notetaking: [simplenote](http://simplenote.com)<sup>* </sup>  which syncs with [nvALT](https://brettterpstra.com/projects/nvalt/)<sup>* </sup> on the Mac.
@@ -26,8 +26,8 @@ General research toolkit</b></big>
 <big><b>
 Computing (local)</b></big>
 
-- Operating System: I find that using a unix-based system is easiest for code development, and that there are less "why doesn't this work?" moments with a Mac. (Although I haven't used a linux OS for almost 10 years; [ubuntu](https://ubuntu.com/)<sup>* </sup> has most likely improved a lot in that time)
-- Hardware: For post-processing, writing code and other computationally lightweight tasks I use a MacBook Air with an external monitor, keyboard and [curiously shaped ergonomic mouse](https://www.rsi-shop.co.uk/products/penguin-ambidextrous-vertical-mouse-medium-wired-usb.asp). I have an iMac in the office which can also do some lightweight DFT.
+- Operating System: I find that using a unix-based system is easiest for code development, and that there are less "why doesn't this work?" moments with a Mac.
+- Hardware: For post-processing, writing code and other computationally lightweight tasks I use a MacBook Air and iMac.
 - Back-ups and syncing: For backing up my workstation I use an external drive with Time Machine, for syncing between my laptop and workstation I use a combination of [Dropbox](http://dropbox.com)<sup>£ </sup> and [Github](http://github.com).
 
 <big><b>
@@ -39,12 +39,11 @@ Computing (high performance)</b></big>
 <big><b>
 Electronic structure</b></big>
 
-- Density Functional Theory: [Vasp](http://www.vasp.at)<sup>£</sup> and [ASE](https://wiki.fysik.dtu.dk/ase/index.html)<sup>* </sup>
-- Analysis: [vasppy](https://github.com/bjmorgan/vasppy)<sup>* </sup>, [effmass](https://github.com/lucydot/effmass)<sup>* </sup>, [kgrid](https://github.com/WMD-group/kgrid)<sup>* </sup> and [PolaronMobility](https://github.com/jarvist/PolaronMobility.jl)<sup>* </sup>
+- Density Functional Theory: [FHI-aims](https://fhi-aims.org/), [Vasp](http://www.vasp.at)<sup>£</sup> and [ASE](https://wiki.fysik.dtu.dk/ase/index.html)<sup>* </sup>.
 - Plotting: [sumo](https://sumo.readthedocs.io/en/latest/?badge=latest)<sup>* </sup>
 - Visualisation: [Vesta](https://jp-minerals.org/vesta/en/)
 - Crystal structures database: [ICSD](https://icsdoffsite.psds.ac.uk/search/basic.xhtml;jsessionid=DBCA48F5394A5B0C1ED27257E58309F8)
-- Property databases: [Materials Project](https://materialsproject.org/) (powered by [pymatgen](https://pymatgen.org/)<sup>* </sup>) and [Semiconductors: Data Handbook](https://link.springer.com/book/10.1007/978-3-642-18865-7) by Otfried Madelung
+- Property databases: [Materials Project](https://materialsproject.org/) (powered by [pymatgen](https://pymatgen.org/)<sup>* </sup>) and [Semiconductors: Data Handbook](https://link.springer.com/book/10.1007/978-3-642-18865-7) by Otfried Madelung.
 
 <big><b>
 Defects</b></big>
@@ -75,8 +74,8 @@ Python</b></big>
 - Interactive notebook: [Jupyter](https://jupyter.org/)<sup>* </sup> and [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/#)<sup>* </sup> for interactive code development. The [binder](https://mybinder.org/)<sup>* </sup> web app so that others can easily interact with your notebooks.
 - Python scientific computing stack: [matplotlib](http://matplotlib.org)<sup>* </sup> (plotting), [pandas](http://pandas.pydata.org)<sup>* </sup> (data analysis), [numpy](http://numpy.org)<sup>* </sup> (arrays)
 - Testing: [pytest](http://docs.pytest.org)<sup>* </sup>
-- Continuous integration: [Travis CI](http://travis-ci)<sup>* </sup> (available as a Github app)
-- Documentation: Automatically generate and build online documentation using [Sphinx](http://sphinx-doc.org)<sup>* </sup> and [ReadTheDocs](http://readthedocs.org)<sup>* </sup>.
+- Continuous integration: Github Actions.
+- Documentation: [Mkdocs](https://www.mkdocs.org/).
 
 <big><b>
 Publications</b></big>
@@ -145,5 +144,4 @@ Teaching resources</b></big>
 Miscellaneous</b></big>
 
 - Bird of passage by Rudolf Peierls. This is one of my very favourite books. It is an autobiography from a German born physicist who travelled to the UK and kick-started the Manhattan project with the [Frisch-Peierls memorandum](https://en.wikipedia.org/wiki/Frisch%E2%80%93Peierls_memorandum). It provides lots of interesting context around the early developments in quantum mechanics and solid state physics.
-- Motherhood and academia blog [Mamaisanacademic](https://mamaisanacademic.wordpress.com/blog/)
-- [Keith Butler's Materials Hipster](https://keeeto.github.io/tag/materials_hipster/)
+
