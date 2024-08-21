@@ -14,8 +14,9 @@ We are very happy to share our work, please [contact us](mailto:l.whalley@northu
 
 [seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i>
 </br>
-Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024
-Condensed Matter Seminar, Chalmers University of Technology (Sweden), 4th Nov 2024
+Condensed Matter Seminar, Chalmers University of Technology (Sweden), 4th Nov 2024    
+Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024     
+Loughborough Chemistry Department Seminar Series, University of Loughborough, 4th Dec 2024  
 
 <big>
 <b>Past Seminars and Conferences</b> </big>
@@ -195,11 +196,14 @@ CAMD summer school, Copenhagan (Denmark), August 2016
 <big>
 <b>Past Public lectures and Outreach</b></big>
 
-[public talk] <i> Fighting Climate Change with Quantum Mechanics </i></br>
- Literary and Philosophical Society of Newcastle upon Tyne, 24th October 2023
- [pdf slides](https://lucydot.github.io/slides/2310_LitPhil.pdf) 
+<i> Fighting Climate Change with Quantum Mechanics </i></br>  
+Pint of Science Festival, Newcastle upon Tyne, May 2024  
 
-<i> My work as a materials scientist </i></br>
+<i> Fighting Climate Change with Quantum Mechanics </i></br>  
+Literary and Philosophical Society of Newcastle upon Tyne, 24th October 2023  
+[pdf slides](https://lucydot.github.io/slides/2310_LitPhil.pdf) 
+
+<i> Hello, I'm a Materials Scientist! </i></br>
 Girls in Physics series, Highgate School, London (UK), April 2019 </br>
 [pdf slides](https://lucydot.github.io/slides/GIPS_0519/GiPs.pdf)
 
