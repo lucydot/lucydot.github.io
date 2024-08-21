@@ -10,7 +10,11 @@ date = "2017-05-05T13:47:56+01:00"
 We are very happy to share our work, please [contact us](mailto:l.whalley@northumbria.ac.uk) if you have speaking opportunities.
 
  <big>
-<b>Upcoming</b></big></br>
+<b>Upcoming</b></big></br>  
+</br> 
+
+[contributed talk] <i> Phase stability of chalcogenide perovskite BaZrS3 </i> </br>
+European Materials Research Society Fall Meeting, Warsaw (Poland), 16th-19th September 2024
 
 [seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i>
 </br>
@@ -19,7 +23,8 @@ Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2
 Loughborough Chemistry Department Seminar Series, University of Loughborough, 4th Dec 2024  
 
 <big>
-<b>Past Seminars and Conferences</b> </big>
+<b>Past Seminars and Conferences</b> </big></br> 
+</br> 
 
 <b>2024</b>
 
