@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2024</b></br>
 
+<b> 17th August </b>
+
+We are recruiting two research fellows for the multidisciplinary project "Sonic Intangibles"  based around data sonification---converting data 📊 into sound 🎶. See the job adverts [here](https://work4.northumbria.ac.uk/#en/sites/CX_1001/job/2601) (for the more code-leaning position) and [here](https://jobs.ncl.ac.uk/job/Newcastle-Research-Associate-Sonic-Intangibles/1095690301/) (for the more arts-leaning position). 
+
 <b> 3rd July </b>
 
 Back in Daresbury for the [MCC 30th Anniversary Conference](https://www.ucl.ac.uk/klmc/MCC-2024/Welcome.htm). I learnt that the Littleton of the [Mott-Littleton method for defect calculations](https://doi.org/10.1039/TF9383400485) was a woman: Marjorie Littleton. There is [so little](https://mathshistory.st-andrews.ac.uk/Davis/Names/Littleton_Marjorie.html) information about her online, the most I can find is a short reference to her on [someone else's Wikipedia entry](https://en.wikipedia.org/wiki/Beryl_May_Dent). Neville Mott also mentions her work in his article [Defect physics and chemistry: some problems awaiting a solution](https://doi.org/10.1039/F29898500517): `Ronald Gurney and I were enormously impressed with the work of Robert Pohl at Gottingen on defects in alkali-metal halides, work which in my view laid the foundation of experimental solid-state physics. We tried to clothe it with elementary quantum mechanics, and also to see if we could show by calculation that Schottky defects had lower energy than Frenkel defects. I remember our departmental librarian and research assistant, Marjorie Littleton, doing the calculations with a Brunsviga machine.` 
