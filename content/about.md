@@ -43,5 +43,3 @@ Newcastle upon Tyne </br>
 NE1 8ST </br>
 
 Email: <img src="../images/email_uni.png" height="16" alt="l dot whalley at northumbria dot ac dot uk"> 
-
-My (probably out-of-date) CV can be downloaded as a pdf [here](./LW_resume.pdf).
