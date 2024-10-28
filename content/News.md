@@ -10,9 +10,11 @@ date = "2012-05-04T13:47:57+01:00"
 <b>2024</b></br>
 
 <b> 14th October </b>
+
 [Erik Fransson](https://materialsmodeling.org/people/erik-fransson/) from Chalmers University is visiting us for two weeks. He will deliver a seminar hosted by CDT-ReNU, and brings a wealth of experience in materials modelling and machine learning. 
 
 <b> 2nd September </b>
+
 We have published [The Roadmap on established and emerging photovoltaics for sustainable energy conversion](https://iopscience.iop.org/article/10.1088/2515-7655/ad7404) in JPhysEnergy. This has 86 authors, with Robert Hoye leading development of the Roadmap, and Alex Ganose leading the section I contributed to: *Computational materials discovery and design for photovoltaics*. We highlight the need for improved modelling techniques that can more accurately predict device performance - atomistic modelling must consider, for example, defects, ion transport, secondary phases, interfaces, and finite temperature. 
 
 <b> 17th August </b>
