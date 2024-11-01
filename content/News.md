@@ -13,6 +13,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 [Erik Fransson](https://materialsmodeling.org/people/erik-fransson/) from Chalmers University is visiting us for two weeks. He will deliver a seminar hosted by CDT-ReNU, and brings a wealth of experience in materials modelling and machine learning. 
 
+<b> 7th October </b>
+
+Very chuffed to receive an [APS Reviewer Excellence Award](https://promo.aps.org/reviewer-excellence) for "exceptional contributions that are instrumental to peer review at the Physical Review journals". Writing useful reviews takes time, and it is a largely secret activity, so it feels nice to get some official recognition!
+
 <b> 2nd September </b>
 
 We have published [The Roadmap on established and emerging photovoltaics for sustainable energy conversion](https://iopscience.iop.org/article/10.1088/2515-7655/ad7404) in JPhysEnergy. This has 86 authors, with Robert Hoye leading development of the Roadmap, and Alex Ganose leading the section I contributed to: *Computational materials discovery and design for photovoltaics*. We highlight the need for improved modelling techniques that can more accurately predict device performance - atomistic modelling must consider, for example, defects, ion transport, secondary phases, interfaces, and finite temperature. 
@@ -35,7 +39,7 @@ Some nice outreach/communication/dissemination-related news this month. Prakriti
 
 <b> 4th April </b>
 
-[Our paper](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) `A First-Principles Thermodynamic Model for the Ba–Zr–S System in Equilibrium with Sulfur Vapor` is now available in Applied Energy Materials. Here we predict which temperatures and sulfur partial pressures are amenable to perovskite formation. And it is good news - we find that BaZrS3 is stable against degradation even at high sulfur partial pressures (which is required for stability of the the BaS3 liquid flux precursor).
+[Our paper](https://pubs.acs.org/doi/10.1021/acsaem.3c03208) *A First-Principles Thermodynamic Model for the Ba–Zr–S System in Equilibrium with Sulfur Vapor* is now available in Applied Energy Materials. Here we predict which temperatures and sulfur partial pressures are amenable to perovskite formation. And it is good news - we find that BaZrS3 is stable against degradation even at high sulfur partial pressures (which is required for stability of the the BaS3 liquid flux precursor).
 
 <b> 21st March </b>
 
