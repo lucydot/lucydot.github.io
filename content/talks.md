@@ -28,7 +28,7 @@ Loughborough Chemistry Department Seminar Series, University of Loughborough, 4t
 [seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i>
 </br> 
 Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024</br>  
-[pdf slides](https://lucydot.github.io/slides/warwick_24.pdf)
+[pdf slides](https://lucydot.github.io/slides/loughborough_24.pdf)
 
 [invited talk] <i> Halide and chalcogenide perovskite materials: defects and dynamics</i>
 </br>
@@ -47,7 +47,7 @@ Chemistry Seminar, University of Birmingham, 4th June 2024
 <i> Fighting Climate Change with Quantum Mechanics </i></br>  
 Pint of Science Festival, Newcastle upon Tyne, May 2024  
 </br>
-[abstract](https://pintofscience.co.uk/event/solar-power-to-the-people)
+[abstract](https://pintofscience.co.uk/event/solar-power-to-the-people) | [pdf slides](https://lucydot.github.io/slides/pintofscience_24.pdf) 
 
 [invited talk]<i> "I can't code" and other reproducibility blockers  </i></br>
 Technicians improving the research reproducibility, Northumbria University, 22nd Jan 2024
