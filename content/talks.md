@@ -13,20 +13,31 @@ We are very happy to share our work, please [contact us](mailto:l.whalley@northu
 <b>Upcoming</b></big></br>  
 </br> 
 
-[contributed talk] <i> Phase stability of chalcogenide perovskite BaZrS3 </i> </br>
-European Materials Research Society Fall Meeting, Warsaw (Poland), 16th-19th September 2024
-
-[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i>
-</br>
-Condensed Matter Seminar, Chalmers University of Technology (Sweden), 4th Nov 2024    
-Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024     
-Loughborough Chemistry Department Seminar Series, University of Loughborough, 4th Dec 2024  
+Nothing planned! Perhaps see you in Seville to discuss [chalcogenide materials for photovoltaics](https://www.nanoge.org/MATSUSSpring25/symposia?t=6682635b3aab4d6a2ce8b763)?
 
 <big>
 <b>Past Seminars and Conferences</b> </big></br> 
 </br> 
 
 <b>2024</b>
+
+[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i></br>    
+Loughborough Chemistry Department Seminar Series, University of Loughborough, 4th Dec 2024</br>
+[pdf slides](https://lucydot.github.io/slides/loughborough_24.pdf)
+
+[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i>
+</br> 
+Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024</br>  
+[pdf slides](https://lucydot.github.io/slides/warwick_24.pdf)
+
+[invited talk] <i> Halide and chalcogenide perovskite materials: defects and dynamics</i>
+</br>
+Modeling and simulation of condensed matter symposium, Chalmers University of Technology (Sweden), 4th Nov 2024    
+[pdf slides](https://lucydot.github.io/slides/chalmers_24.pdf)
+
+[contributed talk] <i> Phase stability of chalcogenide perovskite BaZrS3</i></br>
+European Materials Research Society Fall Meeting, Warsaw (Poland), 16th September 2024
+[pdf slides](https://lucydot.github.io/slides/emrs_24.pdf)
 
 [seminar] <i> Defects and distortions in perovskite materials for solar energy</i></br>
 Chemistry Seminar, University of Birmingham, 4th June 2024
