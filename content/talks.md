@@ -16,7 +16,7 @@ We are very happy to share our work, please [contact us](mailto:l.whalley@northu
 Nothing planned! Perhaps see you in Seville to discuss [chalcogenide materials for photovoltaics](https://www.nanoge.org/MATSUSSpring25/symposia?t=6682635b3aab4d6a2ce8b763)?
 
 <big>
-<b>Past Seminars and Conferences</b> </big></br> 
+<b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
 </br> 
 
 <b>2024</b>
@@ -44,6 +44,11 @@ Chemistry Seminar, University of Birmingham, 4th June 2024
 </br>
 [pdf slides](https://lucydot.github.io/slides/0406_bham_seminar.pdf) 
 
+<i> Fighting Climate Change with Quantum Mechanics </i></br>  
+Pint of Science Festival, Newcastle upon Tyne, May 2024  
+</br>
+[abstract](https://pintofscience.co.uk/event/solar-power-to-the-people)
+
 [invited talk]<i> "I can't code" and other reproducibility blockers  </i></br>
 Technicians improving the research reproducibility, Northumbria University, 22nd Jan 2024
 </br>
@@ -51,8 +56,14 @@ Technicians improving the research reproducibility, Northumbria University, 22nd
 
 <b>2023</b>
 
+[outreach] <i> Fighting Climate Change with Quantum Mechanics </i></br>  
+Literary and Philosophical Society of Newcastle upon Tyne, 24th October 2023  
+</br>
+[pdf slides](https://lucydot.github.io/slides/2310_LitPhil.pdf) 
+
  [seminar] <i> Designing new materials using quantum chemistry and high-performance computing </i></br>
  Computational Chemistry seminar series, University of Edinburgh, 6th October 2023
+ </br>
  [pdf slides](https://lucydot.github.io/slides/2310_Edinburgh.pdf) 
 
 [summer school] <i> An Introduction to first-principles lattice dynamics </i></br>
@@ -152,9 +163,17 @@ Oba group seminar, Tokyo Institute of Technology, Tokyo (JPN), November 2019 </b
 [panel discussion] <i> Research Software best practices - why aren't we implementing them? </i></br>
 Fourth Conference of Research Software Engineers, University of Birmingham (UK), September 2019
 
+[outreach] <i> Hello, I'm a Materials Scientist! </i></br>
+Girls in Physics series, Highgate School, London (UK), April 2019 </br>
+[pdf slides](https://lucydot.github.io/slides/GIPS_0519/GiPs.pdf)
+
 [student talk] <i> Charge carrier mobility in hybrid halide perovskites </i></br>
 Department of Materials Student Research Day, Imperial College London (UK), March 2019 </br>
 [Online slides](https://lucydot.github.io/slides/PGRD_0319)
+
+[funding] <i> Software Sustainability Institute fellowship application</i></br>
+Online, February 2019 </br>
+[Online slides](https://lucydot.github.io/slides/SSI_0219) | [pdf slides](https://lucydot.github.io/slides/SSI_0219/SSI_0219.pdf) | [notes](https://github.com/lucydot/slides/raw/gh-pages/SSI_0219/SSI_0219_notes.md) | [video](https://github.com/lucydot/slides/raw/gh-pages/SSI_0219/Lucy_Whalley_SSI_Fellowship.mp4)
 
 [student talk] <i> Distortions and Defects in hybrid halide perovskites </i></br>
 Thomas Young Centre Student Day, University College London (UK), February 2019 </br>
@@ -192,6 +211,9 @@ International Conference on Perovskite Solar Cells and Optoelectronics, Oxford (
 [poster] <i>Hot hybrid perovskites: computational modelling of lattice vibrations in CH3NH3PbI3</i></br>
 International Conference of Women in Physics, Birmingham (UK), July 2017 
 
+[outreach] <i>Saving the world with Quantum Mechanics </i></br>
+Gunmaker's Arms, Birmingham (UK), July 2017
+
 [seminar] <i>Electrons and phonons in hybrid halide perovskites</i></br>
 As part of the seminar <i>Emerging materials for solar energy</i>, delivered with my supervisor Aron Walsh and PhD student Dan Davies.
 Yonsei University, Seoul (Korea), April 2017
@@ -207,42 +229,20 @@ Centre for Doctoral Training in New and Sustainable Photovoltaics showcase, Live
 [poster] <i>Effective mass and band gap deformation in photovoltaic materials</i></br>
 CAMD summer school, Copenhagan (Denmark), August 2016
 
---------
-
-<big>
-<b>Past Public lectures and Outreach</b></big>
-
-<i> Fighting Climate Change with Quantum Mechanics </i></br>  
-Pint of Science Festival, Newcastle upon Tyne, May 2024  
-
-<i> Fighting Climate Change with Quantum Mechanics </i></br>  
-Literary and Philosophical Society of Newcastle upon Tyne, 24th October 2023  
-[pdf slides](https://lucydot.github.io/slides/2310_LitPhil.pdf) 
-
-<i> Hello, I'm a Materials Scientist! </i></br>
-Girls in Physics series, Highgate School, London (UK), April 2019 </br>
-[pdf slides](https://lucydot.github.io/slides/GIPS_0519/GiPs.pdf)
-
-<i>Saving the world with Quantum Mechanics </i></br>
-Gunmaker's Arms, Birmingham (UK), July 2017
-
-<i>Renewable energy workshop</i></br>
+[outreach] <i>Renewable energy workshop</i></br>
 St Saviour's School, Bath (UK), March 2016</br>
 [Video](https://vimeo.com/152483085)
 
-<i> What the Quanta? </i></br>
+<b>2014</b>
+
+[outreach] <i> What the Quanta? </i></br>
 Ort Cafe, Birmingham (UK), July 2014
 
-<i> Mathematical problems, puzzles and proofs </i></br>
+[outreach] <i> Mathematical problems, puzzles and proofs </i></br>
 Ort Cafe, Birmingham (UK), April 2014
 
----------
 
-<big>
-<b>Other</b></big>
 
-<i> Software Sustainability Institute fellowship application</i></br>
-Online, February 2019 </br>
-[Online slides](https://lucydot.github.io/slides/SSI_0219) | [pdf slides](https://lucydot.github.io/slides/SSI_0219/SSI_0219.pdf) | [notes](https://github.com/lucydot/slides/raw/gh-pages/SSI_0219/SSI_0219_notes.md) | [video](https://github.com/lucydot/slides/raw/gh-pages/SSI_0219/Lucy_Whalley_SSI_Fellowship.mp4)
+
 
 
