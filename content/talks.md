@@ -43,7 +43,7 @@ Chemistry Seminar, University of Birmingham, 4th June 2024
 </br>
 [pdf slides](https://lucydot.github.io/slides/0406_bham_seminar.pdf) 
 
-<i> Fighting Climate Change with Quantum Mechanics </i></br>
+[public lecture] <i> Fighting Climate Change with Quantum Mechanics </i></br>
 Pint of Science Festival, Newcastle upon Tyne, May 2024
 </br>
 [abstract](https://pintofscience.co.uk/event/solar-power-to-the-people) | [pdf slides](https://lucydot.github.io/slides/pintofscience_24.pdf) 
