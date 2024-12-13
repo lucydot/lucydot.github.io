@@ -21,13 +21,12 @@ Nothing planned! Perhaps see you in Seville to discuss [chalcogenide materials f
 
 <b>2024</b>
 
-[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i></br>    
+[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i></br>
 Loughborough Chemistry Department Seminar Series, University of Loughborough, 4th Dec 2024</br>
 [pdf slides](https://lucydot.github.io/slides/loughborough_24.pdf)
 
-[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i>
-</br> 
-Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024</br>  
+[seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i></br> 
+Warwick Centre for Predictive Modelling Seminar series, University of Warwick, 2nd Dec 2024</br>
 [pdf slides](https://lucydot.github.io/slides/loughborough_24.pdf)
 
 [invited talk] <i> Halide and chalcogenide perovskite materials: defects and dynamics</i>
@@ -36,7 +35,7 @@ Modeling and simulation of condensed matter symposium, Chalmers University of Te
 [pdf slides](https://lucydot.github.io/slides/chalmers_24.pdf)
 
 [contributed talk] <i> Phase stability of chalcogenide perovskite BaZrS3</i></br>
-European Materials Research Society Fall Meeting, Warsaw (Poland), 16th September 2024
+European Materials Research Society Fall Meeting, Warsaw (Poland), 16th September 2024</br>
 [pdf slides](https://lucydot.github.io/slides/EMRS_24.pdf)
 
 [seminar] <i> Defects and distortions in perovskite materials for solar energy</i></br>
