@@ -11,9 +11,15 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 
 <b>2024</b>
 
-Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion</br>
-*In Press, JPhys Energy*</br>
-[Pre-print](https://arxiv.org/abs/2310.19430)</br>
+Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite</br>
+In Review, *J. Chem. Phys. Lett*.</br>
+Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
+[Pre-print](https://doi.org/10.48550/arXiv.2411.14289)</br>
+
+Roadmap on established and emerging photovoltaics for sustainable energy conversion</br>
+*JPhys Energy*</br>
+James C Blakesley *et al*.</br>
+[DOI:10.1088/2515-7655/ad7404](https://doi.org/10.1088/2515-7655/ad7404) | Open Access</br>
 
 A first-principles thermodynamic model for the Ba-Zr-S system in equilibrium with sulfur vapour</br>
 *ACS Applied Energy Materials*</br>
