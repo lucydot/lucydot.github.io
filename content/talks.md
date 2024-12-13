@@ -37,7 +37,7 @@ Modeling and simulation of condensed matter symposium, Chalmers University of Te
 
 [contributed talk] <i> Phase stability of chalcogenide perovskite BaZrS3</i></br>
 European Materials Research Society Fall Meeting, Warsaw (Poland), 16th September 2024
-[pdf slides](https://lucydot.github.io/slides/emrs_24.pdf)
+[pdf slides](https://lucydot.github.io/slides/EMRS_24.pdf)
 
 [seminar] <i> Defects and distortions in perovskite materials for solar energy</i></br>
 Chemistry Seminar, University of Birmingham, 4th June 2024
