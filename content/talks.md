@@ -11,10 +11,11 @@ We are very happy to share our work, please [contact us](mailto:l.whalley@northu
 
  <big>
 <b>Upcoming</b></big></br>  
-</br> 
-Nothing planned! Perhaps see you in Seville to discuss [chalcogenide materials for photovoltaics](https://www.nanoge.org/MATSUSSpring25/symposia?t=6682635b3aab4d6a2ce8b763)?
 
+Nothing planned! Perhaps see you in Seville to discuss 
+[chalcogenide materials for photovoltaics](https://www.nanoge.org/MATSUSSpring25/symposia?t=6682635b3aab4d6a2ce8b763)?
 
+</br>
 </br>
 <big>
 <b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
