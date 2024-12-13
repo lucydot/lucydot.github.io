@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2024</b></br>
 
+<b> 21st November </b>
+
+Our paper [Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite](https://arxiv.org/abs/2411.14289) is available as a pre-print. This has been enabled through a wonderful collaboration with the [Computational Materials Modelling group](https://materialsmodeling.org/) at Chalmers University in Sweden. It is our first foray into machine-learnt interatomic potentials and I am now very much a convert. Hats off to PhD student [Prakriti Kayastha](https://prakayastha.github.io/) for all the hard work building a model trained with hybrid DFT.
+
 <b> 14th October </b>
 
 [Erik Fransson](https://materialsmodeling.org/people/erik-fransson/) from Chalmers University is visiting us for two weeks. He will deliver a seminar hosted by CDT-ReNU, and brings a wealth of experience in materials modelling and machine learning. 
