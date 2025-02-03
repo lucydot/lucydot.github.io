@@ -11,7 +11,7 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b> 1st February </b>
 
-It is the official start date for our [Sonic Intangibles](https://sonicintangibles.github.io/) project. We are exploring how sonification (communicating data through sound) might be established as an interdiscipline, and will be engaging with a variety of research disciplines. I also want to understand how we can better listen to our [Singing Materials](https://github.com/NU-CEM/singing-materials).
+It is the official start date for our [Sonic Intangibles](https://sonicintangibles.github.io/) project. We are exploring how sonification (communicating data through sound) might be established as an interdiscipline, and will be engaging with a variety of research domains. I also want to understand how we can better listen to our [Singing Materials](https://github.com/NU-CEM/singing-materials).
 
 <b> 31st January </b>
 
