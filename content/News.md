@@ -9,6 +9,18 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2024</b></br>
 
+<b> 1st February </b>
+
+It is the official start date for our [Sonic Intangibles](https://sonicintangibles.github.io/) project. We are exploring how sonification (communicating data through sound) might be established as an interdiscipline, and will be engaging with a variety of research disciplines. I also want to understand how we can better listen to our [Singing Materials](https://github.com/NU-CEM/singing-materials).
+
+<b> 31st January </b>
+
+At the end of another wonderful edition of the [Rising Stars in Materials Science](https://www.royce.ac.uk/events/rising-stars-2025/) workshop at the Henry Royce Institute. So many people exchanging stories, ideas and contacts.
+
+<b> 2nd December </b>
+
+At the start of a very-mini seminar tour of the UK Midlands, to visit Warwick and Loughborough Universities. I will be presenting our latest research exploring [Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite](https://arxiv.org/abs/2411.14289).
+
 <b> 21st November </b>
 
 Our paper [Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite](https://arxiv.org/abs/2411.14289) is available as a pre-print. This has been enabled through a wonderful collaboration with the [Computational Materials Modelling group](https://materialsmodeling.org/) at Chalmers University in Sweden. It is our first foray into machine-learnt interatomic potentials and I am now very much a convert. Hats off to PhD student [Prakriti Kayastha](https://prakayastha.github.io/) for all the hard work building a model trained with hybrid DFT.
