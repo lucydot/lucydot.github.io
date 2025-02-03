@@ -7,7 +7,7 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
-<b>2024</b></br>
+<b>2025</b></br>
 
 <b> 1st February </b>
 
@@ -16,6 +16,8 @@ It is the official start date for our [Sonic Intangibles](https://sonicintangibl
 <b> 31st January </b>
 
 At the end of another wonderful edition of the [Rising Stars in Materials Science](https://www.royce.ac.uk/events/rising-stars-2025/) workshop at the Henry Royce Institute. So many people exchanging stories, ideas and contacts.
+
+<b>2024</b></br>
 
 <b> 2nd December </b>
 
