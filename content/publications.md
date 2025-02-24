@@ -9,12 +9,24 @@ categories = []
 
 Publication lists can also be accessed via [Google Scholar](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0002-2992-9871).
 
+<b>2025</b>
+
+Thermodynamic Insights into the Ba-S system for the Formation of BaZrS3 Perovskites and other Ba-sulfides</br>
+In Review, *J. Mater. Chem. A*.</br>
+Corrado Comparotto, Lucy D. Whalley, Kostiantyn Sopiha, Robert J.W. Frost, Tomas Kubart, and Jonathan J. S. Scragg</br>
+
+Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite</br> 
+*J. Chem. Phys. Lett*.</br>
+Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
+[DOI:10.48550/arXiv.2411.14289](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03517) | Open Access</br>
+
 <b>2024</b>
 
-Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite</br>
-In Review, *J. Chem. Phys. Lett*.</br>
-Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
-[Pre-print](https://doi.org/10.48550/arXiv.2411.14289)</br>
+Celebrating and supporting early career researchers within underrepresented groups in materials science
+</br>
+*Nature Communications*</br>
+Alex Ramadan, Lucy Whalley, Maddison Coke, Yi Liu</br>
+[DOI:10.1038/s41467-024-48495-8](https://www.nature.com/articles/s41467-024-48495-8) | Open Access </br>
 
 Roadmap on established and emerging photovoltaics for sustainable energy conversion</br>
 *JPhys Energy*</br>
