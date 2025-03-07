@@ -12,11 +12,11 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 <b>2025</b>
 
 Thermodynamic Insights into the Ba-S system for the Formation of BaZrS3 Perovskites and other Ba-sulfides</br>
-In Review, *J. Mater. Chem. A*.</br>
+*Journal of Materials Chemistry A*</br>
 Corrado Comparotto, Lucy D. Whalley, Kostiantyn Sopiha, Robert J.W. Frost, Tomas Kubart, and Jonathan J. S. Scragg</br>
 
 Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite</br> 
-*J. Chem. Phys. Lett*.</br>
+*Journal of Physical Chemistry Letters*</br>
 Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
 [DOI:10.48550/arXiv.2411.14289](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03517) | Open Access</br>
 
@@ -34,7 +34,7 @@ James C Blakesley *et al*.</br>
 [DOI:10.1088/2515-7655/ad7404](https://doi.org/10.1088/2515-7655/ad7404) | Open Access</br>
 
 A first-principles thermodynamic model for the Ba-Zr-S system in equilibrium with sulfur vapour</br>
-*ACS Applied Energy Materials*</br>
+*Applied Energy Materials*</br>
 Prakriti Kayastha, Giulia Longo, Lucy D. Whalley</br>
 [DOI:10.1021/acsaem.3c03208](https://doi.org/10.1021/acsaem.3c03208) | Open Access</br>
 
