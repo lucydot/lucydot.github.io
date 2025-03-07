@@ -46,7 +46,7 @@ Lucy D. Whalley</br>
 [Submission](https://github.com/lucydot/ChooChoo/blob/main/paper/ChooChoo-submission.pdf)</br>
 
 Steric engineering of point defects in lead halide perovskites</br>
-*Journal of Chemical Physics C*</br>
+*Journal of Physical Chemistry C*</br>
 Lucy D. Whalley</br>
 [DOI:10.1021/acs.jpcc.3c03516](https://doi.org/10.1021/acs.jpcc.3c03516) | Open Access </br> 
 
