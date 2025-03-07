@@ -12,7 +12,7 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 <b>2025</b>
 
 Thermodynamic Insights into the Ba-S system for the Formation of BaZrS3 Perovskites and other Ba-sulfides</br>
-*Journal of Materials Chemistry A*</br>
+Accepted, *Journal of Materials Chemistry A*</br>
 Corrado Comparotto, Lucy D. Whalley, Kostiantyn Sopiha, Robert J.W. Frost, Tomas Kubart, and Jonathan J. S. Scragg</br>
 
 Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite</br> 
