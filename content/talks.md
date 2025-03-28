@@ -7,13 +7,25 @@ date = "2017-05-05T13:47:56+01:00"
 
 +++
 
-We are very happy to share our work, please [contact us](mailto:l.whalley@northumbria.ac.uk) if you have speaking opportunities.
+I'm very happy to share our work, please [contact us](mailto:l.whalley@northumbria.ac.uk) if you have speaking opportunities.
 
  <big>
 <b>Upcoming</b></big></br>  
 
-Nothing planned! Perhaps see you in Seville to discuss 
-[chalcogenide materials for photovoltaics](https://www.nanoge.org/MATSUSSpring25/symposia?t=6682635b3aab4d6a2ce8b763)?
+<br>
+
+[seminar] <i> Chalcogenide perovskites - a new class of functional materials?</i></br>
+Condensed Matter Physics, Durham University, 7th May 2025</br>
+
+[public lecture] <i> Sounds of Science </i></br>
+Pint of Science Festival, The Common Rooms, Newcastle upon Tyne, 21st May 2025</br>
+sign-up opening soon.
+
+[workshop] <i> Sonic Intangibles Introductory Workshop: Can we bring your data to life through sound? </i></br>
+Culture Lab, Newcastle University, 21st May 2025
+</br>
+[video](https://youtu.be/8ZgxYcxAhJo ) | [sign-up](https://forms.office.com/e/30hhpBUtpn) 
+
 
 </br>
 </br>
