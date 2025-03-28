@@ -9,6 +9,12 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 3rd March </b>
+
+[Giulia Longo](https://orcid.org/0000-0002-1163-1110) and I are organising a symposium to discuss [chalcogenide materials for photovoltaics](https://www.nanoge.org/MATSUSSpring25/symposia?t=6682635b3aab4d6a2ce8b763) in beautiful, rainy Seville. 
+One of the scientific highlights is learning about kesterite materials for application in space photovoltaics. 
+One of the culinary highlights is having salad served with a small scoop of fig ice-cream.
+
 <b> 1st February </b>
 
 It is the official start date for our [Sonic Intangibles](https://sonicintangibles.github.io/) project. We are exploring how sonification (communicating data through sound) might be established as an interdiscipline, and will be engaging with a variety of research domains. I also want to understand how we can better listen to our [Singing Materials](https://github.com/NU-CEM/singing-materials).
