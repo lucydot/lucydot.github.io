@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 10th March </b>
+
+Our new paper [Thermodynamic insights into the Ba–S system for the formation of BaZrS3 perovskites and other Ba sulfides](https://doi.org/10.1039/D5TA00798D) has been published in Journal of Materials Chemistry A. It is a collaboration and project led by [Corrado Comparotto](https://www.uu.se/en/contact-and-organisation/staff?query=N18-2182) and [Jonathan Scragg](https://www.uu.se/en/contact-and-organisation/staff?query=N10-969) at Uppsala University. We combine experiment and theory to produce a pressure-temperature phase diagram for the Ba–S system, defining the domains of stability of binary Ba sulfides.
+
 <b> 3rd March </b>
 
 [Giulia Longo](https://orcid.org/0000-0002-1163-1110) and I are organising a symposium to discuss [chalcogenide materials for photovoltaics](https://www.nanoge.org/MATSUSSpring25/symposia?t=6682635b3aab4d6a2ce8b763) in beautiful, rainy Seville. 
