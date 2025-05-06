@@ -75,8 +75,7 @@ Technicians improving the research reproducibility, Northumbria University, 22nd
 <b>2023</b>
 
 [outreach] <i> Fighting Climate Change with Quantum Mechanics </i></br>  
-Literary and Philosophical Society of Newcastle upon Tyne, 24th October 2023  
-</br>
+Literary and Philosophical Society of Newcastle upon Tyne, 24th October 2023  </br>
 [pdf slides](https://lucydot.github.io/slides/2310_LitPhil.pdf) 
 
  [seminar] <i> Designing new materials using quantum chemistry and high-performance computing </i></br>
