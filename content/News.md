@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 7th May </b>
+
+In Durham today to deliver a seminar titled "Chalcogenide perovskites - a new class of functional materials?". I'll be discussing our work joint with the Chalmers group, exploring BaZrS3 and friends (BaZr(S,Se)3 and the Ruddlesden-Popper phases). One of the nice things about the North East of England is that we have three research intensive universities very close together - Newcastle University is a 5 minute walk away, Durham is 20 minutes on the train. So we have a healthy research environment, even though we are in a relatively remote corner of England.
+
 <b> 10th March </b>
 
 Our new paper [Thermodynamic insights into the Ba–S system for the formation of BaZrS3 perovskites and other Ba sulfides](https://doi.org/10.1039/D5TA00798D) has been published in Journal of Materials Chemistry A. It is a collaboration and project led by [Corrado Comparotto](https://www.uu.se/en/contact-and-organisation/staff?query=N18-2182) and [Jonathan Scragg](https://www.uu.se/en/contact-and-organisation/staff?query=N10-969) at Uppsala University. We combine experiment and theory to produce a pressure-temperature phase diagram for the Ba–S system, defining the domains of stability of binary Ba sulfides.
