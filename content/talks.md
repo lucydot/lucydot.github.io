@@ -14,17 +14,22 @@ I'm very happy to share our work, please [contact us](mailto:l.whalley@northumbr
 
 <br>
 
+
+
 [seminar] <i> Chalcogenide perovskites - a new class of functional materials?</i></br>
 Condensed Matter Physics, Durham University, 7th May 2025</br>
 
-[public lecture] <i> Sounds of Science </i></br>
+[public lecture] <i> The Sounds of Science </i></br>
 Pint of Science Festival, The Common Rooms, Newcastle upon Tyne, 21st May 2025</br>
-sign-up opening soon.
+You can see more details and buy a ticket [here](https://pintofscience.co.uk/event/the-sounds-of-science)
 
 [workshop] <i> Sonic Intangibles Introductory Workshop: Can we bring your data to life through sound? </i></br>
 Culture Lab, Newcastle University, 21st May 2025
 </br>
 [video](https://youtu.be/8ZgxYcxAhJo ) | [sign-up](https://forms.office.com/e/30hhpBUtpn) 
+
+[invited talk] <i> Title TBC (hint: it will be something to do with perovskite) </i></br> 
+Psi-k conference 2025, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 25th-28th August</br>
 
 
 </br>
