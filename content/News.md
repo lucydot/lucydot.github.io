@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 15th May </b>
+
+Next week we (the [Sonic Intangibles](https://sonicintangibles.github.io/people/) team and [Pint of Science](https://pintofscience.co.uk/)) are hosting a (sold-out!) evening dedicated to Sonification.  The evening is titled “The Sounds of Science” and will be held at [The Common Room](https://thecommonroom.org.uk/about-the-common-room/) in Newcastle. Aimed at a public audience, we will will take a sonic journey through science with talks and performances that represent a broad range of fleeting physical and biological phenomena through sound — from distant galaxies, to brain signals and Earth cycles. For more information please see [the event page](https://pintofscience.co.uk/event/the-sounds-of-science). My contribution will be a short demonstration of sonified phonon data...I'll post the presentation after the event.
+
 <b> 7th May </b>
 
 In Durham today to deliver a seminar titled "Chalcogenide perovskites - a new class of functional materials?". I'll be discussing our work joint with the Chalmers group, exploring BaZrS3 and friends (BaZr(S,Se)3 and the Ruddlesden-Popper phases). One of the nice things about the North East of England is that we have three research intensive universities very close together - Newcastle University is a 5 minute walk away, Durham is 20 minutes on the train. So we have a healthy research environment, even though we are in a relatively remote corner of England.
