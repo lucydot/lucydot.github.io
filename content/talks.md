@@ -33,7 +33,7 @@ Global conference for women leaders and emerging researchers in materials scienc
 <b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
 </br> 
 
-<b>2024</b>
+<b>2025</b>
 
 [seminar] <i> Chalcogenide perovskites - a new class of functional materials?</i></br>
 Condensed Matter Physics, Durham University, 7th May 2025</br>
@@ -42,6 +42,8 @@ Condensed Matter Physics, Durham University, 7th May 2025</br>
 [public lecture] <i> The Sounds of Science </i></br>
 Pint of Science Festival, The Common Rooms, Newcastle upon Tyne, 21st May 2025</br>
 [pdf slides](2505_PoS)
+
+<b>2024</b>
 
 [seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i></br>
 Loughborough Chemistry Department Seminar Series, University of Loughborough, 4th Dec 2024</br>
