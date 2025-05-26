@@ -15,22 +15,17 @@ I'm very happy to share our work, please [contact us](mailto:l.whalley@northumbr
 <br>
 
 
-
-[seminar] <i> Chalcogenide perovskites - a new class of functional materials?</i></br>
-Condensed Matter Physics, Durham University, 7th May 2025</br>
-
-[public lecture] <i> The Sounds of Science </i></br>
-Pint of Science Festival, The Common Rooms, Newcastle upon Tyne, 21st May 2025</br>
-You can see more details and buy a ticket [here](https://pintofscience.co.uk/event/the-sounds-of-science)
-
 [workshop] <i> Sonic Intangibles Introductory Workshop: Can we bring your data to life through sound? </i></br>
-Culture Lab, Newcastle University, 21st May 2025
+Culture Lab, Newcastle University, Date TBD (delayed due to strike action)
 </br>
 [video](https://youtu.be/8ZgxYcxAhJo ) | [sign-up](https://forms.office.com/e/30hhpBUtpn) 
 
-[invited talk] <i> Title TBC (hint: it will be something to do with perovskite) </i></br> 
+[invited talk] <i> Polymorphism in Ruddlesden-Popper phases of
+the Ba–Zr–S system </i></br> 
 Psi-k conference 2025, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 25th-28th August</br>
 
+[contributed talk] <i> Chalcogenide perovskites: a new class of functional materials? </i></br>
+Global conference for women leaders and emerging researchers in materials science, Nanyang Technological University, Singapore, 29th Sept - 1st Oct</br>
 
 </br>
 </br>
@@ -39,6 +34,14 @@ Psi-k conference 2025, École Polytechnique Fédérale de Lausanne (EPFL), Switz
 </br> 
 
 <b>2024</b>
+
+[seminar] <i> Chalcogenide perovskites - a new class of functional materials?</i></br>
+Condensed Matter Physics, Durham University, 7th May 2025</br>
+[pdf slides](2505_Durham)
+
+[public lecture] <i> The Sounds of Science </i></br>
+Pint of Science Festival, The Common Rooms, Newcastle upon Tyne, 21st May 2025</br>
+[pdf slides](2505_PoS)
 
 [seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i></br>
 Loughborough Chemistry Department Seminar Series, University of Loughborough, 4th Dec 2024</br>
