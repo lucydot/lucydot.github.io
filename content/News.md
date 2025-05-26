@@ -9,9 +9,13 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 23rd May </b>
+
+I'm at the end of a particularly busy week, with Erik visiting from Chalmers, followed by our Sonic Intangibles / Pint of Science collab evening, and then launch of the SCALE-UP project in London. SCALE-UP is one of the new Digital Research Technical Professional (dRTP) Skills Networks funded by UKRI. The network is led by Imperial, with the co-lead team spread throughout the UK; I'm representing the North East. The project is centred around building a more sustainable dRTP people pipeline through a £1M flexible fund. We are currently in start-up mode, more details coming soon...
+
 <b> 15th May </b>
 
-Next week we (the [Sonic Intangibles](https://sonicintangibles.github.io/people/) team and [Pint of Science](https://pintofscience.co.uk/)) are hosting a (sold-out!) evening dedicated to Sonification.  The evening is titled “The Sounds of Science” and will be held at [The Common Room](https://thecommonroom.org.uk/about-the-common-room/) in Newcastle. Aimed at a public audience, we will will take a sonic journey through science with talks and performances that represent a broad range of fleeting physical and biological phenomena through sound — from distant galaxies, to brain signals and Earth cycles. For more information please see [the event page](https://pintofscience.co.uk/event/the-sounds-of-science). My contribution will be a short demonstration of sonified phonon data...I'll post the presentation after the event.
+Next week we (the [Sonic Intangibles](https://sonicintangibles.github.io/people/) team and [Pint of Science](https://pintofscience.co.uk/)) are hosting a (sold-out!) evening dedicated to Sonification.  The evening is titled “The Sounds of Science” and will be held at [The Common Room](https://thecommonroom.org.uk/about-the-common-room/) in Newcastle. Aimed at a public audience, we will will take a sonic journey through science with talks and performances that represent a broad range of fleeting physical and biological phenomena through sound — from distant galaxies, to brain signals and Earth cycles. For more information please see [the event page](https://pintofscience.co.uk/event/the-sounds-of-science). My contribution will be a short demonstration of sonified phonon data.
 
 <b> 7th May </b>
 
