@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 10th June </b>
+
+Gearing up to host researchers across the North East for [Re:Search and Industry](https://lu.ma/hb04n9dm) tomorrow. [Nav Dean](https://www.mpls.ox.ac.uk/about/the-divisional-office/our-team/nav-dean) and I are organising this event after speaking about how we might encourage more research funding to wing its way into this corner of the country. We have a great line-up: Royal Society, Royal Academy of Engineering, ICURe, and two North East impact accelerators ([NESCA](https://www.northumbria.ac.uk/about-us/news-events/news/nesca/) and [NNZA](https://nnza.ac.uk/)). And 110 people are registered from regional institutions: Northumbria, Newcastle, Durham, Teesside and Hull. It's shaping up to be a nice event.
+
 <b> 23rd May </b>
 
 I'm at the end of a particularly busy week, with Erik visiting from Chalmers, followed by our Sonic Intangibles / Pint of Science collab evening, and then launch of the SCALE-UP project in London. SCALE-UP is one of the new Digital Research Technical Professional (dRTP) Skills Networks funded by UKRI. The network is led by Imperial, with the co-lead team spread throughout the UK; I'm representing the North East. The project is centred around building a more sustainable dRTP people pipeline through a £1M flexible fund. We are currently in start-up mode, more details coming soon...
