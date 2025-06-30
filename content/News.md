@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 30th June </b>
+
+I'm in Coimbra for the joint conference of [Audio Mostly and the International Community for Auditory Display (ICAD)](https://icad2025.icad.org/). There are a fair few of us from the [Sonic Intangibles](https://sonicintangibles.github.io/) team, including Shelly who led a workshop showing how to stitch together Sonification and Live Coding using [Sonic Pi](https://sonic-pi.net/). It's a relatively accessible way into making sonifications (for those already familiar with coding), and I'm keen to apply this approach to some quantum chemical data soon.
+
 <b> 10th June </b>
 
 Gearing up to host researchers across the North East for [Re:Search and Industry](https://lu.ma/hb04n9dm) tomorrow. [Nav Dean](https://www.mpls.ox.ac.uk/about/the-divisional-office/our-team/nav-dean) and I are organising this event after speaking about how we might encourage more research funding to wing its way into this corner of the country. We have a great line-up: Royal Society, Royal Academy of Engineering, ICURe, and two North East impact accelerators ([NESCA](https://www.northumbria.ac.uk/about-us/news-events/news/nesca/) and [NNZA](https://nnza.ac.uk/)). And 110 people are registered from regional institutions: Northumbria, Newcastle, Durham, Teesside and Hull. It's shaping up to be a nice event.
