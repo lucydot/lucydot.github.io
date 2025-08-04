@@ -7,7 +7,7 @@ categories = []
 
 +++
 
-Our research interests are centred around materials used for renewable energy generation (e.g. solar cells) and storage (e.g. reusable batteries).
+My research interests are centred around materials used for renewable energy generation (e.g. solar cells) and storage (e.g. reusable batteries).
 We use a branch of physics called Density Functional Theory (DFT) to predict the properties of these materials and link the macroscopic observables (such as open circuit voltage or thermodynamic stability) with microscopic processes (such as electron capture or electron-phonon coupling). 
 
 DFT is an *ab-initio* (first-principles) method derived from quantum mechanics and can be used to predict material properties without experimental input (see, for example, [this open access article](https://doi.org/10.1098/rsta.2013.0270)). Our atomic scale models can be used to rationalise existing experimental observations, or guide future investigations. For example, it can [explain why heat travels slowly through some materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.220301) or [predict new materials for high-performance solar cells](https://pubs.rsc.org/en/content/articlehtml/2016/tc/c5tc04091d).
