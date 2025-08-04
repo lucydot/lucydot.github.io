@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 1st August </b>
+
+Very pleased to announce that I've been promoted to Associate Professor :) 
+
 <b> 30th June </b>
 
 I'm in Coimbra for the joint conference of [Audio Mostly and the International Community for Auditory Display (ICAD)](https://icad2025.icad.org/). There are a fair few of us from the [Sonic Intangibles](https://sonicintangibles.github.io/) team, including Shelly who led a workshop showing how to stitch together Sonification and Live Coding using [Sonic Pi](https://sonic-pi.net/). It's a relatively accessible way into making sonifications (for those already familiar with coding), and I'm keen to apply this approach to some quantum chemical data soon.
