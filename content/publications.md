@@ -11,6 +11,11 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 
 <b>2025</b>
 
+Diverse polymorphism in Ruddlesden-Popper chalcogenides</br>
+*Under Review*</br>
+Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
+[DOI:10.48550/arXiv.2507.11300](https://doi.org/10.48550/arXiv.2507.11300)
+
 Thermodynamic Insights into the Ba-S system for the Formation of BaZrS3 Perovskites and other Ba-sulfides</br>
 *Journal of Materials Chemistry A*</br>
 Corrado Comparotto, Lucy D. Whalley, Kostiantyn Sopiha, Robert J.W. Frost, Tomas Kubart, and Jonathan J. S. Scragg</br>
@@ -19,7 +24,7 @@ Corrado Comparotto, Lucy D. Whalley, Kostiantyn Sopiha, Robert J.W. Frost, Tomas
 Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite</br> 
 *Journal of Physical Chemistry Letters*</br>
 Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
-[DOI:10.48550/arXiv.2411.14289](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03517) | Open Access</br>
+[DOI:10.1021/acs.jpclett.4c03517](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03517) | Open Access</br>
 
 <b>2024</b>
 
