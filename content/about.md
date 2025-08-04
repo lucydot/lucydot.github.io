@@ -9,7 +9,7 @@ date = "2012-05-04T13:47:56+01:00"
 
 <big> <b> Personal Summary - Lucy Whalley </b> </big>
 
-<img src="./images/lattice_icon.png" width="30" height="30"> [Our research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage). Most of our research relates to photovoltaic materials. 
+<img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage). Most of our research relates to photovoltaic materials. 
 
 <img src="./images/lattice_icon.png" width="30" height="30"> I am an Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a researcher in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
 
