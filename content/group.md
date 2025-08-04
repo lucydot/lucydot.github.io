@@ -12,18 +12,18 @@ We are based at Northumbria University in the beautiful North East of England, a
 <big>
 <b>Team Atoms</b> </big>
 
-[Lucy Whalley](https://lucydot.github.io/about) - Assistant Professor - *HackThePlanet* </br>
+[Lucy Whalley](https://lucydot.github.io/about) - Associate Professor - *HackThePlanet* </br>
 
-[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *Atomistic modelling of disorder and defects in energy materials* 
-
-[Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
-
-[Ify Nwabuokei](https://github.com/ifylala) - Student intern - *Singing Materials: Sonification of first-principles phonon data* </br>
+[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *(An)harmonic vibrations in chalcogenide perovskites* 
 
 <img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
 <big>
 <b>Previous team members</b> </big>
+
+[Dr Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
+
+[Ify Nwabuokei](https://github.com/ifylala) - Student intern - *Singing Materials: Sonification of first-principles phonon data* </br>
 
 [William Taylor](https://github.com/musicmrman99) - Student intern (Northumbria University)  - *Oswald HPC documentation* </br>
 
@@ -44,7 +44,7 @@ We are always interested in hearing from potential new members and collaborators
 
 Any PhD/job opportunities will be listed here, and, for the right candidate, there is also the possibility to apply for external funding (e.g. the [Marie Curie IF](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)).
 
-For smaller undergraduate, postgraduate and summer placement projects please see a project list that we maintain [here](https://lucydot.github.io/projects_list/).
+For smaller undergraduate, postgraduate and summer placement projects please see a project list that I maintain [here](https://lucydot.github.io/projects_list/).
 
 
 
