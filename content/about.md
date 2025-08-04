@@ -11,7 +11,7 @@ date = "2012-05-04T13:47:56+01:00"
 
 <img src="./images/lattice_icon.png" width="30" height="30"> [Our research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage). Most of our research relates to photovoltaic materials. 
 
-<img src="./images/lattice_icon.png" width="30" height="30"> I am an Assistant Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a researcher in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
+<img src="./images/lattice_icon.png" width="30" height="30"> I am an Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a researcher in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
 
 <img src="./images/coding_icon.png" width="30" height="30"> I am a fellow of the [Software Sustainability Institute](https://software.ac.uk/about), an Associate Editor at the [Journal of Open Source Software](https://joss.theoj.org) and co-lead at the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/). I am interested in how we can improve research practice in the computational sciences, with a focus on working openly and software publishing.
 
