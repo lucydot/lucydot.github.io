@@ -9,6 +9,14 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 1st October </br>
+
+A wonderful visit to Singapore to speak about our latest research at the Global Conference for Women Leaders and Emerging Researchers in Materials Science ([GLOW](https://www.ntu.edu.sg/mse/news-events/events/glow2025)). The materials science on offer here is broad---biomimicry, generative AI, smart materials and microfactories---but everything is made to feel accessible as the quality of the talks is high and each is well-pitched. 
+
+<b> 11th September </b>
+
+Today we (the Sonnic Intangibles team) are hosting a workshop: "Can we bring your data to life through sound?". We have researchers and artists joining us from across the UK and, as an interdisciplinary project, we're often working outside our comfort zone. In my case, this "outside my comfort zone" is ethnography work observing the workshop participants and how they/we interact.
+
 <b> 1st August </b>
 
 Very pleased to announce that I've been promoted to Associate Professor :) 
