@@ -13,19 +13,9 @@ I'm very happy to share our work, please [contact us](mailto:l.whalley@northumbr
 <b>Upcoming</b></big></br>  
 
 <br>
-
-
-[workshop] <i> Sonic Intangibles Introductory Workshop: Can we bring your data to life through sound? </i></br>
-Culture Lab, Newcastle University, Date TBD (delayed due to strike action)
+[workshop] <i> Rising Stars in Materials Science </i></br>
+Henry Royce Institute, January 30th 2026, more details coming soon
 </br>
-[video](https://youtu.be/8ZgxYcxAhJo ) | [sign-up](https://forms.office.com/e/30hhpBUtpn) 
-
-[invited talk] <i> Polymorphism in Ruddlesden-Popper phases of
-the Ba–Zr–S system </i></br> 
-Psi-k conference 2025, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 25th-28th August</br>
-
-[contributed talk] <i> Chalcogenide perovskites: a new class of functional materials? </i></br>
-Global conference for women leaders and emerging researchers in materials science, Nanyang Technological University, Singapore, 29th Sept - 1st Oct</br>
 
 </br>
 </br>
@@ -34,6 +24,17 @@ Global conference for women leaders and emerging researchers in materials scienc
 </br> 
 
 <b>2025</b>
+
+[travel award] <i> Chalcogenide perovskites: a new class of functional materials? </i></br>
+Global conference for women leaders and emerging researchers in materials science, Nanyang Technological University, Singapore, 1st Oct</br>
+
+[workshop] <i> Sonic Intangibles Introductory Workshop: Can we bring your data to life through sound? </i></br>
+Culture Lab, Newcastle University, 11th September
+</br>
+[video promo](https://youtu.be/8ZgxYcxAhJo ) 
+
+[invited talk] <i> Polymorphism in Ruddlesden-Popper phases of the Ba–Zr–S system </i></br> 
+Psi-k conference 2025, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 25th August</br>
 
 [seminar] <i> Chalcogenide perovskites - a new class of functional materials?</i></br>
 Condensed Matter Physics, Durham University, 7th May 2025</br>
