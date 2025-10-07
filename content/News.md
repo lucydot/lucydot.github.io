@@ -15,7 +15,7 @@ A wonderful visit to Singapore to speak about our latest research at the Global 
 
 <b> 11th September </b>
 
-Today we (the Sonnic Intangibles team) are hosting a workshop: "Can we bring your data to life through sound?". We have researchers and artists joining us from across the UK and, as an interdisciplinary project, we're often working outside our comfort zone. In my case, this "outside my comfort zone" is ethnography work observing the workshop participants and how they/we interact.
+Today we (the Sonic Intangibles team) are hosting a workshop: "Can we bring your data to life through sound?". We have researchers and artists joining us from across the UK and, as an interdisciplinary project, we're often working outside our comfort zone. In my case, this "outside my comfort zone" is ethnography work observing the workshop participants and how they/we interact.
 
 <b> 1st August </b>
 
