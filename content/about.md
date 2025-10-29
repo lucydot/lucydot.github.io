@@ -9,17 +9,17 @@ date = "2012-05-04T13:47:56+01:00"
 
 <big> <b> Personal Summary - Lucy Whalley </b> </big>
 
-<img src="./images/lattice_icon.png" width="30" height="30"> [My research](http://lucydot.github.io/research/) uses solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage). Most of our research relates to photovoltaic materials. 
+<img src="./images/lattice_icon.png" width="30" height="30"> I am an Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/).
 
-<img src="./images/lattice_icon.png" width="30" height="30"> I am an Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/), and was previously a researcher in the [Materials Design Group](https://wmd-group.github.io/) at Imperial College London.
+<img src="./images/lattice_icon.png" width="30" height="30"> I use solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage). See [here](http://lucydot.github.io/research/) for more details.
 
-<img src="./images/coding_icon.png" width="30" height="30"> I am a fellow of the [Software Sustainability Institute](https://software.ac.uk/about), an Associate Editor at the [Journal of Open Source Software](https://joss.theoj.org) and co-lead at the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/). I am interested in how we can improve research practice in the computational sciences, with a focus on working openly and software publishing.
+<img src="./images/coding_icon.png" width="30" height="30"> I am a fellow of the [Software Sustainability Institute](https://software.ac.uk/about), an Associate Editor at the [Journal of Open Source Software](https://joss.theoj.org), Theme Lead in the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/) and a co-lead in [Sonic Intangibles](https://sonicintangibles.github.io/). I am interested in how we can improve research practice in the computational sciences, with a particular interest in how we can work in an open and interdisciplinary way, and how we can best share and publish research software.
 
 <img src="./images/teaching_icon.png" width="30" height="30"> I [currently teach](http://lucydot.github.io/teaching/) programming, computational physics and quantum mechanics to undergraduates and postgraduates. I am a qualified teacher (PGCE) and have taught in a variety of settings - universities, prisons, primary schools and cafes. 
 
 <img src="./images/sharing_icon.png" width="30" height="30"> I co-organise the [Rising Stars workshops](https://www.royce.ac.uk/events/rising-stars-2025/) to support under-represented groups in Materials Science.
 
-<img src="./images/baby_icon.png" width="30" height="30"> And most importantly, I am a mum to <strike>1,2,3,4</strike> 5 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
+<img src="./images/baby_icon.png" width="30" height="30"> And I am a mum to <strike>1,2,3,4</strike> 5 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
 
 ---------------
 <big> <b> Website Credits and License</b> </big>
