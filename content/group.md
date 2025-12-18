@@ -16,6 +16,8 @@ We are based at Northumbria University in the beautiful North East of England, a
 
 A funded PhD is available - for more information please see the the advert [here](https://www.findaphd.com/phds/project/atomic-scale-simulation-of-next-generation-thermoelectric-materials-renu-26-se-epm-whalley/?p192725). It is a computational project exploring a group of materials called perovskites, and it is co-supervised by Emma McCabe at Durham [Lucy = computers, Emma = perovskites]. I strongly encourage potential applicants to contact me ahead of any submission - for UK-based applicants there is the opportunity to visit the group (with expenses paid) to find out more.
 
+<img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
+
 <big>
 <b>Previous team members</b> </big>
 
