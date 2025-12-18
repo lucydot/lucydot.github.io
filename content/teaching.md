@@ -29,10 +29,33 @@ Teaching tool under development [here](https://github.com/lucydot/choochoo).
 
 <big> <b>Teaching Log </b></big> </br>
 
+<b>2025/2026</b>
+
+Invidividual Physics Project (Disseratation, 3rd year UG), Autumn term </br>
+
+Computational Physics (2nd year UG), Autumn term </br>
+[Website](https://github.com/NU-CEM/Computational_Physics) 
+
+Introduction to Programming in Python (1st year UG), Autumn term </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/2022_KD4014)
 <b>2023/24</b>
 
+<b>2024/2025</b>
+
 Quantum Mechanics (2nd year UG), Spring term </br>
-Contact me for resources
+
+Invidividual Physics Project (Disseratation, 3rd year UG), Spring and Autumn term </br>
+
+Computational Physics (2nd year UG), Autumn term </br>
+[Website](https://github.com/NU-CEM/Computational_Physics) 
+
+Introduction to Programming in Python (1st year UG), Autumn term </br>
+[Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/2022_KD4014)
+<b>2023/24</b>
+
+<b>2023/2024</b>
+
+Quantum Mechanics (2nd year UG), Spring term </br>
 
 Computational Physics (2nd year UG), Autumn term </br>
 [Website](https://github.com/NU-CEM/Computational_Physics) 
