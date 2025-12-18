@@ -9,7 +9,15 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
-<b> 1st October </br>
+<b> 12th December </b>
+
+Work with us! A funded PhD is available - for more information please see the the advert [here](https://www.findaphd.com/phds/project/atomic-scale-simulation-of-next-generation-thermoelectric-materials-renu-26-se-epm-whalley/?p192725). It is a computational project exploring a group of materials called perovskites, and it is co-supervised by [Emma McCabe](https://www.durham.ac.uk/staff/emma-mccabe/) at Durham [Lucy = computers, Emma = perovskites]. I strongly encourage potential applicants to contact me ahead of any submission - for UK-based applicants there is the opportunity to visit the group (with expenses paid) to find out more.
+
+<b> 3rd Nov </b>
+
+Putting the finishing touches to the re-submission of our latest paper "[Diverse polymorphism in Ruddlesden-Popper chalcogenides](https://arxiv.org/pdf/2507.11300)". Prakriti Kayastha, who is moving onto Keith Butler's group at UCL, after four wonderful PhD years here at Northumbria, is the lead author. Stellar work Prakriti - what a way to round off your PhD!
+
+<b> 1st October </b>
 
 A wonderful visit to Singapore to speak about our latest research at the Global Conference for Women Leaders and Emerging Researchers in Materials Science ([GLOW](https://www.ntu.edu.sg/mse/news-events/events/glow2025)). The materials science on offer here is broad---biomimicry, generative AI, smart materials and microfactories---but everything is made to feel accessible as the quality of the talks is high and each is well-pitched. 
 
