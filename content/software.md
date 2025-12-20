@@ -1,17 +1,17 @@
 +++
 date = "2017-05-07T13:47:56+01:00"
 tags = []
-title = "Software"
+title = "'puters"
 type = "post"
 categories = []
 
 +++
 
-As computational scientists a significant part of our time is spent writing code, or supporting others to write code. Some of this code is written to submit and manage calculations which run on various supercomputers (primarily [Archer, the UK national supercomputer](http://www.archer.ac.uk/)), and some is used to analyse and extract meaning from the output of these calculations (numbers --> physics). 
-We are largely self-taught programmers and usually have little in the way of formal training. However there are some effective strategies for learning: 1) teaching basic programming skills ([Software Carpentry](https://carpentries.org/)) to other researchers; 2) publishing with or reviewing for the [Journal of Open Source Software](https://joss.theoj.org/), a peer-reviewed journal for research code.
+As computational scientists a significant part of our time is spent writing code, compiling code, nursing our calculations, or supporting others to do the same. Some of our code is written to submit and manage calculations which run on various supercomputers (primarily [Archer2, the UK national supercomputer](http://www.archer.ac.uk/)), and some is used to analyse and extract meaning from the output of these calculations (numbers --> physics). 
 
-The code we write relies heavily upon open source tools, some of which are listed on a [personal roadmap](https://lucydot.github.io/blog/roadmap/).
-Through a fellowship with the [Software Sustainability Institute](https://www.software.ac.uk) we have [developed resources](https://lucydot.github.io/teaching/) so that other researchers have the skills in place to publish their code.
+Most scientists are largely self-taught programmers and usually have little in the way of formal training. However there are some effective strategies for learning, such as teaching basic programming skills ([Software Carpentry](https://carpentries.org/)), or following the [Journal of Open Source Software](https://joss.theoj.org/) guidance to develop code that can be re-used and cited by other researchers.
+
+For researchers who would like to shift their focus more firmly towards software, hardware, compute infrastructure or data, there are emerging career paths with a variety of names: Research Software Engineer, Research Data Engineer, Research Infrastructure Engineer, or (more broadly) Digital Research Technical Professional. We have established the UKRI-funded [SCALE-UP Network](https://scale-up.ac.uk/) to support development of this people pipeline.
 
 -----
 
