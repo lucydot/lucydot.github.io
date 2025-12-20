@@ -31,11 +31,10 @@ Now a physicist at Cavendish Nuclear.
 
 [William Taylor](https://github.com/musicmrman99) - Student intern - *Oswald HPC documentation* </br>
 
-[Jake Procter] - Final year project student - *Tailoring the electronic properties of ZrS$_2$ through strain-engineering* </br>
+[Jake Procter](https://www.linkedin.com/in/jake-procter-8346992b0/) - Final year project student - *Tailoring the electronic properties of ZrS$_2$ through strain-engineering* </br>
 
-[Thomas Gardner] - Final year project student - *Assessing the importance of training set diversity in machine-learnt interatomic potentials* </br>
+[Thomas Gardner](https://www.linkedin.com/in/thomas-southwick-gardner/) - Final year project student - *Assessing the importance of training set diversity in machine-learnt interatomic potentials* </br>
 
-Susannah Lea - Final year project student (Imperial College London) - *Effective mass of cuprous oxide* [co-supervisor] </br>
 
 <img src="../images/ore.jpg" style="float: middle; height: 10em; "> </br>
 
@@ -46,7 +45,7 @@ We are always interested in hearing from potential new members and collaborators
 
 Any PhD/job opportunities will be listed here, and, for the right candidate, there is also the possibility to apply for external funding (e.g. the [Marie Curie IF](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)).
 
-For smaller undergraduate, postgraduate and summer placement projects please see a project list that I maintain [here](https://lucydot.github.io/projects_list/).
+For smaller undergraduate, postgraduate and summer placement projects please see a project list [here](https://lucydot.github.io/projects_list/).
 
 
 
