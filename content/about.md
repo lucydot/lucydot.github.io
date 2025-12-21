@@ -9,11 +9,11 @@ date = "2012-05-04T13:47:56+01:00"
 
 <big> <b> Personal Summary - Lucy Whalley </b> </big>
 
-<img src="./images/lattice_icon.png" width="30" height="30"> I am an Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/). In my [research](https://lucydot.github.io/research/) use solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage).
-
-<img src="./images/coding_icon.png" width="30" height="30"> I am a 2019 fellow of the [Software Sustainability Institute](https://software.ac.uk/about), and an Associate Editor at the [Journal of Open Source Software](https://joss.theoj.org). I am interested in how we can improve research practice in the [computational sciences](https://lucydot.github.io/software/), with a particular interest in how we can work in an open and interdisciplinary way, and how we can best share and publish research software.
+<img src="./images/lattice_icon.png" width="30" height="30"> I am an Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/). My [research](https://lucydot.github.io/research/) combines solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage).
 
 <img src="./images/coding_icon.png" width="30" height="30"> My currently funded projects as co-lead are: the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/) (EPSRC, EP/X035859/1), the [SCALE-UP network](https://scale-up.ac.uk/) (UKRI), and [Sonic Intangibles](https://sonicintangibles.github.io/) (UKRI, MR/Z506448/1).
+
+<img src="./images/coding_icon.png" width="30" height="30"> I am a 2019 fellow of the [Software Sustainability Institute](https://software.ac.uk/about) and an Associate Editor at the [Journal of Open Source Software](https://joss.theoj.org). I am interested in how we can improve research practice in the [computational sciences](https://lucydot.github.io/software/), with a particular interest in how we can work in an open and interdisciplinary way, and how we can best share and publish research software.
 
 <img src="./images/teaching_icon.png" width="30" height="30"> I [teach](http://lucydot.github.io/teaching/) programming, computational physics and quantum mechanics to undergraduates and postgraduates. I am a qualified teacher (PGCE) and have taught in a variety of settings - universities, prisons, primary schools and cafes. 
 
