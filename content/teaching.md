@@ -7,10 +7,6 @@ type = "post"
 
 +++
 
-Teaching materials and tools are below, and we strongly welcome *any* feedback - thoughts, comments, questions. If you use any of these materials we'd love to [hear from you](https://lucydot.github.io/about/).
-
-<big> <b>Teaching Resources </b></big> </br>
-
 <b>Researchers</b>
 
 Open Science with the Atomic Simulation Environment </br>
