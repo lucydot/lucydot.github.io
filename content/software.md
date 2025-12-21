@@ -7,7 +7,7 @@ categories = []
 
 +++
 
-As computational scientists a significant part of our time is spent writing code, compiling code, monitoring our calculations, or supporting others to do the same. Some of our code is written to submit and manage calculations which run on various supercomputers (primarily [Archer2, the UK national supercomputer](http://www.archer.ac.uk/)), and some is used to analyse and extract meaning from the output of these calculations (numbers --> physics). 
+As computational scientists a significant part of our time is spent writing code, compiling code, monitoring our calculations, or supporting others to do the same. Some of our code is written to submit and manage calculations which run on various supercomputers (primarily [Archer2, the UK national supercomputer](http://www.archer.ac.uk/)), and some is ran locally to analyse and extract meaning from the output of these calculations (numbers --> physics). 
 
 Most scientists are largely self-taught programmers and usually have little in the way of formal training. However there are some effective strategies for learning, such as teaching basic programming skills ([Software Carpentry](https://carpentries.org/)), or following the [Journal of Open Source Software](https://joss.theoj.org/) guidance to develop code that can be re-used and cited by other researchers.
 
