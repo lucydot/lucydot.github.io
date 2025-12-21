@@ -7,8 +7,6 @@ date = "2017-05-05T13:47:56+01:00"
 
 +++
 
-I'm very happy to share our work, please [contact us](mailto:l.whalley@northumbria.ac.uk) if you have speaking opportunities.
-
  <big>
 <b>Upcoming</b></big></br>  
 
