@@ -12,7 +12,7 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 <b>2025</b>
 
 Diverse polymorphism in Ruddlesden-Popper chalcogenides</br>
-*Under Review*</br>
+*In Press, Physical Review Letters*</br>
 Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
 [DOI:10.48550/arXiv.2507.11300](https://doi.org/10.48550/arXiv.2507.11300)
 
