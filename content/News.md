@@ -9,6 +9,14 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2025</b></br>
 
+<b> 23rd February </b> 
+
+Our paper "[Diverse polymorphism in Ruddlesden-Popper chalcogenides](https://journals.aps.org/prl/abstract/10.1103/f4kv-pk93)" has just been published in Physical Review Letters - congratulations Prakriti!
+
+<b> 30th January </b>
+
+A new year, a new edition of [Rising Stars in Materials Science](https://www.royce.ac.uk/events/rising-stars-2026/) at the Henry Royce Institute. Every year I leave with a new found spring in my step - perhaps I'm getting carried away, but it feels like a bit of a scientific utopia...
+
 <b> 12th December </b>
 
 Work with us! A funded PhD is available - for more information please see the the advert [here](https://www.findaphd.com/phds/project/atomic-scale-simulation-of-next-generation-thermoelectric-materials-renu-26-se-epm-whalley/?p192725). It is a computational project exploring a group of materials called perovskites, and it is co-supervised by [Emma McCabe](https://www.durham.ac.uk/staff/emma-mccabe/) at Durham [Lucy = computers, Emma = perovskites]. I strongly encourage potential applicants to contact me ahead of any submission - for UK-based applicants there is the opportunity to visit the group (with expenses paid) to find out more.
