@@ -17,14 +17,12 @@ International Computer Music Conference, Hamburg, 10th-16th May 2026
 </br>
 
 </br>
-</br>
 <big>
 <b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
 </br> 
 
 <b>2026</b>
 
-<br>
 [workshop] <i> Rising Stars in Materials Science </i></br>
 Henry Royce Institute, 30th January, [link](https://www.royce.ac.uk/events/rising-stars-2026/)
 </br>
