@@ -11,8 +11,9 @@ date = "2017-05-05T13:47:56+01:00"
 <b>Upcoming</b></big></br>  
 
 <br>
-[workshop] <i> Rising Stars in Materials Science </i></br>
-Henry Royce Institute, January 30th 2026, more details coming soon
+[workshop] <i> Sonification and the Space In-Between: Bridging Scientific Inquiry and Musical
+Practice </i></br>
+International Computer Music Conference, Hamburg, 10th-16th May 2026
 </br>
 
 </br>
@@ -20,6 +21,13 @@ Henry Royce Institute, January 30th 2026, more details coming soon
 <big>
 <b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
 </br> 
+
+<b>2026</b>
+
+<br>
+[workshop] <i> Rising Stars in Materials Science </i></br>
+Henry Royce Institute, 30th January, [link](https://www.royce.ac.uk/events/rising-stars-2026/)
+</br>
 
 <b>2025</b>
 
@@ -41,6 +49,11 @@ Condensed Matter Physics, Durham University, 7th May 2025</br>
 [public lecture] <i> The Sounds of Science </i></br>
 Pint of Science Festival, The Common Rooms, Newcastle upon Tyne, 21st May 2025</br>
 [pdf slides](2505_PoS)
+
+<br>
+[workshop] <i> Rising Stars in Materials Science </i></br>
+Henry Royce Institute, January 30th 2026, [link]()
+</br>
 
 <b>2024</b>
 
