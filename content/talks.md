@@ -24,8 +24,9 @@ International Computer Music Conference, Hamburg, 10th-16th May 2026
 <b>2026</b>
 
 [workshop] <i> Rising Stars in Materials Science </i></br>
-Henry Royce Institute, 30th January, [link](https://www.royce.ac.uk/events/rising-stars-2026/)
+Henry Royce Institute, 30th January
 </br>
+[link](https://www.royce.ac.uk/events/rising-stars-2026/)
 
 <b>2025</b>
 
