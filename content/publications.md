@@ -12,9 +12,9 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 <b>2025</b>
 
 Diverse polymorphism in Ruddlesden-Popper chalcogenides</br>
-*In Press, Physical Review Letters*</br>
+*Physical Review Letters*</br>
 Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
-[DOI:10.48550/arXiv.2507.11300](https://doi.org/10.48550/arXiv.2507.11300)
+[DOI:10.1103/f4kv-pk93](https://journals.aps.org/prl/abstract/10.1103/f4kv-pk93)| [pre-print](https://doi.org/10.48550/arXiv.2507.11300)
 
 Thermodynamic Insights into the Ba-S system for the Formation of BaZrS3 Perovskites and other Ba-sulfides</br>
 *Journal of Materials Chemistry A*</br>
