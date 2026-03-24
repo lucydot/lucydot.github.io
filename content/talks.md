@@ -50,11 +50,6 @@ Condensed Matter Physics, Durham University, 7th May 2025</br>
 Pint of Science Festival, The Common Rooms, Newcastle upon Tyne, 21st May 2025</br>
 [pdf slides](2505_PoS)
 
-<br>
-[workshop] <i> Rising Stars in Materials Science </i></br>
-Henry Royce Institute, January 30th 2026, [link]()
-</br>
-
 <b>2024</b>
 
 [seminar] <i> Predicting the phase stability of BaZrS3 using a range of approaches: from harmonic lattice dynamics to the neuroevolution-potential framework</i></br>
