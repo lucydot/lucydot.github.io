@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2026</b></br>
 
+<b> 23rd March </b> 
+
+I am on sabbatical this term and am using the additional research time to prepare grants and accelerate our sonification work for the Sonic Intangibles project: we have lots of exciting sonification-related activities planned over the next couple of months, including presentations and workshops at the International Conference for Auditory Display, the International Computer Music Conference and the Discovery Festival.
+
 <b> 23rd February </b> 
 
 Our paper "[Diverse polymorphism in Ruddlesden-Popper chalcogenides](https://journals.aps.org/prl/abstract/10.1103/f4kv-pk93)" has just been published in Physical Review Letters - congratulations Prakriti!
