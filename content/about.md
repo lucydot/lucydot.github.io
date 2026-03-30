@@ -19,7 +19,7 @@ date = "2012-05-04T13:47:56+01:00"
 
 <img src="./images/sharing_icon.png" width="30" height="30"> I co-organise the [Rising Stars workshops](https://www.royce.ac.uk/events/rising-stars-2026/) to support under-represented groups in Materials Science.
 
-<img src="./images/baby_icon.png" width="30" height="30"> And I am a mum to <strike>1,2,3,4</strike> 5 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
+<img src="./images/baby_icon.png" width="30" height="30"> And I am a mum to <strike>1,2,3,4,5</strike> 6 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
 
 ---------------
 <big> <b> Website Credits and License</b> </big>
