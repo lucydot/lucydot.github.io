@@ -7,7 +7,7 @@ date = "2012-05-04T13:47:57+01:00"
 
 +++
 
-<b>2025</b></br>
+<b>2026</b></br>
 
 <b> 23rd February </b> 
 
@@ -16,6 +16,8 @@ Our paper "[Diverse polymorphism in Ruddlesden-Popper chalcogenides](https://jou
 <b> 30th January </b>
 
 A new year, a new edition of [Rising Stars in Materials Science](https://www.royce.ac.uk/events/rising-stars-2026/) at the Henry Royce Institute. Every year I leave with a new found spring in my step - perhaps I'm getting carried away, but it feels like a bit of a scientific utopia...
+
+<b>2025</b></br>
 
 <b> 12th December </b>
 
