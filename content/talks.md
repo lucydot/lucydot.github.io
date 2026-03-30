@@ -16,6 +16,11 @@ Practice </i></br>
 International Computer Music Conference, Hamburg, 10th-16th May 2026
 </br>
 
+[organiser] <i> Faraday Discussion: Emerging Materials for Optoelectronic Applications  </i></br>
+Edinburgh, 1st-3rd July 2026
+</br>
+[link](https://www.rsc.org/events/detail/80738/emerging-materials-for-optoelectronics-applications-faraday-discussion)
+
 </br>
 <big>
 <b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
@@ -23,7 +28,7 @@ International Computer Music Conference, Hamburg, 10th-16th May 2026
 
 <b>2026</b>
 
-[workshop] <i> Rising Stars in Materials Science </i></br>
+[organiser] <i> Rising Stars in Materials Science </i></br>
 Henry Royce Institute, 30th January
 </br>
 [link](https://www.royce.ac.uk/events/rising-stars-2026/)
