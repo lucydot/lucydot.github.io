@@ -9,9 +9,13 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2026</b></br>
 
-<b> 23rd March </b> 
+<b> 30th March </b> 
 
 I am on sabbatical this term and am using the additional research time to prepare grants and accelerate our sonification work for the Sonic Intangibles project: we have lots of exciting sonification-related activities planned over the next couple of months, including presentations and workshops at the International Conference for Auditory Display, the International Computer Music Conference and the Discovery Festival.
+
+<b> 23rd March </b> 
+
+Today was my first time chairing the Archer2 User Advisory Group meeting. We are in the final year of service, so most users are now thinking about Archer3 (which will certainly not be called Archer3). We ran one minute over, not too bad.
 
 <b> 23rd February </b> 
 
