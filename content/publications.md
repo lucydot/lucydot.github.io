@@ -11,7 +11,7 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 
 <b>2026</b>
 
-Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3 
+Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3 </br>
 *In Review*</br>
 Erik Fransson, Michael Xu, Prakriti Kayastha, Kevin Ye, Ida Sadeghi, Rafael Jaramillo, James M. LeBeau, Lucy Whalley, Paul Erhart</br>
 [pre-print](https://arxiv.org/abs/2604.13768)
