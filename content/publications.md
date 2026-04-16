@@ -9,6 +9,18 @@ categories = []
 
 Publication lists can also be accessed via [Google Scholar](https://scholar.google.co.uk/citations?user=NPOWlz0AAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0002-2992-9871).
 
+<b>2026</b>
+
+Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3 
+*In Review*</br>
+Erik Fransson, Michael Xu, Prakriti Kayastha, Kevin Ye, Ida Sadeghi, Rafael Jaramillo, James M. LeBeau, Lucy Whalley, Paul Erhart</br>
+[pre-print](https://arxiv.org/abs/2604.13768)
+
+Singing Materials: Initial experiments in applying sonification to phonon spectra</br>
+*In Review*</br>
+Lucy Whalley, Rose Shepherd, Jorge Boehringer, Shelly Knotts, Paul Vickers, George Caselton, Christopher Harrison, Bennett Hogg, Daniel Ratliff, Carol Davenport, Antonio Portas</br>
+[pre-print](https://arxiv.org/abs/2603.29037)
+
 <b>2025</b>
 
 Diverse polymorphism in Ruddlesden-Popper chalcogenides</br>
