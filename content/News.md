@@ -9,9 +9,17 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2026</b></br>
 
+<b> 30th April </b>
+
+I've just arrived home from a very sunny trip to Gothenburg (Sweden) and Belfast (Ireland). Gothenburg to visit the [Computational Materials](https://materialsmodeling.org/) and [Wiktor](https://www.chalmers.se/en/departments/physics-and-astronomy/research/condensed-matter-and-materials-theory/wiktor-group/) groups at Chalmers university and think about how we might use [NEP models](https://pubs.aip.org/aip/cpr/article/6/1/011310/3340020/Advances-in-modeling-complex-materials-The-rise-of) to re-visit [H-centres](https://pubs.acs.org/doi/10.1021/acsenergylett.7b00995). Belfast for the Software Sustainability Institute [collaborations workshop](https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26) to think about how we maintain crucial software infrastructure in a challenging econonmic environment, and the risks and opportunities associated with generative AI. 
+
+<b> 15th April </b>
+
+Our new pre-print is out: [*Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3*](https://arxiv.org/abs/2604.13768). We combine molecular dynamics and Monte Carlo simulations based on machine learned interatomic potentials with scanning transmission electron microscopy to investigate mixing thermodynamics and phase stability. Excitingly, and unexpectedly, we find an unusual ordered structure that persists at room temperature, where S and Se atoms form alternating layers within the crystal.
+
 <b> 30th March </b> 
 
-I am on sabbatical this term and am using the additional research time to prepare grants and accelerate our sonification work for the Sonic Intangibles project: we have lots of exciting sonification-related activities planned over the next couple of months, including presentations and workshops at the International Conference for Auditory Display, the International Computer Music Conference and the Discovery Festival.
+I am on sabbatical this term and am using the additional research time to prepare grants and accelerate our sonification work for the Sonic Intangibles project: we have lots of exciting sonification-related activities planned over the next couple of months, including presentations and workshops at the International Conference for Auditory Display, the [International Computer Music Conference](https://icmc2026.ligeti-zentrum.de/) and the [Discover Festival](https://www.ncl.ac.uk/discover-fest/whats-on/event-items/hearing-is-believing/).
 
 <b> 23rd March </b> 
 
