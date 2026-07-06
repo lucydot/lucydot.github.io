@@ -9,6 +9,22 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2026</b></br>
 
+<b> 1st July </b> 
+
+I'm at the [Faraday Discussion on emerging materials for optoelectronic applications](https://www.rsc.org/events/find-an-event/emerging-materials-for-optoelectronics-applications-faraday-discussion), as part of the organising team. The first day of discussions on theory and computation have been very interesting - we have seen octahedral tilts, non-radiative transitions in organic materials, and hybrid chalcogenide perovskites (which is where my two favourite materials, BaZrS3 and MAPbI3, have a baby).
+
+<b> 22nd June </b>
+
+We ([Sonic Intangibles](https://sonicintangibles.github.io/)) are hosting Walker Smith from Stanford University for a seminar on sonification in the context of chemistry and science communication. Walker always delivers a fun and engaging talk - I love his sense of humour: if you want a laugh see [this contribution](https://zenodo.org/records/20741966) to the New Interfaces for Musical Expression (NIME) conference.
+
+<b> 1st June </b>
+
+It's the start of a full week at the Northumbria Leadership Retreat. My main motivation is to meet and talk with people working in professional services and academic roles across the university. Teams et al can make some aspects of work easier, but meeting each other is how we understand each other, and understanding each other is how we work together (corny, I know).
+
+<b> 11th May </b>
+
+We are at the International Computer Music Conference in Hamburg to deliver a workshop on interdisciplinary working methods. This is a special conference for me as it is dedicated to Clarence Barlow, who is one of my favourite composers and who did some [very cool stuff](https://sonification.net/SoundData/Clarence-post.html) with data and music. The main difference between conferences in music and science is that the former have performances as a central part of the conferences. So each day, alongside talks, there are a range of lunchtime and evening concerts, and a club night.
+
 <b> 30th April </b>
 
 I've just arrived home from a very sunny trip to Gothenburg (Sweden) and Belfast (Ireland). Gothenburg to visit the [Computational Materials](https://materialsmodeling.org/) and [Wiktor](https://www.chalmers.se/en/departments/physics-and-astronomy/research/condensed-matter-and-materials-theory/wiktor-group/) groups at Chalmers university and think about how we might use [NEP models](https://pubs.aip.org/aip/cpr/article/6/1/011310/3340020/Advances-in-modeling-complex-materials-The-rise-of) to re-visit [H-centres](https://pubs.acs.org/doi/10.1021/acsenergylett.7b00995). Belfast for the Software Sustainability Institute [collaborations workshop](https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26) to think about how we maintain crucial software infrastructure in a challenging econonmic environment, and the risks and opportunities associated with generative AI. 
