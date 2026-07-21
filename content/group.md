@@ -14,8 +14,8 @@ We are based at Northumbria University in the beautiful North East of England, a
 <big>
 <b>Previous team members</b> </big>
 
-[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *(An)harmonic vibrations in chalcogenide perovskites*    
-Now joining Keith Butler's group at UCL.
+[Dr Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en) - PhD student - *(An)harmonic vibrations in chalcogenide perovskites*    
+Now a research fellow in Keith Butler's group at UCL.
 
 [Dr Michael Jones](https://uk.linkedin.com/in/michael-jones-8a6b6a191) - PhD student - *Interface Engineering in CZTS thin film solar cells* </br>
 Now a physicist at Cavendish Nuclear.
