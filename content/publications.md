@@ -17,7 +17,7 @@ Erik Fransson, Michael Xu, Prakriti Kayastha, Kevin Ye, Ida Sadeghi, Rafael Jara
 [pre-print](https://arxiv.org/abs/2604.13768)
 
 Singing Materials: Initial experiments in applying sonification to phonon spectra</br>
-*In Review*</br>
+*In Press at the Proceedings of the 31st International Conference on Auditory Display*</br>
 Lucy Whalley, Rose Shepherd, Jorge Boehringer, Shelly Knotts, Paul Vickers, George Caselton, Christopher Harrison, Bennett Hogg, Daniel Ratliff, Carol Davenport, Antonio Portas</br>
 [pre-print](https://arxiv.org/abs/2603.29037)
 
