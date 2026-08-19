@@ -10,13 +10,11 @@ categories = []
 
 <big> <b> Summary - Dr Lucy Whalley </b> </big>
 
-<img src="./images/lattice_icon.png" width="30" height="30"> I am a computational materials researcher and Visiting Associate Professor in Physics at Northumbria University in the UK. At Northumbria I led research connecting atomic-scale processes (e.g. electron capture) with material performance (e.g. open circuit voltage).
-
-<img src="./images/coding_icon.png" width="30" height="30"> I co-lead the following projects: the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/) (EPSRC, EP/X035859/1), the [SCALE-UP network](https://scale-up.ac.uk/) (UKRI), and [Sonic Intangibles](https://sonicintangibles.github.io/) (UKRI, MR/Z506448/1).
+<img src="./images/lattice_icon.png" width="30" height="30"> I am a computational materials researcher and Visiting Associate Professor in Physics at Northumbria University in the UK. At Northumbria I led research connecting atomic-scale processes (e.g. electron capture) with material performance (e.g. open circuit voltage) and co-led the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/) (EPSRC, EP/X035859/1), the [SCALE-UP network](https://scale-up.ac.uk/) (UKRI) and [Sonic Intangibles](https://sonicintangibles.github.io/) (UKRI, MR/Z506448/1).
 
 <img src="./images/sharing_icon.png" width="30" height="30"> I am a 2019 fellow of the [Software Sustainability Institute](https://software.ac.uk/about) and an Associate Editor at the [Journal of Open Source Software](https://joss.theoj.org). I am interested in how we can improve research practice in the [computational sciences](https://lucydot.github.io/software/), with a particular interest in how we can work in an open and interdisciplinary way, and how we can best share and publish research software.
 
-<img src="./images/teaching_icon.png" width="30" height="30"> I [teach](http://lucydot.github.io/teaching/) programming, computational physics and quantum mechanics, and co-organise the [Rising Stars workshops](https://www.royce.ac.uk/events/rising-stars-2026/) to support under-represented groups in Materials Science.
+<img src="./images/teaching_icon.png" width="30" height="30"> I have [taught](http://lucydot.github.io/teaching/) programming, computational physics and quantum mechanics, and co-organise the [Rising Stars workshops](https://www.royce.ac.uk/events/rising-stars-2026/) to support under-represented groups in Materials Science.
 
 <img src="./images/baby_icon.png" width="30" height="30"> I am a mum to <strike>1,2,3,4,5</strike> 6 year old Robin, who I am training to be a [world class Hacker](https://twitter.com/lucydotwhalley/status/1358480776841617412/photo/1).
 
