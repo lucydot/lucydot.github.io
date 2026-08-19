@@ -7,7 +7,7 @@ type = "post"
 
 +++
 
-<b>Resources for Researchers and Undergraduate teaching </b>
+<big> <b>Teaching Resources</b></big> </br>
 
 Open Science with the Atomic Simulation Environment </br>
 Course materials [here](https://ase-workshop-2023.github.io/tutorial/) </br>
