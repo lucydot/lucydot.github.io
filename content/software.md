@@ -11,7 +11,7 @@ As a computational scientist a significant part of my time is spent writing code
 
 Most scientists are largely self-taught programmers and usually have little in the way of formal training. However there are some effective strategies for learning, such as teaching basic programming skills ([Software Carpentry](https://carpentries.org/)), or following the [Journal of Open Source Software](https://joss.theoj.org/) review checklist to develop code that can be re-used and cited by other researchers. If your code is used by other researchers you may consider submitting it to JOSS where it will undergo peer review - an excellent way of getting useful feedback.
 
-For researchers who would like to shift their focus more firmly towards software, hardware, compute infrastructure or data, there are emerging career paths with a variety of names: Research Software Engineer, Research Data Engineer, Research Infrastructure Engineer, or (more broadly) Digital Research Technical Professional. We have established the UKRI-funded [SCALE-UP Network](https://scale-up.ac.uk/) to support development of this people pipeline.
+For researchers who would like to shift their focus more firmly towards software, hardware, compute infrastructure or data, there are emerging career paths with a variety of names: Research Software Engineer, Research Data Engineer, Research Infrastructure Engineer, or (more broadly) Digital Research Technical Professional. We established the UKRI-funded [SCALE-UP Network](https://scale-up.ac.uk/) to support development of this people pipeline.
 
 -----
 
