@@ -2,7 +2,7 @@
 categories = []
 tags = []
 date = "2016-03-05T17:12:04+01:00"
-title = "Interdisc."
+title = "Interdisciplinary"
 type = "post"
 
 +++
