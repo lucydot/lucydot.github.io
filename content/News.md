@@ -9,6 +9,10 @@ date = "2012-05-04T13:47:57+01:00"
 
 <b>2026</b></br>
 
+<b> 19th August </b> 
+
+Big News - I will be leaving Northumbria at the end of this month to seek out new opportunities in computing and materials science. It has been six years since finishing my PhD, and I'm very proud of the work we have done over this time (much of which is recorded in the log below). Now it is time for a leap into the unknown! 
+
 <b> 1st July </b> 
 
 I'm at the [Faraday Discussion on emerging materials for optoelectronic applications](https://www.rsc.org/events/find-an-event/emerging-materials-for-optoelectronics-applications-faraday-discussion), as part of the organising team. The first day of discussions on theory and computation have been very interesting - we have seen octahedral tilts, non-radiative transitions in organic materials, and hybrid chalcogenide perovskites (which is where my two favourite materials, BaZrS3 and MAPbI3, have a baby).
