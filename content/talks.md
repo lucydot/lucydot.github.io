@@ -13,7 +13,7 @@ date = "2017-05-05T13:47:56+01:00"
 <br>
 [summer school] <i> Lecture on sampling techniques and phonons </i></br>
 Chalmers Summer School in Atomistic Modelling, Gothenburg, 28th Sep - Oct 2nd 2026 
-</br></br>
+</br>
 
 </br>
 <big>
@@ -21,12 +21,11 @@ Chalmers Summer School in Atomistic Modelling, Gothenburg, 28th Sep - Oct 2nd 20
 </br> 
 
 <b>2026</b>
-
 <br>
 [workshop] <i> Sonification and the Space In-Between: Bridging Scientific Inquiry and Musical
 Practice </i></br>
 International Computer Music Conference, Hamburg, 10th-16th May 2026
-</br></br>
+</br>
 
 [organiser] <i> Faraday Discussion: Emerging Materials for Optoelectronic Applications  </i></br>
 Edinburgh, 1st-3rd July 2026
