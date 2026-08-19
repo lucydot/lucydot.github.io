@@ -1,7 +1,7 @@
 +++
 date = "2017-05-07T13:47:56+01:00"
 tags = []
-title = "'puters"
+title = "Computers"
 type = "post"
 categories = []
 
