@@ -48,7 +48,6 @@ Computational Physics (2nd year UG), Autumn term </br>
 
 Introduction to Programming in Python (1st year UG), Autumn term </br>
 [Website](https://lucydot.github.io/python_novice/) | [Online slides](https://lucydot.github.io/slides/2022_KD4014)
-<b>2023/24</b>
 
 <b>2023/2024</b>
 
