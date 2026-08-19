@@ -2,7 +2,7 @@
 date = "2017-05-08T13:47:56+01:00"
 title = "Research"
 tags = []
-type = "post"
+type = "draft"
 categories = []
 
 +++
