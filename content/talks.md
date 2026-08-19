@@ -10,6 +10,17 @@ date = "2017-05-05T13:47:56+01:00"
  <big>
 <b>Upcoming</b></big></br>  
 
+[summer school] <i> Lecture on sampling techniques and phonons </i></br>
+Chalmers Summer School in Atomistic Modelling, Gothenburg, 28th Sep - Oct 2nd 2026 
+</br></br>
+
+</br>
+<big>
+<b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
+</br> 
+
+<b>2026</b>
+
 <br>
 [workshop] <i> Sonification and the Space In-Between: Bridging Scientific Inquiry and Musical
 Practice </i></br>
@@ -20,13 +31,6 @@ International Computer Music Conference, Hamburg, 10th-16th May 2026
 Edinburgh, 1st-3rd July 2026
 </br>
 [link](https://www.rsc.org/events/detail/80738/emerging-materials-for-optoelectronics-applications-faraday-discussion)
-
-</br>
-<big>
-<b>Past Seminars, Conferences, Public lectures and Outreach</b> </big></br> 
-</br> 
-
-<b>2026</b>
 
 [organiser] <i> Rising Stars in Materials Science </i></br>
 Henry Royce Institute, 30th January
