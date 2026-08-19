@@ -7,21 +7,22 @@ type = "post"
 
 +++
 
-<b>Researchers</b>
+<b>Resources for Researchers and Undergraduate teaching </b>
 
 Open Science with the Atomic Simulation Environment </br>
-Course materials [here](https://ase-workshop-2023.github.io/tutorial/).
+Course materials [here](https://ase-workshop-2023.github.io/tutorial/) </br>
 
 Python for the physical sciences  </br>
-Course materials [here](https://github.com/lucydot/python_novice).
-
-<b>Undergraduates</b>
+Course materials [here](https://github.com/lucydot/python_novice) </br>
 
 Computational Physics </br>
-Course materials [here](https://github.com/NU-CEM/Computational_Physics).
+Course materials [here](https://github.com/NU-CEM/Computational_Physics) </br>
+
+Atomistic Simulation for Quantum and Molecular Optics </br>
+Course materials [here](https://nu-cem.github.io/Atomistic_Simulation/intro.html) </br>
 
 ChooChoo the CHecklist tOOl </br>
-Teaching tool under development [here](https://github.com/lucydot/choochoo).
+Teaching tool under development [here](https://github.com/lucydot/choochoo) </br>
 
 <big> <b>Teaching Log </b></big> </br>
 
