@@ -9,7 +9,7 @@ date = "2012-05-04T13:47:56+01:00"
 
 <big> <b> Personal Summary - Lucy Whalley </b> </big>
 
-<img src="./images/lattice_icon.png" width="30" height="30"> I am an Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/). My [research](https://lucydot.github.io/research/) combines solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage).
+<img src="./images/lattice_icon.png" width="30" height="30"> I am a Visiting Associate Professor at [Northumbria University](https://www.northumbria.ac.uk/about-us/academic-departments/mathematics-physics-and-electrical-engineering/research/). My [research](https://lucydot.github.io/research/) combines solid state physics, quantum chemistry and supercomputers to connect microscopic processes (e.g. electron capture) with material performance (e.g. open circuit voltage).
 
 <img src="./images/coding_icon.png" width="30" height="30"> My currently funded projects as co-lead are: the [Materials Chemistry Consortium](https://mcc.hec.ac.uk/) (EPSRC, EP/X035859/1), the [SCALE-UP network](https://scale-up.ac.uk/) (UKRI), and [Sonic Intangibles](https://sonicintangibles.github.io/) (UKRI, MR/Z506448/1).
 
