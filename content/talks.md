@@ -22,6 +22,7 @@ Chalmers Summer School in Atomistic Modelling, Gothenburg, 28th Sep - Oct 2nd 20
 
 <b>2026</b>
 <br>
+
 [workshop] <i> Sonification and the Space In-Between: Bridging Scientific Inquiry and Musical
 Practice </i></br>
 International Computer Music Conference, Hamburg, 10th-16th May 2026
