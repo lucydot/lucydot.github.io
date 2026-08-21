@@ -1,9 +1,10 @@
+
 +++
+date = "2017-05-06T13:47:56+01:00"
 title = "Talks"
-type = "post"
 categories = []
 tags = []
-date = "2017-05-05T13:47:56+01:00"
+type = "post"
 
 +++
 
