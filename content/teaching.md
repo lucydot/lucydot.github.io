@@ -1,11 +1,12 @@
 +++
-date = "2017-05-06T13:47:56+01:00"
 title = "Teaching"
+type = "post"
 categories = []
 tags = []
-type = "post"
+date = "2017-05-05T13:47:56+01:00"
 
 +++
+
 
 <big> <b>Teaching Resources</b></big> </br>
 
