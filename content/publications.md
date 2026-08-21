@@ -2,7 +2,7 @@
 +++
 date = "2017-05-07T13:47:56+01:00"
 tags = []
-title = "Publications"
+title = "Papers"
 type = "post"
 categories = []
 
