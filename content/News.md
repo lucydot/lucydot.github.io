@@ -12,7 +12,7 @@ categories = []
 
 <b> 19th August </b> 
 
-Big News - I will be leaving Northumbria at the end of this month to seek out new opportunities in computing and technology. It has been six years since finishing my PhD, and I'm very proud of the work we have done over this time (much of which is recorded in the log below). Now it is time for a leap into the unknown! 
+Big News - I will be leaving Northumbria at the end of this month to seek out new opportunities in technology and computing. It has been six years since finishing my PhD, and I'm very proud of the work we have done over this time (much of which is recorded in the log below). Now it is time for a leap into the unknown! 
 
 <b> 1st July </b> 
 
