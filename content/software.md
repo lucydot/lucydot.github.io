@@ -30,11 +30,11 @@ A python package for sonification (data --> sound) of atomistic simulation outpu
 Implements a method for linearly interpolating between two crystal structures, using the Kabsch algorithm for molecular rotation. It's built using the [Atomic Simulation Environment](https://ase-lib.org/) and has been used in a few peer reviewed papers. </br>
 [Repository](https://github.com/NU-CEM/Kabsch_interpolation) | [First applied in this paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c03516)
 
-<i>Vesta_vectors: Visualise atomic displacement</i></br>
+<b>Vesta_vectors: Visualise atomic displacement</b></br>
 A script to visualise atomic displacements, drawing arrows between initial and final atom positions in the Vesta file format. </br>
 [Repository](https://github.com/lucydot/vesta_vectors) | [First applied in this paper](https://doi.org/10.1021/jacs.1c03064) 
 
-<i> Scripts for job submissions, analysis and publications</i></br>
+<b> Scripts for job submissions, analysis and publications</b></br>
 A hodge podge of Python and shell scripts for submitting supercomputer jobs, analysing simulation output, and preparing figures for publications. </br>
 [Repository](https://github.com/lucydot/scripts)
 
