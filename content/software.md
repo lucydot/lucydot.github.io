@@ -11,7 +11,7 @@ categories = []
 <b>Materials Simulation and Analysis</b> </big>  <img src="./images/tora.gif" width="30" height="30">
 
 <b> Effmass: An effective mass package </b></br>
-A Python package that calculates the "effective mass" of charge carriers (how easily electrons move). Built as a modular and extendible code, it interfaces a range of simulation packages. The software paper has been [cited >70 times](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12032412581356217625&as_sdt=5) by other research groups. </br>
+A Python package that calculates the "effective mass" of charge carriers (how easily electrons move). Built as a modular and extendible code, it interfaces with a range of simulation packages. The software paper has been [cited >70 times](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12032412581356217625&as_sdt=5) by other research groups. </br>
 [Repository](https://github.com/lucydot/effmass) | [Software paper](https://doi.org/10.21105/joss.00797)
 
 <b> ThermoPot: An ab-initio thermodynamic modelling package</b></br>
