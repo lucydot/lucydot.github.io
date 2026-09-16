@@ -57,7 +57,7 @@ A Python command-line tool made with artist Richard Scott to trial-run and analy
 [Repository](https://github.com/lucydot/dotspace) | [Info](https://lucydot.github.io/dotspace/)
 
 <b> Dotspace web app (aka Grain Generator) </b></br>
-A browser-based version of the Dotspace art tool, built using [Jupyter](https://jupyter.org/), [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) and [voila](https://voila.readthedocs.io/en/latest/using.html). The app was designed for audiences attending a [multi-site exhibition]((https://richard-scott.info/section/486906-Coventry%20Biennial%202019.html) commissioned as part of [Coventry Biennial](https://www.coventrybiennial.com/). Formely deployed on [Heroku](https://www.heroku.com/), but now unmaintained. </br>
+A browser-based version of the Dotspace art tool, built using [Jupyter](https://jupyter.org/), [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) and [voila](https://voila.readthedocs.io/en/latest/using.html). The app was designed for audiences attending a [multi-site exhibition](https://richard-scott.info/section/486906-Coventry%20Biennial%202019.html) commissioned as part of [Coventry Biennial](https://www.coventrybiennial.com/). Formely deployed on [Heroku](https://www.heroku.com/), but now unmaintained. </br>
 [Repository](https://github.com/lucydot/dotspace_heroku) | [Info](https://lucydot.github.io/dotspace/)
 
 
