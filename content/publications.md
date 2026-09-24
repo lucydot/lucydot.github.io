@@ -12,10 +12,10 @@ Publication lists can also be accessed via [Google Scholar](https://scholar.goog
 
 <b>2026</b> </br>
 
-Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)3 </br>
-*In Review*</br>
+Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)<sub>3</sub> </br>
+*Chemistry of Materials*</br>
 Erik Fransson, Michael Xu, Prakriti Kayastha, Kevin Ye, Ida Sadeghi, Rafael Jaramillo, James M. LeBeau, Lucy Whalley, Paul Erhart</br>
-[pre-print](https://arxiv.org/abs/2604.13768)
+[DOI:10.1021/acs.chemmater.6c01949](https://doi.org/10.1021/acs.chemmater.6c01949) | Open Access</br>
 
 Singing Materials: Initial experiments in applying sonification to phonon spectra</br>
 *In Press at the Proceedings of the 31st International Conference on Auditory Display*</br>
@@ -29,12 +29,12 @@ Diverse polymorphism in Ruddlesden-Popper chalcogenides</br>
 Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
 [DOI:10.1103/f4kv-pk93](https://journals.aps.org/prl/abstract/10.1103/f4kv-pk93) | [pre-print](https://doi.org/10.48550/arXiv.2507.11300)
 
-Thermodynamic Insights into the Ba-S system for the Formation of BaZrS3 Perovskites and other Ba-sulfides</br>
+Thermodynamic Insights into the Ba-S system for the Formation of BaZrS<sub>3</sub> Perovskites and other Ba-sulfides</br>
 *Journal of Materials Chemistry A*</br>
 Corrado Comparotto, Lucy D. Whalley, Kostiantyn Sopiha, Robert J.W. Frost, Tomas Kubart, and Jonathan J. S. Scragg</br>
 [DOI:10.1039/D5TA00798D](https://doi.org/10.1039/D5TA00798D) | Open Access</br>
 
-Octahedral tilt-driven phase transitions in BaZrS3 chalcogenide perovskite</br> 
+Octahedral tilt-driven phase transitions in BaZrS<sub>3</sub> chalcogenide perovskite</br> 
 *Journal of Physical Chemistry Letters*</br>
 Prakriti Kayastha, Erik Fransson, Paul Erhart, Lucy D. Whalley</br>
 [DOI:10.1021/acs.jpclett.4c03517](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03517) | Open Access</br>
@@ -111,7 +111,7 @@ Sunghyun Kim, Samantha N. Hood, Puck van Gerwen, Lucy D. Whalley, Aron Walsh</br
 
 <b>2019</b>
 
-Intrinsic doping limit and defect-assisted luminescence in Cs4PbBr6</br>
+Intrinsic doping limit and defect-assisted luminescence in Cs<sub>4</sub>PbBr<sub>6</sub></br>
 *Journal of Materials Chemistry A*</br>
 Young-Kwang Jung, Joaquin Calbo, Ji-Sang Park, Lucy D. Whalley, Sunghyun Kim, Aron Walsh</br>
 [DOI:10.1039/C9TA06874K](https:dx.doi.org/10.1039/C9TA06874K) |
@@ -160,7 +160,7 @@ Lucy D. Whalley, Jarvist M. Frost, Young-Kwang Jung, Aron Walsh</br>
 
 <b>2016</b>
 
-Phonon anharmonicity, lifetimes and thermal transport in CH3NH3PbI3 from many-body perturbation theory</br>
+Phonon anharmonicity, lifetimes and thermal transport in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> from many-body perturbation theory</br>
 *Physical Review B*</br>
 Lucy D. Whalley, Jonathan M. Skelton, Jarvist M. Frost, Aron Walsh</br>
 [DOI:10.1103/PhysRevB.94.220301](https:dx.doi.org/10.1103/PhysRevB.94.220301) | 
