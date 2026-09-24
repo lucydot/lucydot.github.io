@@ -10,6 +10,10 @@ categories = []
 
 <b>2026</b></br>
 
+<b> 24th September </b> 
+
+We have a new paper out in Chemistry of Materials: [*Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)<sub>3</sub>*](https://doi.org/10.1021/acs.chemmater.6c01949). This is the latest in a series of papers we have published using machine-learned interatomic potentials for large-scale, high-accuracy atomistic simulations. The particularly nice thing about this work is that our experimental collaborators at MIT independently observed the unusual atomic-scale ordering that our models had predicted.
+
 <b> 19th August </b> 
 
 Big News - I will be leaving Northumbria at the end of this month to seek out new opportunities in technology and computing. It has been six years since finishing my PhD, and I'm very proud of the work we have done over this time (much of which is recorded in the log below). Now it is time for a leap into the unknown! 
