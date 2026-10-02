@@ -10,6 +10,10 @@ categories = []
 
 <b>2026</b></br>
 
+<b> 2nd October </b>
+
+Wrapping up an excellent week at [CHASAM](https://chasam.materialsmodeling.org/) (chalmers school on atomistic modelling). It’s covered a lot of ground: [Neuroevolution Potentials](https://gpumd.org/potentials/nep.html), path integral molecular dynamics, sampling, disorder, and predicting experimental signatures. My lecture highlighted how, despite all the recent progress, perturbative expansions of the potential energy surface (phonons!) can still be useful. Thank you to the organisers for inviting me to be part of a great school.
+
 <b> 24th September </b> 
 
 We have a new paper out in Chemistry of Materials: [*Anion Ordering and Phase Stability Govern Optical Band Gaps in BaZr(S,Se)<sub>3</sub>*](https://doi.org/10.1021/acs.chemmater.6c01949). This is the latest in a series of papers we have published using machine-learned interatomic potentials for large-scale, high-accuracy atomistic simulations. The particularly nice thing about this work is that our experimental collaborators at MIT independently observed the unusual atomic-scale ordering that our models had predicted. [Dr Erik Fransson](https://materialsmodeling.org/people/erik-fransson/) in the Computational Materials Group at Chalmers led the study.
