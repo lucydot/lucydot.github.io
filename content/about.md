@@ -35,6 +35,7 @@ Education:
   - Received the SWJ Smith award for ranking first in my physics cohort
  
 Employment:
+- Visiting Research Fellow in Physics // Northumbria University // 2026-current
 - Associate Professor in Physics // Northumbria University // 2025-2026
 - Assistant Professor in Physics // Northumbria University // 2020-2025
 - Research Assistant // Imperial College London // 2019-2020
